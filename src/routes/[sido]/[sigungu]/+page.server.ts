@@ -1,14 +1,16 @@
 import { sigungu } from '$lib/region';
-import { error, json } from '@sveltejs/kit';
+import { error } from '@sveltejs/kit';
 import {
 	generateRequest,
 	trimEducationSchedule,
 	type EducationSchedule,
 	type ResponseBody
 } from '.';
-import type { RequestHandler } from './$types';
+import type { PageServerLoad } from './$types';
 
-export const GET = (async ({ params, fetch }) => {
+export const prerender = true;
+
+export const load: PageServerLoad = async ({ params, fetch }) => {
 	if (
 		!(params.sido in sigungu) ||
 		!(params.sigungu in sigungu[params.sido as unknown as keyof typeof sigungu])
@@ -38,5 +40,5 @@ export const GET = (async ({ params, fetch }) => {
 		}
 	}
 
-	return json(list);
-}) satisfies RequestHandler;
+	return { list };
+};

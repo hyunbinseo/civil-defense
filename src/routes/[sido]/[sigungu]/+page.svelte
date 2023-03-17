@@ -4,4 +4,4 @@
 	export let data: PageData;
 </script>
 
-<pre>{JSON.stringify(data, null, 2)}</pre>
+<pre>{JSON.stringify(data.list, null, 2)}</pre>
