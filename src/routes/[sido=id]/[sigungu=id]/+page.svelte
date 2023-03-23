@@ -1,40 +1,23 @@
 <script lang="ts">
-	import Calendar from '$lib/components/Calendar.svelte';
-	import { generateMatrix } from './matrix';
+	import type { PageData } from './$types';
 
-	const padNumber = (number: number) => number.toString().padStart(2, '0');
+	export let data: PageData;
+
+	let selectedTarget: string;
+
+	$: filteredSchedules = data.schedules.filter(
+		({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget
+	);
 </script>
 
-<Calendar>
-	{@const year = 2023}
-	{@const month = 3}
-	{#each generateMatrix(year, month) as week}
-		<tr>
-			{#each week as day}
-				<td>
-					{#if day}
-						<div>
-							<time datetime="{year}-{padNumber(month)}-{padNumber(day)}">{day}</time>
-						</div>
-					{/if}
-				</td>
-			{/each}
-		</tr>
-	{/each}
-</Calendar>
+<span>연차를 선택해주세요.</span>
 
-<style>
-	td {
-		color: rgb(156 163 175);
-	}
-	td:first-child {
-		color: #f87171;
-	}
-	td > div {
-		height: 100%;
-		width: 100%;
-		display: flex;
-		justify-content: flex-end;
-		align-items: center;
-	}
-</style>
+<select bind:value={selectedTarget}>
+	{#each data.targets as target}
+		<option>{target}</option>
+	{/each}
+</select>
+
+{#each filteredSchedules as schedule}
+	<pre>{JSON.stringify(schedule, null, 2)}</pre>
+{/each}
