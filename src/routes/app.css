@@ -7,3 +7,16 @@
 body {
 	font-family: 'SUIT', sans-serif;
 }
+
+html,
+body,
+body > div {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+body > div {
+	display: flex;
+	flex-direction: column;
+}
