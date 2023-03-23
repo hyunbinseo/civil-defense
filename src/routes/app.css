@@ -1,3 +1,9 @@
+@import url('https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	font-family: 'SUIT', sans-serif;
+}
