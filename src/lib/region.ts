@@ -327,11 +327,15 @@ export const generateList = () => {
 		sigungu: [string, string][];
 	}> = [];
 
-	for (const sido of sidoData)
-		list.push({
-			sido,
-			sigungu: Object.entries(sigunguData[sido[0]])
+	for (const sido of sidoData) {
+		const sigungu = Object.entries(sigunguData[sido[0]]).sort(([, a], [, b]) => {
+			if (a < b) return -1;
+			if (a > b) return 1;
+			return 0;
 		});
+
+		list.push({ sido, sigungu });
+	}
 
 	return list;
 };
