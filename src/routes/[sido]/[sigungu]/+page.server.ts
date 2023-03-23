@@ -1,3 +1,4 @@
+import { dev } from '$app/environment';
 import { sigungu } from '$lib/region';
 import { error } from '@sveltejs/kit';
 import {
@@ -7,6 +8,7 @@ import {
 	type ResponseBody
 } from '.';
 import type { PageServerLoad } from './$types';
+import sample from './sample.json' assert { type: 'json' };
 
 export const prerender = true;
 
@@ -16,6 +18,8 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		!(params.sigungu in sigungu[params.sido as unknown as keyof typeof sigungu])
 	)
 		throw error(404);
+
+	if (dev) return { list: sample };
 
 	const initialResponse = await fetch(generateRequest(params, 1));
 
