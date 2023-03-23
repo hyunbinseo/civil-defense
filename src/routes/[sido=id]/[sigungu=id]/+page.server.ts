@@ -5,6 +5,7 @@ import {
 	generateRequest,
 	trimEducationSchedule,
 	type EducationSchedule,
+	type FullEducationSchedule,
 	type ResponseBody
 } from '.';
 import type { PageServerLoad } from './$types';
@@ -17,7 +18,19 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	if (!isSidoId(sidoId) || !(params.sigungu in sigunguData[sidoId])) throw error(404);
 
-	if (dev) return { list: sample };
+	if (dev) return sample;
+
+	const educationTargetSet = new Set<string>();
+	const scheduleSet = new Set<string>();
+
+	const addToSet = (scheduleList: FullEducationSchedule[]) => {
+		for (const schedule of scheduleList) {
+			educationTargetSet.add(schedule.EDU_TGT_SE_NM);
+			const trimmed = trimEducationSchedule(schedule);
+			const stringified = JSON.stringify(trimmed);
+			scheduleSet.add(stringified);
+		}
+	};
 
 	const initialResponse = await fetch(generateRequest(params, 1));
 
@@ -28,7 +41,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		rtnResult: { pageSize }
 	} = (await initialResponse.json()) as ResponseBody;
 
-	const list: EducationSchedule[] = eduShcList.map(trimEducationSchedule);
+	addToSet(eduShcList);
 
 	if (pageSize > 1) {
 		for (let i = 1; i < pageSize + 1; i += 1) {
@@ -38,9 +51,23 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 			const { eduShcList } = (await response.json()) as ResponseBody;
 
-			list.push(...eduShcList.map(trimEducationSchedule));
+			addToSet(eduShcList);
 		}
 	}
 
-	return { list };
+	const targets = (() => {
+		const value = '신편대원';
+		const deleted = educationTargetSet.delete(value);
+		const targets = Array.from(educationTargetSet).sort();
+		if (deleted) targets.unshift(value);
+		return targets;
+	})();
+
+	const schedules = eval(
+		`[${Array.from(scheduleSet)
+			.map((value, index) => value.replace(/}$/, `,"LOCAL_ID":${index}}`))
+			.join(',')}]`
+	) as Array<EducationSchedule>;
+
+	return { targets, schedules };
 };

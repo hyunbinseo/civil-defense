@@ -53,7 +53,7 @@ export const generateRequest = (
 		method: 'POST'
 	});
 
-type FullEducationSchedule = {
+export type FullEducationSchedule = {
 	edcBeginTime: string;
 	edcSeNm: string;
 	TEL_NO: string;
@@ -98,7 +98,7 @@ export type EducationSchedule = Pick<
 	| 'EDU_PLC_BOTTOM'
 	| 'CVD_EDU_SE_NM'
 	| 'EDU_TGT_SE_NM'
->;
+> & { LOCAL_ID: number };
 
 export const trimEducationSchedule = ({
 	TEL_NO,
