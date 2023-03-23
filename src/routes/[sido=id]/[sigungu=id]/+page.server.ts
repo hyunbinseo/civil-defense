@@ -1,5 +1,5 @@
 import { dev } from '$app/environment';
-import { sigungu } from '$lib/region';
+import { isSidoId, sigungu } from '$lib/region';
 import { error } from '@sveltejs/kit';
 import {
 	generateRequest,
@@ -13,11 +13,9 @@ import sample from './sample.json' assert { type: 'json' };
 export const prerender = true;
 
 export const load: PageServerLoad = async ({ params, fetch }) => {
-	if (
-		!(params.sido in sigungu) ||
-		!(params.sigungu in sigungu[params.sido as unknown as keyof typeof sigungu])
-	)
-		throw error(404);
+	const sidoId = Number(params.sido);
+
+	if (!isSidoId(sidoId) || !(params.sigungu in sigungu[sidoId])) throw error(404);
 
 	if (dev) return { list: sample };
 

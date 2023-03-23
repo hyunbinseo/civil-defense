@@ -18,7 +18,9 @@ export const sido = {
 	6500000: '제주특별자치도'
 } satisfies Record<number, string>;
 
-export const sigungu = {
+type SidoId = keyof typeof sido;
+
+export const sigungu: Record<SidoId, Record<number, string>> = {
 	6110000: {
 		3000000: '종로구',
 		3010000: '중구',
@@ -298,4 +300,6 @@ export const sigungu = {
 		5670206: '창원시 진해구'
 	},
 	6500000: { 6510000: '제주시', 6520000: '서귀포시' }
-} satisfies Record<keyof typeof sido, Record<number, string>>;
+};
+
+export const isSidoId = (id: number): id is SidoId => id in sigungu;
