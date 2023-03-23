@@ -1,26 +1,25 @@
-export const sido = {
-	6110000: '서울특별시',
-	6260000: '부산광역시',
-	6270000: '대구광역시',
-	6280000: '인천광역시',
-	6290000: '광주광역시',
-	6300000: '대전광역시',
-	6310000: '울산광역시',
-	5690000: '세종특별자치시',
-	6410000: '경기도',
-	6420000: '강원도',
-	6430000: '충청북도',
-	6440000: '충청남도',
-	6450000: '전라북도',
-	6460000: '전라남도',
-	6470000: '경상북도',
-	6480000: '경상남도',
-	6500000: '제주특별자치도'
-} satisfies Record<number, string>;
+type SidoId =
+	| 6110000
+	| 6260000
+	| 6270000
+	| 6280000
+	| 6290000
+	| 6300000
+	| 6310000
+	| 5690000
+	| 6410000
+	| 6420000
+	| 6430000
+	| 6440000
+	| 6450000
+	| 6460000
+	| 6470000
+	| 6480000
+	| 6500000;
 
-type SidoId = keyof typeof sido;
+export const isSidoId = (id: number): id is SidoId => id in sigunguData;
 
-export const sigungu: Record<SidoId, Record<number, string>> = {
+export const sigunguData: Record<SidoId, Record<number, string>> = {
 	6110000: {
 		3000000: '종로구',
 		3010000: '중구',
@@ -302,4 +301,37 @@ export const sigungu: Record<SidoId, Record<number, string>> = {
 	6500000: { 6510000: '제주시', 6520000: '서귀포시' }
 };
 
-export const isSidoId = (id: number): id is SidoId => id in sigungu;
+const sidoData = new Map<SidoId, string>([
+	[6110000, '서울특별시'],
+	[6260000, '부산광역시'],
+	[6270000, '대구광역시'],
+	[6280000, '인천광역시'],
+	[6290000, '광주광역시'],
+	[6300000, '대전광역시'],
+	[6310000, '울산광역시'],
+	[5690000, '세종특별자치시'],
+	[6410000, '경기도'],
+	[6420000, '강원도'],
+	[6430000, '충청북도'],
+	[6440000, '충청남도'],
+	[6450000, '전라북도'],
+	[6460000, '전라남도'],
+	[6470000, '경상북도'],
+	[6480000, '경상남도'],
+	[6500000, '제주특별자치도']
+]);
+
+export const generateList = () => {
+	const list: Array<{
+		sido: [SidoId, string];
+		sigungu: [string, string][];
+	}> = [];
+
+	for (const sido of sidoData)
+		list.push({
+			sido,
+			sigungu: Object.entries(sigunguData[sido[0]])
+		});
+
+	return list;
+};
