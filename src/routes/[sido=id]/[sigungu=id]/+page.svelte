@@ -10,7 +10,7 @@
 	);
 </script>
 
-<div class="sticky top-0 bg-white p-6">
+<div class="sticky top-0 bg-white py-6">
 	<span>연차</span>
 	<select bind:value={selectedTarget}>
 		{#each data.targets as target}
@@ -19,7 +19,7 @@
 	</select>
 </div>
 
-<div class="flex-1 space-y-6 overflow-y-auto p-6 pt-0">
+<div class="flex-1 space-y-6 overflow-y-auto py-6 pt-0">
 	{#each filteredSchedules as schedule}
 		<ul>
 			<li>날짜: {schedule.ED_YMD}</li>
