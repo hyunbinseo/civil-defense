@@ -15,8 +15,3 @@ body > div {
 	width: 100%;
 	overflow: hidden;
 }
-
-body > div {
-	display: flex;
-	flex-direction: column;
-}
