@@ -301,7 +301,7 @@ export const sigunguData: Record<SidoId, Record<number, string>> = {
 	6500000: { 6510000: '제주시', 6520000: '서귀포시' }
 };
 
-const sidoData = new Map<SidoId, string>([
+export const sidoData = new Map<SidoId, string>([
 	[6110000, '서울특별시'],
 	[6260000, '부산광역시'],
 	[6270000, '대구광역시'],

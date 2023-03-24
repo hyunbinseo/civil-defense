@@ -1,5 +1,5 @@
 import { dev } from '$app/environment';
-import { isSidoId, sigunguData } from '$lib/region';
+import { isSidoId, sidoData, sigunguData } from '$lib/region';
 import { error } from '@sveltejs/kit';
 import {
 	generateRequest,
@@ -15,10 +15,13 @@ export const prerender = true;
 
 export const load: PageServerLoad = async ({ params, fetch }) => {
 	const sidoId = Number(params.sido);
+	const sigunguId = Number(params.sigungu);
 
-	if (!isSidoId(sidoId) || !(params.sigungu in sigunguData[sidoId])) throw error(404);
+	if (!isSidoId(sidoId) || !(sigunguId in sigunguData[sidoId])) throw error(404);
 
-	if (dev) return sample;
+	const regionText = `${sidoData.get(sidoId)} ${sigunguData[sidoId][sigunguId]}`;
+
+	if (dev) return { ...sample, regionText };
 
 	const educationTargetSet = new Set<string>();
 	const scheduleSet = new Set<string>();
@@ -69,5 +72,5 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 			.join(',')}]`
 	) as Array<EducationSchedule>;
 
-	return { targets, schedules };
+	return { targets, schedules, regionText };
 };
