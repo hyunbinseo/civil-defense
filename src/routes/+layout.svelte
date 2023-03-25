@@ -22,7 +22,7 @@
 	<title>{$page.data.regionText || '지역 선택'} - {heading}</title>
 </svelte:head>
 
-<div class="flex flex-1 flex-col bg-white p-6 sm:max-w-screen-sm">
+<div class="flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
 	<header class="mt-6 flex flex-col-reverse">
 		<h1 class="mt-1 text-2xl font-bold">{heading}</h1>
 		<div class="flex">
@@ -43,23 +43,25 @@
 			class="flex flex-col max-sm:flex-1 sm:w-60"
 			class:max-sm:hidden={$page.url.pathname !== '/'}
 		>
-			<div class="max-sm:text-md flex-1 divide-y overflow-y-auto border">
-				{#each generateList() as { sido: [sidoId, sidoText], sigungu }}
-					<details>
-						<summary>{sidoText}</summary>
-						<ul>
-							{#each sigungu as [sigunguId, sigunguText]}
-								{@const href = `/${sidoId}/${sigunguId}`}
-								<li>
-									<a {href} class:text-indigo-700={href === $page.url.pathname}>
-										{sidoText}
-										{sigunguText}
-									</a>
-								</li>
-							{/each}
-						</ul>
-					</details>
-				{/each}
+			<div class="max-sm:text-md flex-1 overflow-y-auto">
+				<div class="mb-6 divide-y border">
+					{#each generateList() as { sido: [sidoId, sidoText], sigungu }}
+						<details>
+							<summary>{sidoText}</summary>
+							<ul>
+								{#each sigungu as [sigunguId, sigunguText]}
+									{@const href = `/${sidoId}/${sigunguId}`}
+									<li>
+										<a {href} class:text-indigo-700={href === $page.url.pathname}>
+											{sidoText}
+											{sigunguText}
+										</a>
+									</li>
+								{/each}
+							</ul>
+						</details>
+					{/each}
+				</div>
 			</div>
 		</div>
 		<!-- Column -->
