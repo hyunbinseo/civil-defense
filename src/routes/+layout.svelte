@@ -20,11 +20,11 @@
 		}
 	});
 
-	const now = new Date(import.meta.env.VITE_NOW); // Rendered time in SSG
+	const now = new Date(import.meta.env.VITE_NOW);
 	const heading = `${now.getFullYear()}년도 민방위 교육 일정`;
 
 	const modalMessages = [
-		`본 웹사이트는 '행정안전부'에서 운영하는 '국민 재난 안전 포털'에 등록된 민방위 교육 일정을 불러와 제공하는 개인 웹사이트입니다.`,
+		`행정안전부의 '국민 재난 안전 포털'에 등록된 전국 민방위 교육 일정을 정기적으로 불러와 제공하는 공익 목적의 개인 웹사이트입니다.`,
 		'민방위 소집 교육은 전국 어디서든 이수할 수 있습니다. 별도의 변경 신청 없이, 신분증과 통지서를 챙겨서 교육장을 방문하면 됩니다.'
 	];
 </script>
@@ -35,7 +35,7 @@
 
 <div class="relative flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
 	<a
-		href="https://github.com/hyunbinseo/civil-defense"
+		href="https://github.com/hyunbinseo/civil-defense#README"
 		aria-label="GitHub 저장소"
 		class="absolute top-0 right-0"
 	>
@@ -92,7 +92,9 @@
 	<form method="dialog">
 		<header class="mt-1">
 			<h1 class="text-2xl font-bold">필수 안내 사항</h1>
-			<p class="mt-1 text-sm">{now.toLocaleDateString()}에 최종 갱신되었습니다.</p>
+			<p class="mt-2 text-sm">
+				<time datetime={now.toISOString()}>{now.toLocaleString()}</time> 갱신
+			</p>
 		</header>
 		<div class="mt-7 space-y-4">
 			{#each modalMessages as textContent}
