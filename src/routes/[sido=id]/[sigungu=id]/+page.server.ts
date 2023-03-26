@@ -14,6 +14,8 @@ import sample from './sample.json' assert { type: 'json' };
 export const prerender = true;
 
 export const load: PageServerLoad = async ({ params, fetch }) => {
+	const t0 = performance.now();
+
 	const sidoId = Number(params.sido);
 	const sigunguId = Number(params.sigungu);
 
@@ -22,6 +24,17 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 	const regionText = `${sidoData.get(sidoId)} ${sigunguData[sidoId][sigunguId]}`;
 
 	if (dev) return { ...sample, regionText };
+
+	const baseText = `fetching ${regionText}`;
+	const baseTextLength = baseText.length + regionText.length - 1;
+
+	process.stdout.write(baseText);
+
+	const updateTerminal = (content: string) => {
+		process.stdout.cursorTo(baseTextLength);
+		process.stdout.clearLine(1);
+		process.stdout.write(content);
+	};
 
 	const educationTargetSet = new Set<string>();
 	const scheduleSet = new Set<string>();
@@ -35,9 +48,11 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		}
 	};
 
+	updateTerminal(' (1/?)');
+
 	const initialResponse = await fetch(generateRequest(params, 1));
 
-	if (!initialResponse.ok) throw error(500);
+	if (!initialResponse.ok) throw error(initialResponse.status);
 
 	const {
 		eduShcList,
@@ -46,16 +61,16 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	addToSet(eduShcList);
 
-	if (pageSize > 1) {
-		for (let i = 1; i < pageSize + 1; i += 1) {
-			const response = await fetch(generateRequest(params, i));
+	for (let i = 2; i <= pageSize; i += 1) {
+		updateTerminal(` (${i}/${pageSize})`);
 
-			if (!response.ok) throw error(500);
+		const response = await fetch(generateRequest(params, i));
 
-			const { eduShcList } = (await response.json()) as ResponseBody;
+		if (!response.ok) throw error(response.status);
 
-			addToSet(eduShcList);
-		}
+		const { eduShcList } = (await response.json()) as ResponseBody;
+
+		addToSet(eduShcList);
 	}
 
 	const targets = (() => {
@@ -67,6 +82,10 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 	})();
 
 	const schedules = eval(`[${Array.from(scheduleSet).join(',')}]`) as Array<EducationSchedule>;
+
+	const t1 = performance.now();
+
+	updateTerminal(` - ${Math.round(t1 - t0)}ms\n`);
 
 	return { targets, schedules, regionText };
 };
