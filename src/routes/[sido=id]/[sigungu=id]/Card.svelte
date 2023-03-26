@@ -14,7 +14,7 @@
 
 	export let schedule: EducationSchedule;
 
-	let expanded = false;
+	export let expanded = false;
 
 	onMount(() => {
 		collapseFns.add(() => (expanded = false));
