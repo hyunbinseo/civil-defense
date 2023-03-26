@@ -1,4 +1,13 @@
+<script context="module" lang="ts">
+	const collapseFns = new Set<() => void>();
+
+	export const collapseAll = () => {
+		for (const collapseFn of collapseFns) collapseFn();
+	};
+</script>
+
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 	import type { EducationSchedule } from '.';
 	import { convertDate, convertDay, convertTime } from './convert';
@@ -7,6 +16,10 @@
 
 	let expanded = false;
 
+	onMount(() => {
+		collapseFns.add(() => (expanded = false));
+	});
+
 	const date = convertDate(schedule.ED_YMD);
 	const startTime = convertTime(schedule.EDU_ST_TM);
 	const endTime = convertTime(schedule.EDU_END_TM);
@@ -14,7 +27,12 @@
 	const telHref = `tel:+82${schedule.TEL_NO.substring(1).replace(/-/g, '')}`;
 </script>
 
-<button on:click={() => (expanded = !expanded)}>
+<button
+	on:click={() => {
+		collapseAll();
+		expanded = true;
+	}}
+>
 	<div class="flex">
 		<div class="flex-1">
 			<div class="font-bold">
