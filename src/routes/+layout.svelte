@@ -20,7 +20,7 @@
 		}
 	});
 
-	const now = new Date(); // Rendered time in SSG
+	const now = new Date(import.meta.env.VITE_NOW); // Rendered time in SSG
 	const heading = `${now.getFullYear()}년도 민방위 교육 일정`;
 
 	const modalMessages = [
