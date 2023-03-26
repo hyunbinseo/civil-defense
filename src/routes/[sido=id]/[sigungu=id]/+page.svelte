@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { beforeNavigate } from '$app/navigation';
 	import { slide } from 'svelte/transition';
 	import type { PageData } from './$types';
 	import Card from './Card.svelte';
@@ -7,6 +8,8 @@
 
 	let list: HTMLDivElement;
 	let selectedTarget = '';
+
+	beforeNavigate(() => (selectedTarget = ''));
 
 	$: filteredSchedules = !selectedTarget
 		? []
