@@ -66,11 +66,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		return targets;
 	})();
 
-	const schedules = eval(
-		`[${Array.from(scheduleSet)
-			.map((value, index) => value.replace(/}$/, `,"LOCAL_ID":${index}}`))
-			.join(',')}]`
-	) as Array<EducationSchedule>;
+	const schedules = eval(`[${Array.from(scheduleSet).join(',')}]`) as Array<EducationSchedule>;
 
 	return { targets, schedules, regionText };
 };

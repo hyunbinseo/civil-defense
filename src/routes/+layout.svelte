@@ -37,35 +37,33 @@
 			>
 		</div>
 	</header>
-	<div class="mt-8 flex flex-1 gap-x-6 overflow-hidden">
+	<div class="mt-8 flex flex-1 gap-x-6 overflow-y-hidden">
 		<!-- Column: Select Region -->
 		<div
-			class="flex flex-col max-sm:flex-1 sm:w-60"
+			class="overflow-y-auto max-sm:flex-1 sm:w-60"
 			class:max-sm:hidden={$page.url.pathname !== '/'}
 		>
-			<div class="max-sm:text-md flex-1 overflow-y-auto">
-				<div class="mb-6 divide-y border">
-					{#each generateList() as { sido: [sidoId, sidoText], sigungu }}
-						<details>
-							<summary>{sidoText}</summary>
-							<ul>
-								{#each sigungu as [sigunguId, sigunguText]}
-									{@const href = `/${sidoId}/${sigunguId}`}
-									<li>
-										<a {href} class:text-indigo-700={href === $page.url.pathname}>
-											{sidoText}
-											{sigunguText}
-										</a>
-									</li>
-								{/each}
-							</ul>
-						</details>
-					{/each}
-				</div>
+			<div class="mb-6 divide-y border">
+				{#each generateList() as { sido: [sidoId, sidoText], sigungu }}
+					<details>
+						<summary>{sidoText}</summary>
+						<ul>
+							{#each sigungu as [sigunguId, sigunguText]}
+								{@const href = `/${sidoId}/${sigunguId}`}
+								<li>
+									<a {href} class:text-indigo-700={href === $page.url.pathname}>
+										{sidoText}
+										{sigunguText}
+									</a>
+								</li>
+							{/each}
+						</ul>
+					</details>
+				{/each}
 			</div>
 		</div>
 		<!-- Column -->
-		<div class="flex flex-1 flex-col" class:max-sm:hidden={$page.url.pathname === '/'}>
+		<div class="flex-1" class:max-sm:hidden={$page.url.pathname === '/'}>
 			<slot />
 		</div>
 	</div>
