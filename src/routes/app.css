@@ -8,6 +8,11 @@ body {
 	font-family: 'SUIT', sans-serif;
 }
 
+body,
+dialog {
+	user-select: none;
+}
+
 html,
 body,
 body > div {
