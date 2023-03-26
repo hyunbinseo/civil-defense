@@ -29,7 +29,7 @@
 </script>
 
 <svelte:head>
-	<title>{$page.data.regionText || '지역 선택'} - {heading}</title>
+	<title>{[$page.data.regionText, heading].filter((v) => v).join(' - ')}</title>
 </svelte:head>
 
 <div class="flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
