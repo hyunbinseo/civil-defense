@@ -7,7 +7,6 @@
 </script>
 
 <script lang="ts">
-	import { beforeNavigate } from '$app/navigation';
 	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 	import type { EducationSchedule } from '.';
@@ -20,8 +19,6 @@
 	onMount(() => {
 		collapseFns.add(() => (expanded = false));
 	});
-
-	beforeNavigate(collapseAll);
 
 	const date = convertDate(schedule.ED_YMD);
 	const startTime = convertTime(schedule.EDU_ST_TM);

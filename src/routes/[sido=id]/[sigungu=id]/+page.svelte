@@ -1,5 +1,6 @@
 <script lang="ts">
-	import { beforeNavigate } from '$app/navigation';
+	import { afterNavigate } from '$app/navigation';
+	import { page } from '$app/stores';
 	import { slide } from 'svelte/transition';
 	import type { PageData } from './$types';
 	import Card from './Card.svelte';
@@ -9,7 +10,12 @@
 	let list: HTMLDivElement;
 	let selectedTarget = '';
 
-	beforeNavigate(() => (selectedTarget = ''));
+	afterNavigate(() => {
+		for (const { EDU_TGT_SE_NM } of data.schedules) {
+			if (EDU_TGT_SE_NM === selectedTarget) return;
+		}
+		selectedTarget = '';
+	});
 
 	$: filteredSchedules = !selectedTarget
 		? []
@@ -41,7 +47,7 @@
 	{#if filteredSchedules.length}
 		<div bind:this={list} class="flex-1 overflow-y-auto">
 			<div class="mb-6 flex flex-col divide-y border">
-				{#each filteredSchedules as schedule}
+				{#each filteredSchedules as schedule, index (`${$page.url.pathname}-${selectedTarget}-${index}`)}
 					<Card {schedule} />
 				{/each}
 			</div>
