@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/environment';
 	import { page } from '$app/stores';
+	import Octocat from '$lib/components/Octocat.svelte';
 	import { generateList } from '$lib/region';
 	import { onMount } from 'svelte';
 	import './app.css';
@@ -32,7 +33,14 @@
 	<title>{[$page.data.regionText, heading].filter((v) => v).join(' - ')}</title>
 </svelte:head>
 
-<div class="flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
+<div class="relative flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
+	<a
+		href="https://github.com/hyunbinseo/civil-defense"
+		aria-label="GitHub 저장소"
+		class="absolute top-0 right-0"
+	>
+		<Octocat />
+	</a>
 	<header class="mt-6 flex flex-col-reverse">
 		<h1 class="mt-1 text-2xl font-bold">{heading}</h1>
 		<div class="flex items-center">
