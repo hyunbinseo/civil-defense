@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { slide } from 'svelte/transition';
 	import type { PageData } from './$types';
-	import { convertDate, convertDay, convertTime } from './convert';
+	import Card from './Card.svelte';
 
 	export let data: PageData;
 
@@ -29,7 +29,7 @@
 	</select>
 
 	{#if selectedTarget.match(/[3-5]/)}
-		<p class="border border-red-700 p-4 text-red-700" transition:slide>
+		<p class="border border-red-700 p-4 text-red-700" transition:slide|local>
 			3년 차 이상은 사이버 교육으로 진행되며, 반드시 본인이 속한 지자체의 안내에 따라 이수하셔야
 			합니다. (타 시군구 교육 참여 불가)
 		</p>
@@ -37,28 +37,9 @@
 
 	{#if filteredSchedules.length}
 		<div bind:this={list} class="flex-1 overflow-y-auto">
-			<div class="mb-6 divide-y border">
-				{#each filteredSchedules as { ED_YMD, TEL_NO, EDU_ST_TM, EDU_END_TM, EDU_PLC_RDN_ADDR, EDU_PLC_BOTTOM }}
-					{@const date = convertDate(ED_YMD)}
-					{@const startTime = convertTime(EDU_ST_TM)}
-					{@const endTime = convertTime(EDU_END_TM)}
-					{@const address = EDU_PLC_RDN_ADDR.replace(/ \(.+동\)$/, '')}
-					<ul class="select-text p-4">
-						<li>
-							<time datetime={date}>{date} ({convertDay(date)})</time>
-						</li>
-						<li>
-							<time datetime={startTime}>{startTime}</time> ~
-							<time datetime={endTime}>{endTime}</time>
-						</li>
-						<li>
-							<a href={encodeURI(`https://map.naver.com/v5/search/${address}`)} target="_blank">
-								{address}
-							</a>
-						</li>
-						<li>{EDU_PLC_BOTTOM}</li>
-						<li>{TEL_NO}</li>
-					</ul>
+			<div class="mb-6 flex flex-col divide-y border">
+				{#each filteredSchedules as schedule}
+					<Card {schedule} />
 				{/each}
 			</div>
 		</div>
