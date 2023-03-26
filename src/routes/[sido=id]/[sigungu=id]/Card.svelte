@@ -29,8 +29,8 @@
 
 <button
 	on:click={() => {
-		collapseAll();
-		expanded = true;
+		if (!expanded) collapseAll();
+		expanded = !expanded;
 	}}
 >
 	<div class="flex">
