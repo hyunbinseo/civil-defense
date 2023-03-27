@@ -32,6 +32,7 @@
 		if (!expanded) collapseAll();
 		expanded = !expanded;
 	}}
+	class:shadow-md={expanded}
 	aria-label={!expanded ? '추가 정보 펼치기' : '추가 정보 숨기기'}
 >
 	<div>
@@ -86,7 +87,7 @@
 		flex-direction: column;
 	}
 	svg {
-		margin-right: 0.315rem;
+		margin: 0.315rem 0.315rem 0 0;
 		width: 0.875rem;
 		transition: transform 400ms;
 	}

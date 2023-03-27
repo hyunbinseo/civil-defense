@@ -1,5 +1,5 @@
 import { dev } from '$app/environment';
-import { isSidoId, sidoData, sigunguData } from '$lib/region';
+import { isSidoId, sidoData, sigunguData } from '$lib/regions';
 import { error } from '@sveltejs/kit';
 import {
 	generateRequest,
@@ -25,7 +25,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	if (dev) return { ...sample, regionText };
 
-	const baseText = `✓ fetching ${regionText}`;
+	const baseText = `✓ fetching ${regionText} - `;
 	const baseTextLength = baseText.length + regionText.replace(/ /g, '').length;
 
 	process.stdout.write(baseText);
@@ -50,7 +50,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		}
 	};
 
-	updateTerminal(' - 1/?');
+	updateTerminal('1/?');
 
 	const initialResponse = await fetch(generateRequest(params, 1));
 
@@ -66,7 +66,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 	addToSet(eduShcList);
 
 	for (let i = 2; i <= pageSize; i += 1) {
-		updateTerminal(` - ${i}/${pageSize}`);
+		updateTerminal(`${i}/${pageSize}`);
 
 		const response = await fetch(generateRequest(params, i));
 
@@ -89,7 +89,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	const t1 = performance.now();
 
-	updateTerminal(` - ${Math.round(t1 - t0)}ms\n`);
+	updateTerminal(`${Math.round(t1 - t0)}ms\n`);
 
 	return { targets, schedules, regionText };
 };

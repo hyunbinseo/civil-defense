@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { dev } from '$app/environment';
 	import { page } from '$app/stores';
-	import Octocat from '$lib/components/Octocat.svelte';
-	import { generateList } from '$lib/region';
+	import Octocat from '$lib/Octocat.svelte';
+	import { generateList } from '$lib/regions';
 	import { onMount } from 'svelte';
 	import './app.css';
 
@@ -31,7 +31,7 @@
 
 	const messages = [
 		`행정안전부의 '국민 재난 안전 포털'에 등록된 전국 민방위 교육 일정을 정기적으로 불러와 제공하는 공익 목적의 개인 웹사이트입니다.`,
-		'민방위 소집 교육은 전국 어디서든 이수할 수 있습니다. 별도의 변경 신청 없이, 신분증과 통지서를 챙겨서 교육장을 방문하면 됩니다.'
+		'민방위 소집 교육은 타 시⋅군⋅구에서도 이수할 수 있습니다. 신분증을 지참해 방문하시기 바랍니다. 별도의 변경 신청은 필요 없습니다.'
 	];
 </script>
 
@@ -45,7 +45,7 @@
 
 <div class="relative flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
 	<a
-		href="https://github.com/hyunbinseo/civil-defense#README"
+		href="https://github.com/hyunbinseo/civil-defense#readme"
 		aria-label="GitHub 저장소"
 		class="absolute top-0 right-0"
 	>
@@ -60,10 +60,8 @@
 			<a
 				href="/"
 				class:max-sm:block={$page.url.pathname !== '/'}
-				class="ml-2 hidden border bg-white py-1 px-2 text-xs hover:bg-gray-50"
+				class="ml-2 hidden border bg-white py-1 px-2 text-xs hover:bg-gray-50">지역 변경</a
 			>
-				변경
-			</a>
 		</div>
 	</header>
 	<div class="mt-8 flex flex-1 gap-x-6 overflow-y-hidden">
@@ -134,6 +132,7 @@
 		margin-top: 1rem;
 	}
 	details ul li a {
+		display: block;
 		scroll-margin-top: 4.5rem;
 	}
 	dialog::backdrop {
