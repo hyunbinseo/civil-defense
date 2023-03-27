@@ -81,7 +81,7 @@ export type FullEducationSchedule = {
 };
 
 export type ResponseBody = {
-	eduShcList: Array<FullEducationSchedule>;
+	eduShcList?: Array<FullEducationSchedule>;
 	rtnResult: {
 		totCnt: number;
 		pageSize: number;

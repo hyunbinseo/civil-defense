@@ -58,8 +58,10 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	const {
 		eduShcList,
-		rtnResult: { pageSize } // pageSize can be 0
+		rtnResult: { totCnt, pageSize } // pageSize can be 0
 	} = (await initialResponse.json()) as ResponseBody;
+
+	if (!eduShcList || !totCnt) return { targets: [], schedules: [], regionText };
 
 	addToSet(eduShcList);
 
@@ -72,7 +74,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 		const { eduShcList } = (await response.json()) as ResponseBody;
 
-		addToSet(eduShcList);
+		if (eduShcList) addToSet(eduShcList);
 	}
 
 	const targets = (() => {
