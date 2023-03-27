@@ -1,7 +1,0 @@
-name = "civil-defense"
-compatibility_date = "2023-03-26"
-
-main = "wrangler.js"
-site.bucket = "./build"
-
-build.command = "npm run build"
