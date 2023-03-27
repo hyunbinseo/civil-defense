@@ -32,53 +32,61 @@
 		if (!expanded) collapseAll();
 		expanded = !expanded;
 	}}
+	aria-label={!expanded ? '추가 정보 펼치기' : '추가 정보 숨기기'}
 >
-	<div class="flex">
-		<div class="flex-1">
-			<div class="font-bold">
-				<time datetime={date}>{date.replace(/-/g, '/')} ({convertDay(date)})</time>
-			</div>
-			<div>
-				<time datetime={startTime}>{startTime}</time>-<time datetime={endTime}>{endTime}</time>
-			</div>
+	<div>
+		<time datetime={date}>
+			<strong>{date.replace(/-/g, '/')} ({convertDay(date)})</strong>
+		</time>
+		<div>
+			<time datetime={startTime}>{startTime}</time>-<time datetime={endTime}>{endTime}</time>
 		</div>
-		<svg
-			class:rotate-180={expanded}
-			xmlns="http://www.w3.org/2000/svg"
-			fill="none"
-			viewBox="0 0 24 24"
-			stroke-width="3"
-			stroke="currentColor"
-		>
-			<path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
-		</svg>
+		{#if expanded}
+			<div class="collapsed" transition:slide|local>
+				<div class="address">
+					{#if address}
+						<a
+							on:click|stopPropagation
+							href={encodeURI(`https://map.naver.com/v5/search/${address}`)}
+							target="_blank"
+						>
+							{address}
+						</a>
+					{/if}
+					<span>{schedule.EDU_PLC_BOTTOM}</span>
+				</div>
+				<div>
+					담당 공무원: <a on:click|stopPropagation href={telHref}>{schedule.TEL_NO}</a>
+				</div>
+			</div>
+		{/if}
 	</div>
-
-	{#if expanded}
-		<div class="collapsed" transition:slide|local>
-			<div class="address">
-				{#if address}
-					<a href={encodeURI(`https://map.naver.com/v5/search/${address}`)} target="_blank">
-						{address}
-					</a>
-				{/if}
-				<span>{schedule.EDU_PLC_BOTTOM}</span>
-			</div>
-			<div>
-				민방위 담당자: <a href={telHref}>{schedule.TEL_NO}</a>
-			</div>
-		</div>
-	{/if}
+	<svg
+		class:rotate-180={expanded}
+		xmlns="http://www.w3.org/2000/svg"
+		fill="none"
+		viewBox="0 0 24 24"
+		stroke-width="3"
+		stroke="currentColor"
+	>
+		<path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+	</svg>
 </button>
 
 <style>
 	button {
-		user-select: text;
-		padding: 1rem;
 		text-align: left;
+		padding: 1rem;
+		display: flex;
+		column-gap: 1rem;
+	}
+	button > div:first-child {
+		flex: 1;
+		display: flex;
+		flex-direction: column;
 	}
 	svg {
-		margin-right: 0.325rem;
+		margin-right: 0.315rem;
 		width: 0.875rem;
 		transition: transform 400ms;
 	}
@@ -87,14 +95,10 @@
 		text-decoration-color: #6b7280;
 		text-underline-offset: 3px;
 	}
-	.collapsed {
-		font-size: 0.9rem;
-	}
 	.collapsed > * {
-		padding-top: 0.75rem;
+		padding-top: 1rem;
 	}
 	.address {
-		display: flex;
-		flex-direction: column;
+		word-break: keep-all;
 	}
 </style>
