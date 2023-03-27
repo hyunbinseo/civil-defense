@@ -21,16 +21,26 @@
 	});
 
 	const now = new Date(import.meta.env.VITE_NOW);
+
 	const heading = `${now.getFullYear()}년도 민방위 교육 일정`;
 
-	const modalMessages = [
+	$: title = [$page.data.regionText, heading].filter((v) => v).join(' - ');
+
+	const description =
+		'행정안전부에서 제공하는 전국 민방위 교육 일정입니다. 소집 교육은 어디서든 이수할 수 있으므로, 지자체별 일정을 참고해 꼭 참여하시기 바랍니다.';
+
+	const messages = [
 		`행정안전부의 '국민 재난 안전 포털'에 등록된 전국 민방위 교육 일정을 정기적으로 불러와 제공하는 공익 목적의 개인 웹사이트입니다.`,
 		'민방위 소집 교육은 전국 어디서든 이수할 수 있습니다. 별도의 변경 신청 없이, 신분증과 통지서를 챙겨서 교육장을 방문하면 됩니다.'
 	];
 </script>
 
 <svelte:head>
-	<title>{[$page.data.regionText, heading].filter((v) => v).join(' - ')}</title>
+	<title>{title}</title>
+	<meta name="description" content={description} />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={description} />
 </svelte:head>
 
 <div class="relative flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
@@ -97,10 +107,10 @@
 			</p>
 		</header>
 		<div class="mt-7 space-y-4">
-			{#each modalMessages as textContent}
+			{#each messages as message}
 				<label class="flex items-center gap-x-4">
 					<input required type="checkbox" class="text-indigo-600" />
-					<p class="leading-6">{textContent}</p>
+					<p class="leading-6">{message}</p>
 				</label>
 			{/each}
 		</div>
