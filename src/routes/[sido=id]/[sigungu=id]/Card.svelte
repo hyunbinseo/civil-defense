@@ -32,7 +32,7 @@
 		if (!expanded) collapseAll();
 		expanded = !expanded;
 	}}
-	class:shadow-md={expanded}
+	class:shadow-inner={expanded}
 	aria-label={!expanded ? '추가 정보 펼치기' : '추가 정보 숨기기'}
 >
 	<div>
