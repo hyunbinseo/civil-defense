@@ -60,7 +60,7 @@ export type FullEducationSchedule = {
 	EDU_ST_TM: string;
 	CVDPY_CPS_CODE: string;
 	ROW_NO: string;
-	EDU_PLC_RDN_ADDR: string;
+	EDU_PLC_RDN_ADDR?: string;
 	CVD_EDU_SE_NM: string;
 	EDU_PLC: string;
 	edcTgtSeNm: string;

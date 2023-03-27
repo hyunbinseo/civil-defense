@@ -25,8 +25,8 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	if (dev) return { ...sample, regionText };
 
-	const baseText = `fetching ${regionText}`;
-	const baseTextLength = baseText.length + regionText.length - 1;
+	const baseText = `✓ fetching ${regionText}`;
+	const baseTextLength = baseText.length + regionText.replace(/ /g, '').length;
 
 	process.stdout.write(baseText);
 
@@ -39,8 +39,10 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 	const educationTargetSet = new Set<string>();
 	const scheduleSet = new Set<string>();
 
-	const addToSet = (scheduleList: FullEducationSchedule[]) => {
+	const addToSet = (scheduleList: Array<FullEducationSchedule>) => {
 		for (const schedule of scheduleList) {
+			// API can respond with [{}], instead of [].
+			if (Object.keys(schedule).length === 0) continue;
 			educationTargetSet.add(schedule.EDU_TGT_SE_NM);
 			const trimmed = trimEducationSchedule(schedule);
 			const stringified = JSON.stringify(trimmed);
@@ -48,7 +50,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		}
 	};
 
-	updateTerminal(' (1/?)');
+	updateTerminal(' - 1/?');
 
 	const initialResponse = await fetch(generateRequest(params, 1));
 
@@ -56,13 +58,13 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	const {
 		eduShcList,
-		rtnResult: { pageSize }
+		rtnResult: { pageSize } // pageSize can be 0
 	} = (await initialResponse.json()) as ResponseBody;
 
 	addToSet(eduShcList);
 
 	for (let i = 2; i <= pageSize; i += 1) {
-		updateTerminal(` (${i}/${pageSize})`);
+		updateTerminal(` - ${i}/${pageSize}`);
 
 		const response = await fetch(generateRequest(params, i));
 

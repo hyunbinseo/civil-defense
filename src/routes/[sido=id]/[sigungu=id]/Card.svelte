@@ -23,7 +23,7 @@
 	const date = convertDate(schedule.ED_YMD);
 	const startTime = convertTime(schedule.EDU_ST_TM);
 	const endTime = convertTime(schedule.EDU_END_TM);
-	const address = schedule.EDU_PLC_RDN_ADDR.replace(/ \(.+동\)$/, '');
+	const address = schedule.EDU_PLC_RDN_ADDR?.replace(/ \(.+동\)$/, '');
 	const telHref = `tel:+82${schedule.TEL_NO.substring(1).replace(/-/g, '')}`;
 </script>
 
@@ -57,9 +57,11 @@
 	{#if expanded}
 		<div class="collapsed" transition:slide|local>
 			<div class="address">
-				<a href={encodeURI(`https://map.naver.com/v5/search/${address}`)} target="_blank">
-					{address}
-				</a>
+				{#if address}
+					<a href={encodeURI(`https://map.naver.com/v5/search/${address}`)} target="_blank">
+						{address}
+					</a>
+				{/if}
 				<span>{schedule.EDU_PLC_BOTTOM}</span>
 			</div>
 			<div>

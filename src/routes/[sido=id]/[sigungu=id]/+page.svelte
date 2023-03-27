@@ -22,20 +22,27 @@
 		: data.schedules.filter(({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget);
 </script>
 
-<div class="flex h-full flex-col space-y-6 overflow-y-hidden">
+<div class="flex h-full flex-col gap-y-6 overflow-y-hidden">
 	<!-- The focus outline is trimmed in iOS Safari. -->
 	<select
 		bind:value={selectedTarget}
 		on:change={() => (list.scrollTop = 0)}
+		disabled={!data.targets.length}
 		class="appearance-none border bg-transparent p-4"
-		class:text-red-700={!selectedTarget}
-		class:border-red-700={!selectedTarget}
+		class:text-red-700={data.targets.length && !selectedTarget}
+		class:border-red-700={data.targets.length && !selectedTarget}
 	>
 		<option value="" disabled>연차를 선택해주세요.</option>
 		{#each data.targets as target}
 			<option value={target}>{target === '신편대원' ? '민방위대 편입 1년차 대원' : target}</option>
 		{/each}
 	</select>
+
+	{#if !data.targets.length}
+		<p class="border border-red-700 p-4 text-red-700" transition:slide|local>
+			등록된 교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.
+		</p>
+	{/if}
 
 	{#if selectedTarget.match(/[3-5]/)}
 		<p class="border border-red-700 p-4 text-red-700" transition:slide|local>
@@ -44,15 +51,15 @@
 		</p>
 	{/if}
 
-	{#if filteredSchedules.length}
-		<div bind:this={list} class="flex-1 overflow-y-auto">
+	<div bind:this={list} class="flex-1 overflow-y-auto">
+		{#if filteredSchedules.length}
 			<div class="mb-6 flex flex-col divide-y border">
 				{#each filteredSchedules as schedule, index (`${$page.url.pathname}-${selectedTarget}-${index}`)}
 					<Card {schedule} expanded={index === 0} />
 				{/each}
 			</div>
-		</div>
-	{/if}
+		{/if}
+	</div>
 </div>
 
 <style>
