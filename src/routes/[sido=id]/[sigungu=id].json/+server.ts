@@ -1,19 +1,27 @@
 import { dev } from '$app/environment';
 import { isSidoId, sidoData, sigunguData } from '$lib/regions';
-import { error } from '@sveltejs/kit';
+import { error, json } from '@sveltejs/kit';
 import {
 	generateRequest,
 	trimEducationSchedule,
 	type EducationSchedule,
 	type FullEducationSchedule,
 	type ResponseBody
-} from '.';
-import type { PageServerLoad } from './$types';
+} from '../[sigungu=id]';
+import type { RequestHandler } from './$types';
 import sample from './sample.json' assert { type: 'json' };
 
 export const prerender = true;
 
-export const load: PageServerLoad = async ({ params, fetch }) => {
+export type Data = {
+	targets: string[];
+	schedules: EducationSchedule[];
+	regionText: string;
+};
+
+const createJsonResponse = (data: Data) => json(data);
+
+export const GET = (async ({ params, fetch }) => {
 	const t0 = performance.now();
 
 	const sidoId = Number(params.sido);
@@ -23,7 +31,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	const regionText = `${sidoData.get(sidoId)} ${sigunguData[sidoId][sigunguId]}`;
 
-	if (dev) return { ...sample, regionText };
+	if (dev) return createJsonResponse({ ...sample, regionText });
 
 	const baseText = `✓ fetching ${regionText} - `;
 	const baseTextLength = baseText.length + regionText.replace(/ /g, '').length;
@@ -61,7 +69,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		rtnResult: { totCnt, pageSize } // pageSize can be 0
 	} = (await initialResponse.json()) as ResponseBody;
 
-	if (!eduShcList || !totCnt) return { targets: [], schedules: [], regionText };
+	if (!eduShcList || !totCnt) return createJsonResponse({ targets: [], schedules: [], regionText });
 
 	addToSet(eduShcList);
 
@@ -80,9 +88,9 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 	const targets = (() => {
 		const value = '신편대원';
 		const deleted = educationTargetSet.delete(value);
-		const targets = Array.from(educationTargetSet).sort();
-		if (deleted) targets.unshift(value);
-		return targets;
+		const array = Array.from(educationTargetSet).sort();
+		if (deleted) array.unshift(value);
+		return array;
 	})();
 
 	const schedules = eval(`[${Array.from(scheduleSet).join(',')}]`) as Array<EducationSchedule>;
@@ -91,5 +99,5 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 
 	updateTerminal(`${Math.round(t1 - t0)}ms\n`);
 
-	return { targets, schedules, regionText };
-};
+	return createJsonResponse({ targets, schedules, regionText });
+}) satisfies RequestHandler;
