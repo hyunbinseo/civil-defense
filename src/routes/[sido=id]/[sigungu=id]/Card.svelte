@@ -13,7 +13,7 @@
 	import { convertDate, convertDay, convertTime } from './convert';
 
 	export let schedule: EducationSchedule;
-
+	export let hideTarget: boolean;
 	export let expanded = false;
 
 	onMount(() => {
@@ -36,6 +36,9 @@
 	aria-label={!expanded ? '추가 정보 펼치기' : '추가 정보 숨기기'}
 >
 	<div>
+		{#if !hideTarget}
+			<div>{schedule.EDU_TGT_SE_NM.replace('민방위대 편입 ', '')}</div>
+		{/if}
 		<time datetime={date}>
 			<strong>{date.replace(/-/g, '/')} ({convertDay(date)})</strong>
 		</time>
@@ -76,6 +79,7 @@
 
 <style>
 	button {
+		width: 100%;
 		text-align: left;
 		padding: 1rem;
 		display: flex;

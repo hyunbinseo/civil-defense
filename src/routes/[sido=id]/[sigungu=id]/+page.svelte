@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { afterNavigate } from '$app/navigation';
-	import { page } from '$app/stores';
 	import { slide } from 'svelte/transition';
 	import type { PageData } from './$types';
 	import Card from './Card.svelte';
@@ -10,15 +9,18 @@
 	let list: HTMLDivElement;
 	let selectedTarget = '';
 
-	afterNavigate(() => {
-		for (const { EDU_TGT_SE_NM } of data.schedules) {
-			if (EDU_TGT_SE_NM === selectedTarget) return;
-		}
-		selectedTarget = '';
+	afterNavigate(async () => {
+		list.scrollTop = 0;
+
+		const validTarget = data.schedules.some(
+			({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget
+		);
+
+		if (!validTarget) selectedTarget = '';
 	});
 
 	$: filteredSchedules = !selectedTarget
-		? []
+		? data.schedules
 		: data.schedules.filter(({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget);
 
 	$: message = !data.targets.length
@@ -36,10 +38,8 @@
 		on:change={() => (list.scrollTop = 0)}
 		disabled={!data.targets.length}
 		class="mb-3 appearance-none border bg-transparent p-4"
-		class:text-red-700={data.targets.length && !selectedTarget}
-		class:border-red-700={data.targets.length && !selectedTarget}
 	>
-		<option value="" disabled>연차를 선택해주세요.</option>
+		<option value="">연차를 선택해주세요.</option>
 		{#each data.targets as target}
 			<option value={target}>{target === '신편대원' ? '민방위대 편입 1년차 대원' : target}</option>
 		{/each}
@@ -53,11 +53,13 @@
 
 	<div bind:this={list} class="mt-3 flex-1 overflow-y-auto">
 		{#if filteredSchedules.length}
-			<div class="mb-6 flex flex-col divide-y border">
+			<ul class="mb-6 flex flex-col divide-y border">
 				{#each filteredSchedules as schedule, index (schedule.EDU_LOCAL_ID)}
-					<Card {schedule} expanded={index === 0} />
+					<li>
+						<Card {schedule} expanded={index === 0} hideTarget={!!selectedTarget} />
+					</li>
 				{/each}
-			</div>
+			</ul>
 		{/if}
 	</div>
 </div>
