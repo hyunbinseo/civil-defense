@@ -54,7 +54,7 @@
 	<div bind:this={list} class="mt-3 flex-1 overflow-y-auto">
 		{#if filteredSchedules.length}
 			<div class="mb-6 flex flex-col divide-y border">
-				{#each filteredSchedules as schedule, index (`${$page.url.pathname}-${selectedTarget}-${index}`)}
+				{#each filteredSchedules as schedule, index (schedule.EDU_LOCAL_ID)}
 					<Card {schedule} expanded={index === 0} />
 				{/each}
 			</div>

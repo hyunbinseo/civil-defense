@@ -98,7 +98,7 @@ export type EducationSchedule = Pick<
 	| 'EDU_PLC_BOTTOM'
 	| 'CVD_EDU_SE_NM'
 	| 'EDU_TGT_SE_NM'
->;
+> & { EDU_LOCAL_ID: string };
 
 export const trimEducationSchedule = ({
 	TEL_NO,

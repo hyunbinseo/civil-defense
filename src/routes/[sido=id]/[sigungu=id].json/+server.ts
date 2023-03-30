@@ -93,7 +93,12 @@ export const GET = (async ({ params, fetch }) => {
 		return array;
 	})();
 
-	const schedules = eval(`[${Array.from(scheduleSet).join(',')}]`) as Array<EducationSchedule>;
+	const scheduleList = Array.from(scheduleSet).map((value, index) =>
+		// Add ID key-value to the end of JSON string
+		value.replace(/}$/, `,"EDU_LOCAL_ID":"${sidoId}-${sigunguId}-${index}"}`)
+	);
+
+	const schedules = eval(`[${scheduleList.join(',')}]`) as Array<EducationSchedule>;
 
 	const t1 = performance.now();
 
