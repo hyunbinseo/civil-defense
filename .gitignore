@@ -16,5 +16,6 @@ build/_app/*
 .env.local
 .env.development.local
 .env.production.local
+
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*

@@ -1,1 +1,105 @@
-{"targets":["민방위대 편입 1~2년차 대원"],"schedules":[{"TEL_NO":"054-270-6414","ED_YMD":"20230419","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-0"},{"TEL_NO":"054-270-6414","ED_YMD":"20230503","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-1"},{"TEL_NO":"054-270-6414","ED_YMD":"20230503","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-2"},{"TEL_NO":"054-270-6414","ED_YMD":"20230510","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-3"},{"TEL_NO":"054-270-6414","ED_YMD":"20230510","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-4"},{"TEL_NO":"054-270-6414","ED_YMD":"20230517","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-5"},{"TEL_NO":"054-270-6414","ED_YMD":"20230517","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-6"},{"TEL_NO":"054-270-6414","ED_YMD":"20230524","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-7"},{"TEL_NO":"054-270-6414","ED_YMD":"20230524","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)","EDU_PLC_BOTTOM":"근로자종합복지회관(호동관)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6470000-5030000-8"}],"regionText":"경상북도 포항시 남구"}
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-0"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230503",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-1"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230503",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-2"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230510",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-3"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230510",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-4"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230517",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-5"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230517",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-6"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230524",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-7"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20230524",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 철강로 388, 포항시근로자종합복지관 (호동)",
+			"EDU_PLC_BOTTOM": "근로자종합복지회관(호동관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5030000-8"
+		}
+	],
+	"regionText": "경상북도 포항시 남구"
+}

@@ -1,1 +1,72 @@
-{"targets":["민방위대 편입 1~2년차 대원"],"schedules":[{"TEL_NO":"041-840-8656","ED_YMD":"20230417","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 공주시 월미동길 219 (월미동)","EDU_PLC_BOTTOM":"공주시안전체험공원(민방위실전체험장)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-4500000-0"},{"TEL_NO":"041-840-8656","ED_YMD":"20230418","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 공주시 월미동길 219 (월미동)","EDU_PLC_BOTTOM":"공주시안전체험공원(민방위실전체험장)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-4500000-1"},{"TEL_NO":"041-840-8656","ED_YMD":"20230419","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 공주시 월미동길 219 (월미동)","EDU_PLC_BOTTOM":"공주시안전체험공원(민방위실전체험장)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-4500000-2"},{"TEL_NO":"041-840-8656","ED_YMD":"20230420","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 공주시 월미동길 219 (월미동)","EDU_PLC_BOTTOM":"공주시안전체험공원(민방위실전체험장)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-4500000-3"},{"TEL_NO":"041-840-8656","ED_YMD":"20230421","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 공주시 월미동길 219 (월미동)","EDU_PLC_BOTTOM":"공주시안전체험공원(민방위실전체험장)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-4500000-4"},{"TEL_NO":"041-840-8656","ED_YMD":"20230424","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 공주시 월미동길 219 (월미동)","EDU_PLC_BOTTOM":"공주시안전체험공원(민방위실전체험장)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-4500000-5"}],"regionText":"충청남도 공주시"}
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "041-840-8656",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 공주시 월미동길 219 (월미동)",
+			"EDU_PLC_BOTTOM": "공주시안전체험공원(민방위실전체험장)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-4500000-0"
+		},
+		{
+			"TEL_NO": "041-840-8656",
+			"ED_YMD": "20230418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 공주시 월미동길 219 (월미동)",
+			"EDU_PLC_BOTTOM": "공주시안전체험공원(민방위실전체험장)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-4500000-1"
+		},
+		{
+			"TEL_NO": "041-840-8656",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 공주시 월미동길 219 (월미동)",
+			"EDU_PLC_BOTTOM": "공주시안전체험공원(민방위실전체험장)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-4500000-2"
+		},
+		{
+			"TEL_NO": "041-840-8656",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 공주시 월미동길 219 (월미동)",
+			"EDU_PLC_BOTTOM": "공주시안전체험공원(민방위실전체험장)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-4500000-3"
+		},
+		{
+			"TEL_NO": "041-840-8656",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 공주시 월미동길 219 (월미동)",
+			"EDU_PLC_BOTTOM": "공주시안전체험공원(민방위실전체험장)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-4500000-4"
+		},
+		{
+			"TEL_NO": "041-840-8656",
+			"ED_YMD": "20230424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 공주시 월미동길 219 (월미동)",
+			"EDU_PLC_BOTTOM": "공주시안전체험공원(민방위실전체험장)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-4500000-5"
+		}
+	],
+	"regionText": "충청남도 공주시"
+}

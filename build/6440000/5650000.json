@@ -1,1 +1,94 @@
-{"targets":["민방위대 편입 1~2년차 대원"],"schedules":[{"TEL_NO":"041-521-4052","ED_YMD":"20230619","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-0"},{"TEL_NO":"041-521-4052","ED_YMD":"20230619","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-1"},{"TEL_NO":"041-521-4052","ED_YMD":"20230620","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-2"},{"TEL_NO":"041-521-4052","ED_YMD":"20230620","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-3"},{"TEL_NO":"041-521-4052","ED_YMD":"20230626","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-4"},{"TEL_NO":"041-521-4052","ED_YMD":"20230626","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-5"},{"TEL_NO":"041-521-4052","ED_YMD":"20230627","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-6"},{"TEL_NO":"041-521-4052","ED_YMD":"20230627","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"충청남도 천안시 서북구 번영로 156 (불당동)","EDU_PLC_BOTTOM":"천안시청 봉서홀","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6440000-5650000-7"}],"regionText":"충청남도 천안시 동남구"}
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230619",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-0"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230619",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-1"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230620",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-2"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230620",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-3"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230626",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-4"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230626",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-5"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230627",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-6"
+		},
+		{
+			"TEL_NO": "041-521-4052",
+			"ED_YMD": "20230627",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청남도 천안시 서북구 번영로 156 (불당동)",
+			"EDU_PLC_BOTTOM": "천안시청 봉서홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6440000-5650000-7"
+		}
+	],
+	"regionText": "충청남도 천안시 동남구"
+}

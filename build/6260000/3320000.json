@@ -1,1 +1,28 @@
-{"targets":["민방위대편입 1~2년차대원"],"schedules":[{"TEL_NO":"051-309-4132","ED_YMD":"20230419","EDU_ST_TM":"1800","EDU_END_TM":"2200","EDU_PLC_RDN_ADDR":"부산광역시 북구 낙동대로1570번길 33 (구포동)","EDU_PLC_BOTTOM":"북구청 지하 대회의실(구포동)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대편입 1~2년차대원","EDU_LOCAL_ID":"6260000-3320000-0"},{"TEL_NO":"051-309-4132","ED_YMD":"20230422","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"부산광역시 북구 낙동대로1570번길 33 (구포동)","EDU_PLC_BOTTOM":"북구청 지하 대회의실(구포동)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대편입 1~2년차대원","EDU_LOCAL_ID":"6260000-3320000-1"}],"regionText":"부산광역시 북구"}
+{
+	"targets": ["민방위대편입 1~2년차대원"],
+	"schedules": [
+		{
+			"TEL_NO": "051-309-4132",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "부산광역시 북구 낙동대로1570번길 33 (구포동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 대회의실(구포동)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원",
+			"EDU_LOCAL_ID": "6260000-3320000-0"
+		},
+		{
+			"TEL_NO": "051-309-4132",
+			"ED_YMD": "20230422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 북구 낙동대로1570번길 33 (구포동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 대회의실(구포동)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원",
+			"EDU_LOCAL_ID": "6260000-3320000-1"
+		}
+	],
+	"regionText": "부산광역시 북구"
+}

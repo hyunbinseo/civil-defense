@@ -1,1 +1,94 @@
-{"targets":["민방위대 편입 1~2년차 대원"],"schedules":[{"TEL_NO":"055-230-4132","ED_YMD":"20230425","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-0"},{"TEL_NO":"055-230-4132","ED_YMD":"20230425","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-1"},{"TEL_NO":"055-230-4132","ED_YMD":"20230426","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-2"},{"TEL_NO":"055-230-4132","ED_YMD":"20230427","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-3"},{"TEL_NO":"055-230-4132","ED_YMD":"20230427","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-4"},{"TEL_NO":"055-230-4132","ED_YMD":"20230428","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-5"},{"TEL_NO":"055-230-4132","ED_YMD":"20230428","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-6"},{"TEL_NO":"055-230-4132","ED_YMD":"20230429","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)","EDU_PLC_BOTTOM":"마산야구센터 올림픽기념관","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6480000-5670184-7"}],"regionText":"경상남도 창원시 마산회원구"}
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-0"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-1"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230426",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-2"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-3"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-4"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230428",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-5"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230428",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-6"
+		},
+		{
+			"TEL_NO": "055-230-4132",
+			"ED_YMD": "20230429",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 63, 마산종합운동장 (양덕동)",
+			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6480000-5670184-7"
+		}
+	],
+	"regionText": "경상남도 창원시 마산회원구"
+}

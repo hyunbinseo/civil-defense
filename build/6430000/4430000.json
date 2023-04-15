@@ -1,1 +1,50 @@
-{"targets":["신편대원","민방위대 편입 2년차 대원"],"schedules":[{"TEL_NO":"043-730-3046","ED_YMD":"20230424","EDU_ST_TM":"1300","EDU_END_TM":"1700","EDU_PLC_RDN_ADDR":"충청북도 옥천군 옥천읍 중앙로 126, 다목적회관","EDU_PLC_BOTTOM":"옥천읍 다목적회관 5층 대회의실","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"신편대원","EDU_LOCAL_ID":"6430000-4430000-0"},{"TEL_NO":"043-730-3046","ED_YMD":"20230425","EDU_ST_TM":"1300","EDU_END_TM":"1700","EDU_PLC_RDN_ADDR":"충청북도 옥천군 옥천읍 중앙로 126, 다목적회관","EDU_PLC_BOTTOM":"옥천읍 다목적회관 5층 대회의실","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"신편대원","EDU_LOCAL_ID":"6430000-4430000-1"},{"TEL_NO":"043-730-3046","ED_YMD":"20230427","EDU_ST_TM":"1300","EDU_END_TM":"1700","EDU_PLC_RDN_ADDR":"충청북도 옥천군 옥천읍 중앙로 126, 다목적회관","EDU_PLC_BOTTOM":"옥천읍 다목적회관 5층 대회의실","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 2년차 대원","EDU_LOCAL_ID":"6430000-4430000-2"},{"TEL_NO":"043-730-3046","ED_YMD":"20230428","EDU_ST_TM":"1300","EDU_END_TM":"1700","EDU_PLC_RDN_ADDR":"충청북도 옥천군 옥천읍 중앙로 126, 다목적회관","EDU_PLC_BOTTOM":"옥천읍 다목적회관 5층 대회의실","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 2년차 대원","EDU_LOCAL_ID":"6430000-4430000-3"}],"regionText":"충청북도 옥천군"}
+{
+	"targets": ["신편대원", "민방위대 편입 2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "043-730-3046",
+			"ED_YMD": "20230424",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "충청북도 옥천군 옥천읍 중앙로 126, 다목적회관",
+			"EDU_PLC_BOTTOM": "옥천읍 다목적회관 5층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6430000-4430000-0"
+		},
+		{
+			"TEL_NO": "043-730-3046",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "충청북도 옥천군 옥천읍 중앙로 126, 다목적회관",
+			"EDU_PLC_BOTTOM": "옥천읍 다목적회관 5층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6430000-4430000-1"
+		},
+		{
+			"TEL_NO": "043-730-3046",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "충청북도 옥천군 옥천읍 중앙로 126, 다목적회관",
+			"EDU_PLC_BOTTOM": "옥천읍 다목적회관 5층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6430000-4430000-2"
+		},
+		{
+			"TEL_NO": "043-730-3046",
+			"ED_YMD": "20230428",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "충청북도 옥천군 옥천읍 중앙로 126, 다목적회관",
+			"EDU_PLC_BOTTOM": "옥천읍 다목적회관 5층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6430000-4430000-3"
+		}
+	],
+	"regionText": "충청북도 옥천군"
+}

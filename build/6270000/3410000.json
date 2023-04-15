@@ -1,1 +1,120 @@
-{"targets":["민방위대 편입 1~2년차 대원","민방위대 편입 3~4년차 대원","민방위대 편입 5년차 이상"],"schedules":[{"TEL_NO":"053-661-2273","ED_YMD":"20230418","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-0"},{"TEL_NO":"053-661-2273","ED_YMD":"20230419","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-1"},{"TEL_NO":"053-661-2273","ED_YMD":"20230419","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-2"},{"TEL_NO":"053-661-2273","ED_YMD":"20230420","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-3"},{"TEL_NO":"053-661-2273","ED_YMD":"20230420","EDU_ST_TM":"1800","EDU_END_TM":"2200","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-4"},{"TEL_NO":"053-661-2273","ED_YMD":"20230421","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-5"},{"TEL_NO":"053-661-2273","ED_YMD":"20230421","EDU_ST_TM":"1400","EDU_END_TM":"1800","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-6"},{"TEL_NO":"053-661-2273","ED_YMD":"20230422","EDU_ST_TM":"0900","EDU_END_TM":"1300","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 1 (동인동2가)","EDU_PLC_BOTTOM":"중구청대강당(5층)","CVD_EDU_SE_NM":"기본교육","EDU_TGT_SE_NM":"민방위대 편입 1~2년차 대원","EDU_LOCAL_ID":"6270000-3410000-7"},{"TEL_NO":"053-661-2273","ED_YMD":"20230501","EDU_ST_TM":"0000","EDU_END_TM":"2359","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 139 (동인동1가)","EDU_PLC_BOTTOM":"인터넷교육(우측 안내문 참조)","CVD_EDU_SE_NM":"사이버교육","EDU_TGT_SE_NM":"민방위대 편입 3~4년차 대원","EDU_LOCAL_ID":"6270000-3410000-8"},{"TEL_NO":"053-661-2273","ED_YMD":"20230501","EDU_ST_TM":"0000","EDU_END_TM":"2359","EDU_PLC_RDN_ADDR":"대구광역시 중구 국채보상로139길 139 (동인동1가)","EDU_PLC_BOTTOM":"인터넷교육(우측 안내문 참조)","CVD_EDU_SE_NM":"사이버교육","EDU_TGT_SE_NM":"민방위대 편입 5년차 이상","EDU_LOCAL_ID":"6270000-3410000-9"}],"regionText":"대구광역시 중구"}
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230418",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-0"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-1"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-2"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-3"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-4"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-5"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-6"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-7"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 139 (동인동1가)",
+			"EDU_PLC_BOTTOM": "인터넷교육(우측 안내문 참조)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6270000-3410000-8"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 139 (동인동1가)",
+			"EDU_PLC_BOTTOM": "인터넷교육(우측 안내문 참조)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6270000-3410000-9"
+		}
+	],
+	"regionText": "대구광역시 중구"
+}
