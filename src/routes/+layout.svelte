@@ -47,7 +47,7 @@
 	<a
 		href="https://github.com/hyunbinseo/civil-defense#readme"
 		aria-label="GitHub 저장소"
-		class="absolute top-0 right-0"
+		class="absolute right-0 top-0"
 	>
 		<Octocat />
 	</a>
@@ -60,7 +60,7 @@
 			<a
 				href="/"
 				class:max-sm:block={$page.url.pathname !== '/'}
-				class="ml-2 hidden border bg-white py-1 px-2 text-xs hover:bg-gray-50">지역 변경</a
+				class="ml-2 hidden border bg-white px-2 py-1 text-xs hover:bg-gray-50">지역 변경</a
 			>
 		</div>
 	</header>
@@ -112,13 +112,16 @@
 				</label>
 			{/each}
 		</div>
-		<button class="mt-8 w-full bg-indigo-600 py-2.5 px-3.5 text-sm text-white hover:bg-indigo-700">
+		<button class="mt-8 w-full bg-indigo-600 px-3.5 py-2.5 text-sm text-white hover:bg-indigo-700">
 			확인했습니다.
 		</button>
 	</form>
 </dialog>
 
 <style>
+	details summary {
+		cursor: pointer;
+	}
 	details[open] summary {
 		background-color: rgb(243 244 246);
 		position: sticky;
