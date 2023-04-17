@@ -9,6 +9,8 @@
 	let list: HTMLDivElement;
 	let selectedTarget = '';
 
+	let showPastSchedules = false;
+
 	afterNavigate(async () => {
 		list.scrollTop = 0;
 
@@ -19,12 +21,12 @@
 		if (!validTarget) selectedTarget = '';
 	});
 
-	$: filteredSchedules = !selectedTarget
-		? data.schedules
-		: data.schedules.filter(({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget);
+	$: filteredSchedules = data.schedules
+		.filter(({ EDU_TGT_SE_NM }) => (!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget))
+		.filter(({ DATE }) => (showPastSchedules ? true : Date.now() < DATE.getTime()));
 
-	$: message = !data.targets.length
-		? '등록된 교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
+	$: message = !filteredSchedules.length
+		? '교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
 		: selectedTarget.match(/[3-5]/)
 		? '3년 차 이상은 사이버 교육으로 진행되며, 반드시 본인이 속한 지자체의 안내에 따라 이수하셔야 합니다. (타 시군구 교육 참여 불가)'
 		: '';
@@ -51,9 +53,9 @@
 		</p>
 	{/if}
 
-	<div bind:this={list} class="mt-3 flex-1 overflow-y-auto">
+	<div bind:this={list} class="mt-3 flex flex-1 flex-col space-y-6 overflow-y-auto pb-6">
 		{#if filteredSchedules.length}
-			<ul class="mb-6 flex flex-col divide-y border">
+			<ul class="flex flex-col divide-y border">
 				{#each filteredSchedules as schedule, index (schedule.EDU_LOCAL_ID)}
 					<li>
 						<Card {schedule} expanded={index === 0} hideTarget={!!selectedTarget} />
@@ -61,6 +63,14 @@
 				{/each}
 			</ul>
 		{/if}
+		<button
+			on:click={() => {
+				showPastSchedules = !showPastSchedules;
+				list.scrollTop = 0;
+			}}
+		>
+			지난 교육 일정 {showPastSchedules ? '숨기기' : '보이기'}
+		</button>
 	</div>
 </div>
 

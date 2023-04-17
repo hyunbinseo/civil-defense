@@ -11,7 +11,7 @@
 	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 	import type { EducationSchedule } from '.';
-	import { convertDate, convertDay, convertTime } from './convert';
+	import { convertDay } from './convert';
 
 	export let schedule: EducationSchedule;
 	export let hideTarget: boolean;
@@ -21,9 +21,6 @@
 		collapseFns.add(() => (expanded = false));
 	});
 
-	const date = convertDate(schedule.ED_YMD);
-	const startTime = convertTime(schedule.EDU_ST_TM);
-	const endTime = convertTime(schedule.EDU_END_TM);
 	const address = schedule.EDU_PLC_RDN_ADDR?.replace(/ \(.+동\)$/, '');
 	const telHref = `tel:+82${schedule.TEL_NO.substring(1).replace(/-/g, '')}`;
 </script>
@@ -40,11 +37,12 @@
 		{#if !hideTarget}
 			<div>{schedule.EDU_TGT_SE_NM.replace('민방위대 편입 ', '')}</div>
 		{/if}
-		<time datetime={date}>
-			<strong>{date.replace(/-/g, '/')} ({convertDay(date)})</strong>
+		<time datetime={schedule.ED_YMD}>
+			<strong>{schedule.ED_YMD.replace(/-/g, '/')} ({convertDay(schedule.ED_YMD)})</strong>
 		</time>
 		<div>
-			<time datetime={startTime}>{startTime}</time>-<time datetime={endTime}>{endTime}</time>
+			<time datetime={schedule.EDU_ST_TM}>{schedule.EDU_ST_TM}</time>
+			-<time datetime={schedule.EDU_END_TM}>{schedule.EDU_END_TM}</time>
 		</div>
 		{#if expanded}
 			{@const location = address
@@ -56,8 +54,8 @@
 				[
 					'dates',
 					[
-						`${schedule.ED_YMD}T${schedule.EDU_ST_TM}00`,
-						`${schedule.ED_YMD}T${schedule.EDU_END_TM}00`
+						`${schedule.ED_YMD.replace(/-/g, '')}T${schedule.EDU_ST_TM.replace(/:/g, '')}00`,
+						`${schedule.ED_YMD.replace(/-/g, '')}T${schedule.EDU_END_TM.replace(/:/g, '')}00`
 					].join('/')
 				],
 				['ctz', 'Asia/Seoul'],
