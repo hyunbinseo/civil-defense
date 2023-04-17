@@ -3,27 +3,29 @@
 	"schedules": [
 		{
 			"TEL_NO": "02-2241-4382",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "0000",
-			"EDU_END_TM": "0000",
-			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
 			"EDU_LOCAL_ID": "6110000-3070000-0"
 		},
 		{
 			"TEL_NO": "02-2241-4382",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "0000",
-			"EDU_END_TM": "0000",
-			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
 			"EDU_LOCAL_ID": "6110000-3070000-1"
 		},
 		{
 			"TEL_NO": "02-2241-4382",
-			"ED_YMD": "20230515",
+			"ED_YMD": "20230414",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
@@ -34,7 +36,7 @@
 		},
 		{
 			"TEL_NO": "02-2241-4382",
-			"ED_YMD": "20230515",
+			"ED_YMD": "20230414",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
@@ -45,6 +47,48 @@
 		},
 		{
 			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6110000-3070000-4"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6110000-3070000-5"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20230515",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3070000-6"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20230515",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3070000-7"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
 			"ED_YMD": "20230516",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
@@ -52,7 +96,7 @@
 			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3070000-4"
+			"EDU_LOCAL_ID": "6110000-3070000-8"
 		},
 		{
 			"TEL_NO": "02-2241-4382",
@@ -63,7 +107,7 @@
 			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3070000-5"
+			"EDU_LOCAL_ID": "6110000-3070000-9"
 		},
 		{
 			"TEL_NO": "02-2241-4382",
@@ -74,7 +118,7 @@
 			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3070000-6"
+			"EDU_LOCAL_ID": "6110000-3070000-10"
 		},
 		{
 			"TEL_NO": "02-2241-4382",
@@ -85,7 +129,7 @@
 			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3070000-7"
+			"EDU_LOCAL_ID": "6110000-3070000-11"
 		}
 	],
 	"regionText": "서울특별시 성북구"

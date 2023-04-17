@@ -1,19 +1,121 @@
 {
-	"targets": ["신편대원", "민방위대 편입 2년차 대원"],
+	"targets": [
+		"신편대원",
+		"민방위대 편입 2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "031-8075-6294",
-			"ED_YMD": "20230501",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
-			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
-			"CVD_EDU_SE_NM": "신편교육",
-			"EDU_TGT_SE_NM": "신편대원",
+			"ED_YMD": "20230320",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 일산동구 중앙로 1256, 일산동구청 (마두동)",
+			"EDU_PLC_BOTTOM": "2023년 사이버교육(https://www.cmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6410000-3960100-0"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230320",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6410000-3960100-1"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230320",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 일산동구 중앙로 1256, 일산동구청 (마두동)",
+			"EDU_PLC_BOTTOM": "2023년 사이버교육(https://www.cmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6410000-3960100-2"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230320",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6410000-3960100-3"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
+			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6410000-3960100-4"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
+			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6410000-3960100-5"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
+			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6410000-3960100-6"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
+			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6410000-3960100-7"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
+			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6410000-3960100-8"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 고양시 덕양구 화신로 214, 고양시민방위교육장 (행신동)",
+			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6410000-3960100-9"
+		},
+		{
+			"TEL_NO": "031-8075-6294",
 			"ED_YMD": "20230501",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -21,7 +123,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "신편교육",
 			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6410000-3960100-1"
+			"EDU_LOCAL_ID": "6410000-3960100-10"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -32,7 +134,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-2"
+			"EDU_LOCAL_ID": "6410000-3960100-11"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -43,7 +145,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-3"
+			"EDU_LOCAL_ID": "6410000-3960100-12"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -54,7 +156,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-4"
+			"EDU_LOCAL_ID": "6410000-3960100-13"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -65,7 +167,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-5"
+			"EDU_LOCAL_ID": "6410000-3960100-14"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -76,7 +178,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-6"
+			"EDU_LOCAL_ID": "6410000-3960100-15"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -87,7 +189,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-7"
+			"EDU_LOCAL_ID": "6410000-3960100-16"
 		},
 		{
 			"TEL_NO": "031-8075-6294",
@@ -98,7 +200,7 @@
 			"EDU_PLC_BOTTOM": "고양시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6410000-3960100-8"
+			"EDU_LOCAL_ID": "6410000-3960100-17"
 		}
 	],
 	"regionText": "경기도 고양시 일산동구"

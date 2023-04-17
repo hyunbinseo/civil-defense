@@ -1,44 +1,47 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230415",
-			"EDU_ST_TM": "1300",
-			"EDU_END_TM": "1700",
-			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
-			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010, 북구청 (연암동)",
+			"EDU_PLC_BOTTOM": "인터넷(www.kcmes.or.kr)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6310000-3720000-0"
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230418",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
-			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6310000-3720000-1"
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230420",
-			"EDU_ST_TM": "1800",
-			"EDU_END_TM": "2200",
-			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
-			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010, 북구청 (연암동)",
+			"EDU_PLC_BOTTOM": "인터넷(www.kcmes.or.kr)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6310000-3720000-2"
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230422",
-			"EDU_ST_TM": "1300",
-			"EDU_END_TM": "1700",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
 			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -47,7 +50,7 @@
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230424",
+			"ED_YMD": "20230412",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
@@ -58,9 +61,9 @@
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230425",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
 			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
 			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -69,9 +72,9 @@
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230427",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230415",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
 			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -80,7 +83,7 @@
 		},
 		{
 			"TEL_NO": "052-241-7222",
-			"ED_YMD": "20230502",
+			"ED_YMD": "20230418",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
@@ -91,6 +94,72 @@
 		},
 		{
 			"TEL_NO": "052-241-7222",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6310000-3720000-8"
+		},
+		{
+			"TEL_NO": "052-241-7222",
+			"ED_YMD": "20230422",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6310000-3720000-9"
+		},
+		{
+			"TEL_NO": "052-241-7222",
+			"ED_YMD": "20230424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6310000-3720000-10"
+		},
+		{
+			"TEL_NO": "052-241-7222",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6310000-3720000-11"
+		},
+		{
+			"TEL_NO": "052-241-7222",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6310000-3720000-12"
+		},
+		{
+			"TEL_NO": "052-241-7222",
+			"ED_YMD": "20230502",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 북구 산업로 1010 (연암동)",
+			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6310000-3720000-13"
+		},
+		{
+			"TEL_NO": "052-241-7222",
 			"ED_YMD": "20230504",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -98,7 +167,7 @@
 			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6310000-3720000-8"
+			"EDU_LOCAL_ID": "6310000-3720000-14"
 		},
 		{
 			"TEL_NO": "052-241-7222",
@@ -109,7 +178,7 @@
 			"EDU_PLC_BOTTOM": "북구청 지하 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6310000-3720000-9"
+			"EDU_LOCAL_ID": "6310000-3720000-15"
 		}
 	],
 	"regionText": "울산광역시 북구"

@@ -1,6 +1,30 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
+		{
+			"TEL_NO": "054-550-6158",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6470000-5120000-0"
+		},
+		{
+			"TEL_NO": "054-550-6158",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6470000-5120000-1"
+		},
 		{
 			"TEL_NO": "054-550-6158",
 			"ED_YMD": "20230425",
@@ -10,7 +34,7 @@
 			"EDU_PLC_BOTTOM": "문화예술회관 문희아트홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5120000-0"
+			"EDU_LOCAL_ID": "6470000-5120000-2"
 		},
 		{
 			"TEL_NO": "054-550-6158",
@@ -21,7 +45,7 @@
 			"EDU_PLC_BOTTOM": "문화예술회관 문희아트홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5120000-1"
+			"EDU_LOCAL_ID": "6470000-5120000-3"
 		},
 		{
 			"TEL_NO": "054-550-6158",
@@ -31,7 +55,7 @@
 			"EDU_PLC_BOTTOM": "읍면동사무소",
 			"CVD_EDU_SE_NM": "서면교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5120000-2"
+			"EDU_LOCAL_ID": "6470000-5120000-4"
 		}
 	],
 	"regionText": "경상북도 문경시"

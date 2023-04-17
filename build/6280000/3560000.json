@@ -1,49 +1,55 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230417",
+			"ED_YMD": "20230410",
 			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_BOTTOM": "검단복지회관",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_RDN_ADDR": "인천광역시 서구 서곶로 307 (심곡동)",
+			"EDU_PLC_BOTTOM": "사이버교육",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-0"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_BOTTOM": "검단복지회관",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-1"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230418",
+			"ED_YMD": "20230410",
 			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_BOTTOM": "검단복지회관",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "인천광역시 서구 서곶로 307 (심곡동)",
+			"EDU_PLC_BOTTOM": "사이버교육",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6280000-3560000-2"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230418",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_BOTTOM": "검단복지회관",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6280000-3560000-3"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230419",
+			"ED_YMD": "20230417",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -53,7 +59,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230419",
+			"ED_YMD": "20230417",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -63,7 +69,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230420",
+			"ED_YMD": "20230418",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -73,7 +79,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230420",
+			"ED_YMD": "20230418",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -83,7 +89,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230421",
+			"ED_YMD": "20230419",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -93,7 +99,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230421",
+			"ED_YMD": "20230419",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -103,7 +109,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230424",
+			"ED_YMD": "20230420",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -113,7 +119,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230424",
+			"ED_YMD": "20230420",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "검단복지회관",
@@ -123,9 +129,9 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230425",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "검단복지회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
@@ -133,47 +139,47 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230531",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "검단복지회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-13"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230531",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"ED_YMD": "20230424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "검단복지회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-14"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230601",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"ED_YMD": "20230424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "검단복지회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-15"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230601",
+			"ED_YMD": "20230425",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"EDU_PLC_BOTTOM": "검단복지회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-16"
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230602",
+			"ED_YMD": "20230531",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -183,7 +189,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230602",
+			"ED_YMD": "20230531",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -193,7 +199,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230605",
+			"ED_YMD": "20230601",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -203,7 +209,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230605",
+			"ED_YMD": "20230601",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -213,7 +219,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230607",
+			"ED_YMD": "20230602",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -223,7 +229,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230607",
+			"ED_YMD": "20230602",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -233,7 +239,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230608",
+			"ED_YMD": "20230605",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -243,7 +249,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230608",
+			"ED_YMD": "20230605",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -253,7 +259,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230609",
+			"ED_YMD": "20230607",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -263,7 +269,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230609",
+			"ED_YMD": "20230607",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -273,7 +279,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230613",
+			"ED_YMD": "20230608",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -283,7 +289,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230613",
+			"ED_YMD": "20230608",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -293,7 +299,7 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230614",
+			"ED_YMD": "20230609",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
@@ -303,13 +309,53 @@
 		},
 		{
 			"TEL_NO": "032-560-4284",
-			"ED_YMD": "20230614",
+			"ED_YMD": "20230609",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "서구민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6280000-3560000-30"
+		},
+		{
+			"TEL_NO": "032-560-4284",
+			"ED_YMD": "20230613",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3560000-31"
+		},
+		{
+			"TEL_NO": "032-560-4284",
+			"ED_YMD": "20230613",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3560000-32"
+		},
+		{
+			"TEL_NO": "032-560-4284",
+			"ED_YMD": "20230614",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3560000-33"
+		},
+		{
+			"TEL_NO": "032-560-4284",
+			"ED_YMD": "20230614",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "서구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3560000-34"
 		}
 	],
 	"regionText": "인천광역시 서구"

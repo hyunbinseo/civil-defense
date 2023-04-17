@@ -7,10 +7,11 @@
 	"schedules": [
 		{
 			"TEL_NO": "054-730-6153",
-			"ED_YMD": "20230417",
+			"ED_YMD": "20230410",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
-			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"EDU_PLC_RDN_ADDR": "경상북도 영덕군 영덕읍 군청길 116, 영덕군청",
+			"EDU_PLC_BOTTOM": "사이버교육(https://www.cmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6470000-5180000-0"
@@ -22,8 +23,18 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6470000-5180000-1"
+		},
+		{
+			"TEL_NO": "054-730-6153",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6470000-5180000-2"
 		},
 		{
 			"TEL_NO": "054-730-6153",
@@ -33,7 +44,7 @@
 			"EDU_PLC_BOTTOM": "영덕군민회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5180000-2"
+			"EDU_LOCAL_ID": "6470000-5180000-3"
 		},
 		{
 			"TEL_NO": "054-730-6153",
@@ -43,7 +54,7 @@
 			"EDU_PLC_BOTTOM": "영덕군민회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5180000-3"
+			"EDU_LOCAL_ID": "6470000-5180000-4"
 		},
 		{
 			"TEL_NO": "054-730-6153",
@@ -53,7 +64,7 @@
 			"EDU_PLC_BOTTOM": "영덕군민회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5180000-4"
+			"EDU_LOCAL_ID": "6470000-5180000-5"
 		}
 	],
 	"regionText": "경상북도 영덕군"

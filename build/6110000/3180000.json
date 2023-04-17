@@ -1,33 +1,35 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
-			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
-			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"TEL_NO": "02-2670-3182",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6110000-3180000-0"
 		},
 		{
-			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
-			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"TEL_NO": "02-2670-3182",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6110000-3180000-1"
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230418",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -36,9 +38,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230418",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -47,9 +49,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230419",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -58,9 +60,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230419",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -69,9 +71,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230420",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -80,9 +82,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230420",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230414",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -91,9 +93,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230421",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -102,9 +104,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230421",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -113,9 +115,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230508",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -124,9 +126,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230508",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230418",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -135,9 +137,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230509",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -146,9 +148,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230509",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -157,9 +159,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230510",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -168,9 +170,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230510",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -179,9 +181,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230511",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -190,9 +192,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230511",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -201,9 +203,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230512",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -212,9 +214,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230512",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230508",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -223,9 +225,9 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
-			"ED_YMD": "20230612",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230508",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -234,6 +236,105 @@
 		},
 		{
 			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-21"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-22"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230510",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-23"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230510",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-24"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230511",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-25"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230511",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-26"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230512",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-27"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230512",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-28"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
+			"ED_YMD": "20230612",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 596 (당산동3가)",
+			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3180000-29"
+		},
+		{
+			"TEL_NO": "02-2670-3183",
 			"ED_YMD": "20230612",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -241,7 +342,7 @@
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3180000-21"
+			"EDU_LOCAL_ID": "6110000-3180000-30"
 		},
 		{
 			"TEL_NO": "02-2670-3183",
@@ -252,7 +353,7 @@
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3180000-22"
+			"EDU_LOCAL_ID": "6110000-3180000-31"
 		},
 		{
 			"TEL_NO": "02-2670-3183",
@@ -263,7 +364,7 @@
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3180000-23"
+			"EDU_LOCAL_ID": "6110000-3180000-32"
 		},
 		{
 			"TEL_NO": "02-2670-3183",
@@ -274,7 +375,7 @@
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3180000-24"
+			"EDU_LOCAL_ID": "6110000-3180000-33"
 		},
 		{
 			"TEL_NO": "02-2670-3183",
@@ -285,7 +386,7 @@
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3180000-25"
+			"EDU_LOCAL_ID": "6110000-3180000-34"
 		},
 		{
 			"TEL_NO": "02-2670-3183",
@@ -296,7 +397,7 @@
 			"EDU_PLC_BOTTOM": "영등포아트홀 2층 전시실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3180000-26"
+			"EDU_LOCAL_ID": "6110000-3180000-35"
 		}
 	],
 	"regionText": "서울특별시 영등포구"

@@ -1,19 +1,122 @@
 {
-	"targets": ["신편대원", "민방위대 편입 1~2년차 대원", "민방위대 편입 2년차 대원"],
+	"targets": [
+		"신편대원",
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230427",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6110000-3050000-0"
 		},
 		{
 			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-1"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3050000-2"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-3"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230407",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3050000-4"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-5"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3050000-6"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230414",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-7"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-8"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-9"
+		},
+		{
+			"TEL_NO": "2127-4431",
 			"ED_YMD": "20230427",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -21,123 +124,24 @@
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3050000-1"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230428",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-2"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230428",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3050000-3"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230511",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-4"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230511",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3050000-5"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230512",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-6"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230512",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3050000-7"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230519",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-8"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230519",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-9"
-		},
-		{
-			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230525",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
-			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6110000-3050000-10"
 		},
 		{
 			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230525",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230428",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
 			"EDU_LOCAL_ID": "6110000-3050000-11"
 		},
 		{
 			"TEL_NO": "2127-4431",
-			"ED_YMD": "20230526",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230428",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -146,6 +150,105 @@
 		},
 		{
 			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230511",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-13"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230511",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3050000-14"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230512",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-15"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230512",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3050000-16"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230519",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-17"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230519",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-18"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230525",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-19"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230525",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3050000-20"
+		},
+		{
+			"TEL_NO": "2127-4431",
+			"ED_YMD": "20230526",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동대문구 천호대로 145 (용두동)",
+			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3050000-21"
+		},
+		{
+			"TEL_NO": "2127-4431",
 			"ED_YMD": "20230526",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -153,7 +256,7 @@
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-13"
+			"EDU_LOCAL_ID": "6110000-3050000-22"
 		},
 		{
 			"TEL_NO": "2127-4431",
@@ -164,7 +267,7 @@
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3050000-14"
+			"EDU_LOCAL_ID": "6110000-3050000-23"
 		},
 		{
 			"TEL_NO": "2127-4431",
@@ -175,7 +278,7 @@
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-15"
+			"EDU_LOCAL_ID": "6110000-3050000-24"
 		},
 		{
 			"TEL_NO": "2127-4431",
@@ -186,7 +289,7 @@
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-16"
+			"EDU_LOCAL_ID": "6110000-3050000-25"
 		},
 		{
 			"TEL_NO": "2127-4431",
@@ -197,7 +300,7 @@
 			"EDU_PLC_BOTTOM": "구청 2층 다목적강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3050000-17"
+			"EDU_LOCAL_ID": "6110000-3050000-26"
 		}
 	],
 	"regionText": "서울특별시 동대문구"

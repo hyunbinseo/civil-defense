@@ -1,31 +1,35 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "031-887-2568",
-			"ED_YMD": "20230502",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
-			"EDU_PLC_BOTTOM": "세종국악당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_RDN_ADDR": "경기도 여주시 세종로 1, 여주시청 (홍문동)",
+			"EDU_PLC_BOTTOM": "사이버교육 사이트",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6410000-5700000-0"
 		},
 		{
 			"TEL_NO": "031-887-2568",
-			"ED_YMD": "20230502",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
-			"EDU_PLC_BOTTOM": "세종국악당",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_RDN_ADDR": "경기도 여주시 세종로 1, 여주시청 (홍문동)",
+			"EDU_PLC_BOTTOM": "사이버교육 사이트",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6410000-5700000-1"
 		},
 		{
 			"TEL_NO": "031-887-2568",
-			"ED_YMD": "20230503",
+			"ED_YMD": "20230502",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
@@ -36,7 +40,7 @@
 		},
 		{
 			"TEL_NO": "031-887-2568",
-			"ED_YMD": "20230503",
+			"ED_YMD": "20230502",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
@@ -47,7 +51,7 @@
 		},
 		{
 			"TEL_NO": "031-887-2568",
-			"ED_YMD": "20230509",
+			"ED_YMD": "20230503",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
@@ -58,7 +62,7 @@
 		},
 		{
 			"TEL_NO": "031-887-2568",
-			"ED_YMD": "20230509",
+			"ED_YMD": "20230503",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
@@ -66,6 +70,28 @@
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6410000-5700000-5"
+		},
+		{
+			"TEL_NO": "031-887-2568",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
+			"EDU_PLC_BOTTOM": "세종국악당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-5700000-6"
+		},
+		{
+			"TEL_NO": "031-887-2568",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 여주시 영릉로 125 (하동)",
+			"EDU_PLC_BOTTOM": "세종국악당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-5700000-7"
 		}
 	],
 	"regionText": "경기도 여주시"

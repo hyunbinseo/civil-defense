@@ -1,31 +1,33 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "02-3677-2163",
-			"ED_YMD": "20230426",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "경기도 과천시 통영로 5 (중앙동)",
-			"EDU_PLC_BOTTOM": "시민회관소극장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6410000-3970000-0"
 		},
 		{
 			"TEL_NO": "02-3677-2163",
-			"ED_YMD": "20230426",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "경기도 과천시 통영로 5 (중앙동)",
-			"EDU_PLC_BOTTOM": "시민회관소극장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6410000-3970000-1"
 		},
 		{
 			"TEL_NO": "02-3677-2163",
-			"ED_YMD": "20230427",
+			"ED_YMD": "20230426",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "경기도 과천시 통영로 5 (중앙동)",
@@ -36,7 +38,7 @@
 		},
 		{
 			"TEL_NO": "02-3677-2163",
-			"ED_YMD": "20230427",
+			"ED_YMD": "20230426",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경기도 과천시 통영로 5 (중앙동)",
@@ -44,6 +46,28 @@
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6410000-3970000-3"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 통영로 5 (중앙동)",
+			"EDU_PLC_BOTTOM": "시민회관소극장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-3970000-4"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20230427",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 통영로 5 (중앙동)",
+			"EDU_PLC_BOTTOM": "시민회관소극장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-3970000-5"
 		}
 	],
 	"regionText": "경기도 과천시"

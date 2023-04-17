@@ -1,53 +1,55 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "062-360-7470",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
-			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 경열로 33, 서구청 (농성동)",
+			"EDU_PLC_BOTTOM": "스마트민방위(cdec.kr)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6290000-3600000-0"
 		},
 		{
 			"TEL_NO": "062-360-7470",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
-			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6290000-3600000-1"
 		},
 		{
 			"TEL_NO": "062-360-7470",
-			"ED_YMD": "20230418",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
-			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 경열로 33, 서구청 (농성동)",
+			"EDU_PLC_BOTTOM": "스마트민방위(cdec.kr)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6290000-3600000-2"
 		},
 		{
 			"TEL_NO": "062-360-7470",
-			"ED_YMD": "20230420",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
-			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6290000-3600000-3"
 		},
 		{
 			"TEL_NO": "062-360-7470",
-			"ED_YMD": "20230421",
+			"ED_YMD": "20230417",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
@@ -58,7 +60,7 @@
 		},
 		{
 			"TEL_NO": "062-360-7470",
-			"ED_YMD": "20230421",
+			"ED_YMD": "20230417",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
@@ -69,6 +71,50 @@
 		},
 		{
 			"TEL_NO": "062-360-7470",
+			"ED_YMD": "20230418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6290000-3600000-6"
+		},
+		{
+			"TEL_NO": "062-360-7470",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6290000-3600000-7"
+		},
+		{
+			"TEL_NO": "062-360-7470",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6290000-3600000-8"
+		},
+		{
+			"TEL_NO": "062-360-7470",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6290000-3600000-9"
+		},
+		{
+			"TEL_NO": "062-360-7470",
 			"ED_YMD": "20230424",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
@@ -76,7 +122,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-6"
+			"EDU_LOCAL_ID": "6290000-3600000-10"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -87,7 +133,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-7"
+			"EDU_LOCAL_ID": "6290000-3600000-11"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -98,7 +144,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-8"
+			"EDU_LOCAL_ID": "6290000-3600000-12"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -109,7 +155,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-9"
+			"EDU_LOCAL_ID": "6290000-3600000-13"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -120,7 +166,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-10"
+			"EDU_LOCAL_ID": "6290000-3600000-14"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -131,7 +177,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-11"
+			"EDU_LOCAL_ID": "6290000-3600000-15"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -142,7 +188,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-12"
+			"EDU_LOCAL_ID": "6290000-3600000-16"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -153,7 +199,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-13"
+			"EDU_LOCAL_ID": "6290000-3600000-17"
 		},
 		{
 			"TEL_NO": "062-360-7470",
@@ -164,7 +210,7 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6290000-3600000-14"
+			"EDU_LOCAL_ID": "6290000-3600000-18"
 		}
 	],
 	"regionText": "광주광역시 서구"

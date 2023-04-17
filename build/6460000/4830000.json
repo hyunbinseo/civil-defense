@@ -1,31 +1,33 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "061-339-7874",
-			"ED_YMD": "20230424",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "전라남도 나주시 남산길 23 (남내동)",
-			"EDU_PLC_BOTTOM": "나주시민회관",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6460000-4830000-0"
 		},
 		{
 			"TEL_NO": "061-339-7874",
-			"ED_YMD": "20230425",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "전라남도 나주시 남산길 23 (남내동)",
-			"EDU_PLC_BOTTOM": "나주시민회관",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6460000-4830000-1"
 		},
 		{
 			"TEL_NO": "061-339-7874",
-			"ED_YMD": "20230425",
+			"ED_YMD": "20230424",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "전라남도 나주시 남산길 23 (남내동)",
@@ -36,7 +38,7 @@
 		},
 		{
 			"TEL_NO": "061-339-7874",
-			"ED_YMD": "20230426",
+			"ED_YMD": "20230425",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "전라남도 나주시 남산길 23 (남내동)",
@@ -47,6 +49,28 @@
 		},
 		{
 			"TEL_NO": "061-339-7874",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라남도 나주시 남산길 23 (남내동)",
+			"EDU_PLC_BOTTOM": "나주시민회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6460000-4830000-4"
+		},
+		{
+			"TEL_NO": "061-339-7874",
+			"ED_YMD": "20230426",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "전라남도 나주시 남산길 23 (남내동)",
+			"EDU_PLC_BOTTOM": "나주시민회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6460000-4830000-5"
+		},
+		{
+			"TEL_NO": "061-339-7874",
 			"ED_YMD": "20230427",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
@@ -54,7 +78,7 @@
 			"EDU_PLC_BOTTOM": "나주시민회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4830000-4"
+			"EDU_LOCAL_ID": "6460000-4830000-6"
 		},
 		{
 			"TEL_NO": "061-339-7874",
@@ -65,7 +89,7 @@
 			"EDU_PLC_BOTTOM": "나주시민회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4830000-5"
+			"EDU_LOCAL_ID": "6460000-4830000-7"
 		},
 		{
 			"TEL_NO": "061-339-7874",
@@ -76,7 +100,7 @@
 			"EDU_PLC_BOTTOM": "나주시민회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4830000-6"
+			"EDU_LOCAL_ID": "6460000-4830000-8"
 		}
 	],
 	"regionText": "전라남도 나주시"

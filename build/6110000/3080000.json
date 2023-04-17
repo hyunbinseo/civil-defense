@@ -1,9 +1,15 @@
 {
-	"targets": ["신편대원", "민방위대 편입 1~2년차 대원", "민방위대 편입 2년차 대원"],
+	"targets": [
+		"신편대원",
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230419",
+			"ED_YMD": "20230329",
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
@@ -14,62 +20,58 @@
 		},
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230425",
-			"EDU_ST_TM": "1300",
-			"EDU_END_TM": "1700",
-			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
-			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(www.cdec.kr)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6110000-3080000-1"
 		},
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230426",
-			"EDU_ST_TM": "1300",
-			"EDU_END_TM": "1700",
-			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
-			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6110000-3080000-2"
 		},
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230509",
-			"EDU_ST_TM": "1300",
-			"EDU_END_TM": "1700",
-			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
-			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(www.cdec.kr)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6110000-3080000-3"
 		},
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230510",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6110000-3080000-4"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230404",
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3080000-4"
-		},
-		{
-			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230510",
-			"EDU_ST_TM": "1800",
-			"EDU_END_TM": "2200",
-			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
-			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6110000-3080000-5"
 		},
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230516",
+			"ED_YMD": "20230405",
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
@@ -80,7 +82,7 @@
 		},
 		{
 			"TEL_NO": "02-901-6102",
-			"ED_YMD": "20230517",
+			"ED_YMD": "20230411",
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
@@ -91,6 +93,116 @@
 		},
 		{
 			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-8"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3080000-9"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230419",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-10"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-11"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230426",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-12"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-13"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230510",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-14"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230510",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3080000-15"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230516",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-16"
+		},
+		{
+			"TEL_NO": "02-901-6102",
+			"ED_YMD": "20230517",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강북구 삼각산로 85 (수유동)",
+			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3080000-17"
+		},
+		{
+			"TEL_NO": "02-901-6102",
 			"ED_YMD": "20230520",
 			"EDU_ST_TM": "0930",
 			"EDU_END_TM": "1330",
@@ -98,7 +210,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-8"
+			"EDU_LOCAL_ID": "6110000-3080000-18"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -109,7 +221,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6110000-3080000-9"
+			"EDU_LOCAL_ID": "6110000-3080000-19"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -120,7 +232,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-10"
+			"EDU_LOCAL_ID": "6110000-3080000-20"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -131,7 +243,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-11"
+			"EDU_LOCAL_ID": "6110000-3080000-21"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -142,7 +254,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-12"
+			"EDU_LOCAL_ID": "6110000-3080000-22"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -153,7 +265,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-13"
+			"EDU_LOCAL_ID": "6110000-3080000-23"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -164,7 +276,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-14"
+			"EDU_LOCAL_ID": "6110000-3080000-24"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -175,7 +287,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-15"
+			"EDU_LOCAL_ID": "6110000-3080000-25"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -186,7 +298,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-16"
+			"EDU_LOCAL_ID": "6110000-3080000-26"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -197,7 +309,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-17"
+			"EDU_LOCAL_ID": "6110000-3080000-27"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -208,7 +320,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-18"
+			"EDU_LOCAL_ID": "6110000-3080000-28"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -219,7 +331,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-19"
+			"EDU_LOCAL_ID": "6110000-3080000-29"
 		},
 		{
 			"TEL_NO": "02-901-6102",
@@ -230,7 +342,7 @@
 			"EDU_PLC_BOTTOM": "강북문화예술회관 행복실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3080000-20"
+			"EDU_LOCAL_ID": "6110000-3080000-30"
 		}
 	],
 	"regionText": "서울특별시 강북구"

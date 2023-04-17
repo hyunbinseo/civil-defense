@@ -1,6 +1,30 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
+		{
+			"TEL_NO": "041-339-7792",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6440000-4610000-0"
+		},
+		{
+			"TEL_NO": "041-339-7792",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6440000-4610000-1"
+		},
 		{
 			"TEL_NO": "041-339-7792",
 			"ED_YMD": "20230418",
@@ -10,7 +34,7 @@
 			"EDU_PLC_BOTTOM": "예산군 문예회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6440000-4610000-0"
+			"EDU_LOCAL_ID": "6440000-4610000-2"
 		},
 		{
 			"TEL_NO": "041-339-7792",
@@ -21,7 +45,7 @@
 			"EDU_PLC_BOTTOM": "예산군 문예회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6440000-4610000-1"
+			"EDU_LOCAL_ID": "6440000-4610000-3"
 		}
 	],
 	"regionText": "충청남도 예산군"

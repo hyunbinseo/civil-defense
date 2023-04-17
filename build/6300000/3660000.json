@@ -1,121 +1,123 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
-			"EDU_PLC_BOTTOM": "대전서구문화원",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-0"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
-			"EDU_PLC_BOTTOM": "대전서구문화원",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6300000-3660000-1"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230418",
+			"ED_YMD": "20230406",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100, 서구청 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-2"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230418",
+			"ED_YMD": "20230406",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100, 서구청 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-3"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230419",
+			"ED_YMD": "20230407",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100, 서구청 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-4"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230419",
+			"ED_YMD": "20230407",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100, 서구청 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-5"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230425",
+			"ED_YMD": "20230410",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-6"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230425",
+			"ED_YMD": "20230410",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20, 관저문예회관 3층 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-7"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230426",
+			"ED_YMD": "20230411",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100, 서구청 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-8"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230426",
+			"ED_YMD": "20230411",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
-			"EDU_PLC_BOTTOM": "관저문예회관",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100, 서구청 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-9"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230501",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
 			"EDU_PLC_BOTTOM": "대전서구문화원",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -124,9 +126,9 @@
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230501",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230417",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
 			"EDU_PLC_BOTTOM": "대전서구문화원",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -135,29 +137,29 @@
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230508",
+			"ED_YMD": "20230418",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
-			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-12"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230508",
+			"ED_YMD": "20230418",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
-			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6300000-3660000-13"
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230509",
+			"ED_YMD": "20230419",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
@@ -168,7 +170,7 @@
 		},
 		{
 			"TEL_NO": "042-288-2542",
-			"ED_YMD": "20230509",
+			"ED_YMD": "20230419",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
@@ -179,6 +181,116 @@
 		},
 		{
 			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-16"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20, 관저문예회관 3층 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-17"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230426",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-18"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230426",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-19"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-20"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-21"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230508",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-22"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230508",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-23"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-24"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20230509",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 관저동로105번길 20 (관저동)",
+			"EDU_PLC_BOTTOM": "관저문예회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6300000-3660000-25"
+		},
+		{
+			"TEL_NO": "042-288-2542",
 			"ED_YMD": "20230522",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
@@ -186,7 +298,7 @@
 			"EDU_PLC_BOTTOM": "대전서구문화원",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6300000-3660000-16"
+			"EDU_LOCAL_ID": "6300000-3660000-26"
 		},
 		{
 			"TEL_NO": "042-288-2542",
@@ -197,7 +309,7 @@
 			"EDU_PLC_BOTTOM": "대전서구문화원",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6300000-3660000-17"
+			"EDU_LOCAL_ID": "6300000-3660000-27"
 		},
 		{
 			"TEL_NO": "042-288-2542",
@@ -208,7 +320,7 @@
 			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6300000-3660000-18"
+			"EDU_LOCAL_ID": "6300000-3660000-28"
 		},
 		{
 			"TEL_NO": "042-288-2542",
@@ -219,7 +331,7 @@
 			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6300000-3660000-19"
+			"EDU_LOCAL_ID": "6300000-3660000-29"
 		},
 		{
 			"TEL_NO": "042-288-2542",
@@ -230,7 +342,7 @@
 			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6300000-3660000-20"
+			"EDU_LOCAL_ID": "6300000-3660000-30"
 		}
 	],
 	"regionText": "대전광역시 서구"

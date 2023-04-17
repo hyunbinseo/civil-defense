@@ -1,6 +1,295 @@
 {
-	"targets": ["민방위대 편입 2년차 대원"],
+	"targets": [
+		"신편대원",
+		"민방위대 편입 2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230307",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-0"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230308",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-1"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230309",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-2"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230310",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-3"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230314",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-4"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230315",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-5"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230316",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-6"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230317",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-7"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230321",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-8"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230322",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-9"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230323",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-10"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230324",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-11"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230328",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-12"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230329",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-13"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230330",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-14"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230331",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6110000-3040000-15"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-16"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6110000-3040000-17"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230404",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-18"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230405",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-19"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-20"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230407",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-21"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-22"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-23"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-24"
+		},
+		{
+			"TEL_NO": "02-450-7258",
+			"ED_YMD": "20230414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 광진구 광나루로56길 8 (구의동)",
+			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
+			"EDU_LOCAL_ID": "6110000-3040000-25"
+		},
 		{
 			"TEL_NO": "02-450-7258",
 			"ED_YMD": "20230418",
@@ -10,7 +299,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-0"
+			"EDU_LOCAL_ID": "6110000-3040000-26"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -21,7 +310,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-1"
+			"EDU_LOCAL_ID": "6110000-3040000-27"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -32,7 +321,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-2"
+			"EDU_LOCAL_ID": "6110000-3040000-28"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -43,7 +332,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-3"
+			"EDU_LOCAL_ID": "6110000-3040000-29"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -54,7 +343,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-4"
+			"EDU_LOCAL_ID": "6110000-3040000-30"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -65,7 +354,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-5"
+			"EDU_LOCAL_ID": "6110000-3040000-31"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -76,7 +365,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-6"
+			"EDU_LOCAL_ID": "6110000-3040000-32"
 		},
 		{
 			"TEL_NO": "02-450-7258",
@@ -87,7 +376,7 @@
 			"EDU_PLC_BOTTOM": "광진구 민방위교육훈련센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6110000-3040000-7"
+			"EDU_LOCAL_ID": "6110000-3040000-33"
 		}
 	],
 	"regionText": "서울특별시 광진구"

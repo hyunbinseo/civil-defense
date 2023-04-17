@@ -1,31 +1,33 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230424",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
-			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6460000-4840000-0"
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230425",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
-			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"ED_YMD": "20230410",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6460000-4840000-1"
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230425",
+			"ED_YMD": "20230424",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -36,7 +38,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230426",
+			"ED_YMD": "20230425",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -47,7 +49,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230426",
+			"ED_YMD": "20230425",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -58,7 +60,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230427",
+			"ED_YMD": "20230426",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -69,7 +71,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230427",
+			"ED_YMD": "20230426",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -80,7 +82,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230428",
+			"ED_YMD": "20230427",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -91,7 +93,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230428",
+			"ED_YMD": "20230427",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -102,7 +104,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230501",
+			"ED_YMD": "20230428",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -113,7 +115,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230501",
+			"ED_YMD": "20230428",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -124,7 +126,7 @@
 		},
 		{
 			"TEL_NO": "061-797-1931",
-			"ED_YMD": "20230502",
+			"ED_YMD": "20230501",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
@@ -132,6 +134,28 @@
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6460000-4840000-11"
+		},
+		{
+			"TEL_NO": "061-797-1931",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
+			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6460000-4840000-12"
+		},
+		{
+			"TEL_NO": "061-797-1931",
+			"ED_YMD": "20230502",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
+			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6460000-4840000-13"
 		}
 	],
 	"regionText": "전라남도 광양시"

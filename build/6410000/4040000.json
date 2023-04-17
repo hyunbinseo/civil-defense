@@ -1,6 +1,138 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "인터넷교육",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-0"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-1"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "인터넷교육",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6410000-4040000-2"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
+			"EDU_LOCAL_ID": "6410000-4040000-3"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230404",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-4"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230404",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-5"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-6"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230406",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-7"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-8"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-9"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-10"
+		},
+		{
+			"TEL_NO": "031-790-5148",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 하남시 대청로 10 (신장동)",
+			"EDU_PLC_BOTTOM": "하남시청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6410000-4040000-11"
+		},
 		{
 			"TEL_NO": "031-790-5148",
 			"ED_YMD": "20230415",
@@ -10,7 +142,7 @@
 			"EDU_PLC_BOTTOM": "하남시청 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4040000-0"
+			"EDU_LOCAL_ID": "6410000-4040000-12"
 		},
 		{
 			"TEL_NO": "031-790-5148",
@@ -21,7 +153,7 @@
 			"EDU_PLC_BOTTOM": "하남시청 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4040000-1"
+			"EDU_LOCAL_ID": "6410000-4040000-13"
 		},
 		{
 			"TEL_NO": "031-790-5148",
@@ -32,7 +164,7 @@
 			"EDU_PLC_BOTTOM": "하남시청 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4040000-2"
+			"EDU_LOCAL_ID": "6410000-4040000-14"
 		},
 		{
 			"TEL_NO": "031-790-5148",
@@ -43,7 +175,7 @@
 			"EDU_PLC_BOTTOM": "하남시청 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4040000-3"
+			"EDU_LOCAL_ID": "6410000-4040000-15"
 		},
 		{
 			"TEL_NO": "031-790-5148",
@@ -54,7 +186,7 @@
 			"EDU_PLC_BOTTOM": "하남시청 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4040000-4"
+			"EDU_LOCAL_ID": "6410000-4040000-16"
 		}
 	],
 	"regionText": "경기도 하남시"

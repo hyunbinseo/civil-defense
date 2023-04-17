@@ -1,31 +1,34 @@
 {
-	"targets": ["신편대원", "민방위대 편입 2년차 대원"],
+	"targets": [
+		"신편대원",
+		"민방위대 편입 2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "054-537-7236",
-			"ED_YMD": "20230418",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "경상북도 상주시 북상주로 24-42 (계산동)",
-			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
 			"EDU_LOCAL_ID": "6470000-5110000-0"
 		},
 		{
 			"TEL_NO": "054-537-7236",
-			"ED_YMD": "20230421",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "경상북도 상주시 북상주로 24-42 (계산동)",
-			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
+			"ED_YMD": "20230401",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
 			"EDU_LOCAL_ID": "6470000-5110000-1"
 		},
 		{
 			"TEL_NO": "054-537-7236",
-			"ED_YMD": "20230425",
+			"ED_YMD": "20230418",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경상북도 상주시 북상주로 24-42 (계산동)",
@@ -36,6 +39,28 @@
 		},
 		{
 			"TEL_NO": "054-537-7236",
+			"ED_YMD": "20230421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 상주시 북상주로 24-42 (계산동)",
+			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6470000-5110000-3"
+		},
+		{
+			"TEL_NO": "054-537-7236",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 상주시 북상주로 24-42 (계산동)",
+			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원",
+			"EDU_LOCAL_ID": "6470000-5110000-4"
+		},
+		{
+			"TEL_NO": "054-537-7236",
 			"ED_YMD": "20230428",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -43,7 +68,7 @@
 			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5110000-3"
+			"EDU_LOCAL_ID": "6470000-5110000-5"
 		},
 		{
 			"TEL_NO": "054-537-7236",
@@ -54,7 +79,7 @@
 			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5110000-4"
+			"EDU_LOCAL_ID": "6470000-5110000-6"
 		},
 		{
 			"TEL_NO": "054-537-7236",
@@ -65,7 +90,7 @@
 			"EDU_PLC_BOTTOM": "상주시 청소년수련관(세미나실)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5110000-5"
+			"EDU_LOCAL_ID": "6470000-5110000-7"
 		}
 	],
 	"regionText": "경상북도 상주시"
