@@ -1,11 +1,4 @@
-const yyyymmdd = new Date()
-	.toLocaleString('ko-KR', {
-		timeZone: 'Asia/Seoul',
-		year: 'numeric',
-		month: '2-digit',
-		day: '2-digit'
-	})
-	.replace(/[\s.]/g, '');
+const { VITE_YEAR } = import.meta.env;
 
 export const generateRequest = (
 	{ sigungu, sido }: { sigungu: string; sido: string },
@@ -21,10 +14,10 @@ export const generateRequest = (
 				pageIndex,
 				q_area_cd_2: sigungu,
 				q_area_cd_1: sido,
-				q_strdate: yyyymmdd,
-				q_enddate: `${yyyymmdd.substring(0, 4)}1231`,
-				searchDate1: yyyymmdd,
-				searchDate2: `${yyyymmdd.substring(0, 4)}1231`,
+				q_strdate: `${VITE_YEAR}0101`,
+				q_enddate: `${VITE_YEAR}1231`,
+				searchDate1: `${VITE_YEAR}0101`,
+				searchDate2: `${VITE_YEAR}1231`,
 				searchGb: '',
 				firstIndex: '1',
 				lastIndex: '1',

@@ -2,7 +2,7 @@
 
 interface ImportMetaEnv {
 	readonly VITE_DOMAIN: string;
-	readonly VITE_NOW: string;
+	readonly VITE_YEAR: string;
 }
 
 interface ImportMeta {
