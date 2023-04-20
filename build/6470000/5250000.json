@@ -35,6 +35,17 @@
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
 			"EDU_LOCAL_ID": "6470000-5250000-2"
+		},
+		{
+			"TEL_NO": "054-789-5891",
+			"ED_YMD": "20230518",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 울진군 후포면 동해대로 ",
+			"EDU_PLC_BOTTOM": "울진문화예술회관(후포)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6470000-5250000-3"
 		}
 	],
 	"regionText": "경상북도 울진군"
