@@ -28,8 +28,8 @@
 		{
 			"TEL_NO": "054-789-5891",
 			"ED_YMD": "20230517",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경상북도 울진군 울진읍 연호로 47, 울진문화센터",
 			"EDU_PLC_BOTTOM": "울진연호문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -39,8 +39,8 @@
 		{
 			"TEL_NO": "054-789-5891",
 			"ED_YMD": "20230518",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경상북도 울진군 후포면 동해대로 ",
 			"EDU_PLC_BOTTOM": "울진문화예술회관(후포)",
 			"CVD_EDU_SE_NM": "기본교육",

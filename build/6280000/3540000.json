@@ -237,25 +237,14 @@
 			"EDU_LOCAL_ID": "6280000-3540000-20"
 		},
 		{
-			"TEL_NO": "032-509-6383",
-			"ED_YMD": "20230403",
-			"EDU_ST_TM": "0000",
-			"EDU_END_TM": "2359",
-			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 부평대로 168 (부평동)",
-			"EDU_PLC_BOTTOM": "스마트민방위교육(www.cdec.kr)",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-21"
-		},
-		{
-			"TEL_NO": "032-509-6383",
+			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230403",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-22"
+			"EDU_LOCAL_ID": "6280000-3540000-21"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -265,7 +254,7 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6280000-3540000-23"
+			"EDU_LOCAL_ID": "6280000-3540000-22"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -276,13 +265,24 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-24"
+			"EDU_LOCAL_ID": "6280000-3540000-23"
 		},
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230410",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
+			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3540000-24"
+		},
+		{
+			"TEL_NO": "032-509-3941",
+			"ED_YMD": "20230411",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -292,8 +292,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230411",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -302,9 +302,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230411",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230412",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -314,8 +314,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230412",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -324,9 +324,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230412",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230413",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -336,8 +336,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230413",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -346,9 +346,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230413",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230415",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -357,7 +357,7 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230415",
+			"ED_YMD": "20230417",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
@@ -369,8 +369,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230417",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -379,9 +379,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230417",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230418",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -391,24 +391,13 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230418",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
-			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-35"
-		},
-		{
-			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230418",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-36"
+			"EDU_LOCAL_ID": "6280000-3540000-35"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -419,7 +408,7 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-37"
+			"EDU_LOCAL_ID": "6280000-3540000-36"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -430,13 +419,24 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-38"
+			"EDU_LOCAL_ID": "6280000-3540000-37"
 		},
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230419",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
+			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3540000-38"
+		},
+		{
+			"TEL_NO": "032-509-3941",
+			"ED_YMD": "20230420",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -446,8 +446,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230420",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -456,9 +456,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230420",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -467,7 +467,7 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230422",
+			"ED_YMD": "20230424",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
@@ -479,8 +479,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230424",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -489,9 +489,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230424",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230425",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -501,8 +501,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230425",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -511,9 +511,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230425",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230515",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -523,8 +523,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230515",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -533,9 +533,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230515",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230516",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -545,8 +545,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230516",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -555,9 +555,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230516",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230517",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -567,8 +567,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230517",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -577,9 +577,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230517",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230518",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -589,8 +589,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230518",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -599,9 +599,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230518",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230520",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -610,7 +610,7 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230520",
+			"ED_YMD": "20230522",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
@@ -622,8 +622,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230522",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -632,9 +632,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230522",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230523",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -644,24 +644,13 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230523",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
-			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-58"
-		},
-		{
-			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230523",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-59"
+			"EDU_LOCAL_ID": "6280000-3540000-58"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -672,7 +661,7 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-60"
+			"EDU_LOCAL_ID": "6280000-3540000-59"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -683,13 +672,24 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-61"
+			"EDU_LOCAL_ID": "6280000-3540000-60"
 		},
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230524",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
+			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3540000-61"
+		},
+		{
+			"TEL_NO": "032-509-3941",
+			"ED_YMD": "20230525",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -699,8 +699,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230525",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -709,9 +709,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230525",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230605",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -721,8 +721,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230605",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -731,9 +731,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230605",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230607",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -743,8 +743,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230607",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -753,9 +753,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230607",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230608",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -765,8 +765,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230608",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -775,9 +775,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230608",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230610",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -786,7 +786,7 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230610",
+			"ED_YMD": "20230612",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
@@ -798,8 +798,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230612",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -808,9 +808,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230612",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230613",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -820,8 +820,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230613",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -830,9 +830,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230613",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230614",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -842,8 +842,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230614",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -852,9 +852,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230614",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230615",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -864,8 +864,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230615",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -874,9 +874,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230615",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230617",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -885,7 +885,7 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230617",
+			"ED_YMD": "20230619",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
@@ -897,8 +897,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230619",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -907,9 +907,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230619",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230620",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -919,24 +919,13 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230620",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
-			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-83"
-		},
-		{
-			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230620",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-84"
+			"EDU_LOCAL_ID": "6280000-3540000-83"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -947,7 +936,7 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-85"
+			"EDU_LOCAL_ID": "6280000-3540000-84"
 		},
 		{
 			"TEL_NO": "032-509-3941",
@@ -958,13 +947,24 @@
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-86"
+			"EDU_LOCAL_ID": "6280000-3540000-85"
 		},
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230621",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
+			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
+			"EDU_LOCAL_ID": "6280000-3540000-86"
+		},
+		{
+			"TEL_NO": "032-509-3941",
+			"ED_YMD": "20230622",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -974,8 +974,8 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230622",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -984,9 +984,9 @@
 		},
 		{
 			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230622",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
+			"ED_YMD": "20230623",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -996,24 +996,13 @@
 		{
 			"TEL_NO": "032-509-3941",
 			"ED_YMD": "20230623",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
-			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-90"
-		},
-		{
-			"TEL_NO": "032-509-3941",
-			"ED_YMD": "20230623",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "인천광역시 부평구 굴포로 100 (삼산동)",
 			"EDU_PLC_BOTTOM": "부평구민방위교육장(삼산동)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3540000-91"
+			"EDU_LOCAL_ID": "6280000-3540000-90"
 		}
 	],
 	"regionText": "인천광역시 부평구"
