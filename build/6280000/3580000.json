@@ -13,8 +13,7 @@
 			"EDU_PLC_RDN_ADDR": "서울특별시 영등포구 국회대로 675, 안상규 벌꿀 (영등포동7가)",
 			"EDU_PLC_BOTTOM": "스마트 민방위(www.cdec.kr)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3580000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "032-899-2491",
@@ -23,8 +22,7 @@
 			"EDU_END_TM": "0000",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6280000-3580000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "032-899-2491",
@@ -33,8 +31,7 @@
 			"EDU_END_TM": "0000",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6280000-3580000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "032-899-2491",
@@ -44,8 +41,7 @@
 			"EDU_PLC_RDN_ADDR": "인천광역시 옹진군 백령면 백령로278번길 61-2",
 			"EDU_PLC_BOTTOM": "백령면사무소",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3580000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "032-899-2491",
@@ -55,8 +51,7 @@
 			"EDU_PLC_RDN_ADDR": "인천광역시 옹진군 영흥면 영흥로176번길 8, 3층 (늘푸른센터)",
 			"EDU_PLC_BOTTOM": "영흥면 늘푸른센터",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6280000-3580000-4"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "인천광역시 옹진군"

@@ -12,8 +12,7 @@
 			"EDU_END_TM": "0000",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6480000-5440000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "055-880-2265",
@@ -22,8 +21,7 @@
 			"EDU_END_TM": "0000",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6480000-5440000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "055-880-2265",
@@ -33,8 +31,7 @@
 			"EDU_PLC_RDN_ADDR": "경상남도 하동군 하동읍 섬진강대로 2222, 하동문화예술회관",
 			"EDU_PLC_BOTTOM": "하동군 문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6480000-5440000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 하동군"

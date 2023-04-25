@@ -12,8 +12,7 @@
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "부안군청 대회의실 (2층)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6450000-4790000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "063-580-4573",
@@ -22,8 +21,7 @@
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "부안군청 대회의실 (2층)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6450000-4790000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "063-580-4573",
@@ -33,8 +31,7 @@
 			"EDU_PLC_RDN_ADDR": "전라북도 부안군 부안읍 당산로 91, 부안군청",
 			"EDU_PLC_BOTTOM": "스마트민방위교육(www.cdec.kr)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6450000-4790000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "063-580-4573",
@@ -44,8 +41,7 @@
 			"EDU_PLC_RDN_ADDR": "전라북도 부안군 부안읍 당산로 91, 부안군청",
 			"EDU_PLC_BOTTOM": "스마트민방위교육(www.cdec.kr)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6450000-4790000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "전라북도 부안군"

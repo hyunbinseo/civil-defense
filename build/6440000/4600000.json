@@ -13,8 +13,7 @@
 			"EDU_PLC_RDN_ADDR": "충청남도 홍성군 홍성읍 내포로 164",
 			"EDU_PLC_BOTTOM": "홍주문화회관",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6440000-4600000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "041-630-1395",
@@ -24,8 +23,7 @@
 			"EDU_PLC_RDN_ADDR": "충청남도 홍성군 홍성읍 내포로 164",
 			"EDU_PLC_BOTTOM": "홍주문화회관",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6440000-4600000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "041-630-1395",
@@ -35,8 +33,7 @@
 			"EDU_PLC_RDN_ADDR": "충청남도 홍성군 홍성읍 내포로 164",
 			"EDU_PLC_BOTTOM": "홍주문화회관",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6440000-4600000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "041-630-1395",
@@ -45,8 +42,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6440000-4600000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "041-630-1395",
@@ -55,8 +51,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6440000-4600000-4"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "충청남도 홍성군"

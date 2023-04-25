@@ -13,8 +13,7 @@
 			"EDU_PLC_RDN_ADDR": "경기도 오산시 오산천로 271, 오산문화스포츠센터 1동 1층 1호 (오산동)",
 			"EDU_PLC_BOTTOM": "오산문화스포츠센터",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -24,8 +23,7 @@
 			"EDU_PLC_RDN_ADDR": "경기도 오산시 오산천로 271, 오산문화스포츠센터 1동 1층 1호 (오산동)",
 			"EDU_PLC_BOTTOM": "오산문화스포츠센터",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -35,8 +33,7 @@
 			"EDU_PLC_RDN_ADDR": "경기도 오산시 오산천로 271, 오산문화스포츠센터 1동 1층 1호 (오산동)",
 			"EDU_PLC_BOTTOM": "오산문화스포츠센터",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -46,8 +43,7 @@
 			"EDU_PLC_RDN_ADDR": "경기도 오산시 오산천로 271, 오산문화스포츠센터 1동 1층 1호 (오산동)",
 			"EDU_PLC_BOTTOM": "오산문화스포츠센터",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -57,8 +53,7 @@
 			"EDU_PLC_RDN_ADDR": "경기도 오산시 오산천로 271, 오산문화스포츠센터 1동 1층 1호 (오산동)",
 			"EDU_PLC_BOTTOM": "오산문화스포츠센터",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-4"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -68,8 +63,7 @@
 			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 40, 명수빌딩 (서교동)",
 			"EDU_PLC_BOTTOM": "디지털민방위",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-5"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -78,8 +72,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6410000-4000000-6"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -89,8 +82,7 @@
 			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 40, 명수빌딩 (서교동)",
 			"EDU_PLC_BOTTOM": "디지털민방위",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6410000-4000000-7"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
@@ -99,8 +91,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6410000-4000000-8"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "경기도 오산시"

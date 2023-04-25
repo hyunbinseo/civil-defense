@@ -14,8 +14,7 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 예천군 예천읍 충효로 111, 예천군청",
 			"EDU_PLC_BOTTOM": "인터넷교육",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6470000-5230000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "054-650-6151",
@@ -25,8 +24,7 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 예천군 예천읍 충효로 111, 예천군청",
 			"EDU_PLC_BOTTOM": "인터넷교육",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6470000-5230000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "054-650-6151",
@@ -36,8 +34,7 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 예천군 예천읍 충효로 393",
 			"EDU_PLC_BOTTOM": "예천군 청소년수련관 청소년극장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원",
-			"EDU_LOCAL_ID": "6470000-5230000-2"
+			"EDU_TGT_SE_NM": "신편대원"
 		},
 		{
 			"TEL_NO": "054-650-6151",
@@ -47,8 +44,7 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 예천군 예천읍 충효로 393",
 			"EDU_PLC_BOTTOM": "예천군 청소년수련관 청소년극장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5230000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		}
 	],
 	"regionText": "경상북도 예천군"

@@ -12,8 +12,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6420000-4320000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "033-480-2232",
@@ -22,8 +21,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6420000-4320000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "033-480-2232",
@@ -33,8 +31,7 @@
 			"EDU_PLC_RDN_ADDR": "강원도 양구군 양구읍 비봉로73번길 52",
 			"EDU_PLC_BOTTOM": "문화복지센터(공연장)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6420000-4320000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "033-480-2232",
@@ -44,8 +41,7 @@
 			"EDU_PLC_RDN_ADDR": "강원도 양구군 양구읍 비봉로73번길 52",
 			"EDU_PLC_BOTTOM": "문화복지센터(공연장)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6420000-4320000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "강원도 양구군"

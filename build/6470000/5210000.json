@@ -13,8 +13,7 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 성주군 성주읍 성주로 3200, 성주군청",
 			"EDU_PLC_BOTTOM": "인터넷교육(https://www.kcmes.or.kr)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6470000-5210000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "054-930-6475",
@@ -24,8 +23,7 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 성주군 성주읍 성주로 3200, 성주군청",
 			"EDU_PLC_BOTTOM": "인터넷교육(https://www.kcmes.or.kr)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6470000-5210000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "054-930-6475",
@@ -34,8 +32,7 @@
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "성주문화예술회관 소강당(3층)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5210000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "054-930-6475",
@@ -44,8 +41,7 @@
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "성주문화예술회관 소강당(3층)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5210000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "054-930-6475",
@@ -54,8 +50,7 @@
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "성주문화예술회관 소강당(3층)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5210000-4"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "054-930-6475",
@@ -64,8 +59,7 @@
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "성주문화예술회관 소강당(3층)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6470000-5210000-5"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상북도 성주군"

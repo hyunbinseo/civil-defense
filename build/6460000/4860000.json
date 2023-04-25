@@ -13,8 +13,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6460000-4860000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "061-360-8613",
@@ -23,8 +22,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6460000-4860000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "061-360-8613",
@@ -34,8 +32,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 곡성군 곡성읍 중앙로 59",
 			"EDU_PLC_BOTTOM": "군민회관(열린마당)",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4860000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-360-8613",
@@ -45,8 +42,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 곡성군 곡성읍 중앙로 59",
 			"EDU_PLC_BOTTOM": "군민회관(열린마당)",
 			"CVD_EDU_SE_NM": "기타교육",
-			"EDU_TGT_SE_NM": "민방위대장",
-			"EDU_LOCAL_ID": "6460000-4860000-3"
+			"EDU_TGT_SE_NM": "민방위대장"
 		}
 	],
 	"regionText": "전라남도 곡성군"

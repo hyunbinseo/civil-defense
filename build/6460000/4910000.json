@@ -12,8 +12,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6460000-4910000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "061-860-6173",
@@ -22,8 +21,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6460000-4910000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "061-860-6173",
@@ -33,8 +31,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 장흥군 장흥읍 흥성로 55 (장흥군민회관)",
 			"EDU_PLC_BOTTOM": "장흥군민회관 3층 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4910000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-860-6173",
@@ -44,8 +41,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 장흥군 장흥읍 흥성로 55 (장흥군민회관)",
 			"EDU_PLC_BOTTOM": "장흥군민회관 3층 대회의실",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4910000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라남도 장흥군"

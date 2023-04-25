@@ -13,8 +13,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 무안읍 무안로 ",
 			"EDU_PLC_BOTTOM": "승달문화예술회관 소공연장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-0"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-4038",
@@ -24,8 +23,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 무안읍 무안로 ",
 			"EDU_PLC_BOTTOM": "승달문화예술회관 소공연장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-1"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-4038",
@@ -35,8 +33,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 삼향읍 남악3로 40",
 			"EDU_PLC_BOTTOM": "남악복합주민센터 4층 공연장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-2"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-4038",
@@ -46,8 +43,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 삼향읍 남악3로 40",
 			"EDU_PLC_BOTTOM": "남악복합주민센터 4층 공연장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-3"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-4038",
@@ -57,8 +53,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 일로읍 삼일로 ",
 			"EDU_PLC_BOTTOM": "일로읍사무소 회의실",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-4"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-4038",
@@ -68,8 +63,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 삼향읍 남악3로 40",
 			"EDU_PLC_BOTTOM": "남악복합주민센터 4층 공연장",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-5"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-4038",
@@ -79,8 +73,7 @@
 			"EDU_PLC_RDN_ADDR": "전라남도 무안군 청계면 청운로 ",
 			"EDU_PLC_BOTTOM": "청계면사무소 회의실",
 			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-6"
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-5811",
@@ -89,8 +82,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원",
-			"EDU_LOCAL_ID": "6460000-4950000-7"
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "061-450-5811",
@@ -99,8 +91,7 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상",
-			"EDU_LOCAL_ID": "6460000-4950000-8"
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "전라남도 무안군"
