@@ -1,1 +1,24 @@
-{ "targets": [], "schedules": [], "regionText": "전라북도 무주군" }
+{
+	"targets": ["민방위대 편입 3~4년차 대원", "민방위대 편입 5년차 이상"],
+	"schedules": [
+		{
+			"TEL_NO": "063-320-2449",
+			"ED_YMD": "20230502",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "063-320-2449",
+			"ED_YMD": "20230502",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		}
+	],
+	"regionText": "전라북도 무주군"
+}
