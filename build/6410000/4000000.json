@@ -60,29 +60,9 @@
 			"ED_YMD": "20230401",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
-			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 40, 명수빌딩 (서교동)",
-			"EDU_PLC_BOTTOM": "디지털민방위",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
-		},
-		{
-			"TEL_NO": "031-8036-7802",
-			"ED_YMD": "20230401",
-			"EDU_ST_TM": "0000",
-			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
-		},
-		{
-			"TEL_NO": "031-8036-7802",
-			"ED_YMD": "20230401",
-			"EDU_ST_TM": "0000",
-			"EDU_END_TM": "2359",
-			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 40, 명수빌딩 (서교동)",
-			"EDU_PLC_BOTTOM": "디지털민방위",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
 			"TEL_NO": "031-8036-7802",
