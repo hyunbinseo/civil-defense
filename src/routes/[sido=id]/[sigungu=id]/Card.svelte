@@ -84,18 +84,20 @@
 					{/if}
 					{schedule.EDU_PLC_BOTTOM}
 				</div>
-				<div>
-					담당 공무원: <a on:click|stopPropagation href={telHref}>{schedule.TEL_NO}</a>
-				</div>
-
-				<div>
-					일정 등록:
-					<a
-						on:click|stopPropagation
-						href="https://www.google.com/calendar/render?{query.toString()}"
-						target="_blank">Google 캘린더</a
-					>
-				</div>
+				<ul>
+					<li>
+						전화 문의:
+						<a on:click|stopPropagation href={telHref}>{schedule.TEL_NO}</a>
+					</li>
+					<li>
+						일정 등록:
+						<a
+							on:click|stopPropagation
+							href="https://www.google.com/calendar/render?{query.toString()}"
+							target="_blank">Google 캘린더</a
+						>
+					</li>
+				</ul>
 			</div>
 		{/if}
 	</div>
@@ -131,16 +133,19 @@
 	}
 	a {
 		text-decoration: underline;
-		text-decoration-color: #6b7280;
+		text-decoration-color: var(--gray-500);
 		text-underline-offset: 3px;
+	}
+	@media (pointer: fine) {
+		a:hover {
+			color: var(--indigo-700);
+			text-decoration-color: var(--indigo-700);
+		}
 	}
 	.collapsed {
 		padding-top: 1rem;
 		display: flex;
 		flex-direction: column;
 		row-gap: 1rem;
-	}
-	.address {
-		word-break: keep-all;
 	}
 </style>

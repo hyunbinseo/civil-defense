@@ -28,7 +28,7 @@
 	$: message = !filteredSchedules.length
 		? '교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
 		: selectedTarget.match(/[3-5]/)
-		? '3년 차 이상은 사이버 교육으로 진행되며, 반드시 본인이 속한 지자체의 안내에 따라 이수하셔야 합니다. (타 시군구 교육 참여 불가)'
+		? '3년 차 이상은 사이버 교육으로 진행되며, 타 시⋅군⋅구 교육에 참여할 수 없습니다. 소속 지자체의 안내에 따라 참여하시기 바랍니다.'
 		: '';
 </script>
 
@@ -39,7 +39,8 @@
 		bind:value={selectedTarget}
 		on:change={() => (list.scrollTop = 0)}
 		disabled={!data.targets.length}
-		class="mb-3 appearance-none border bg-transparent p-4"
+		class="appearance-none border bg-transparent p-4"
+		class:border-b-0={!message}
 	>
 		<option value="">연차를 선택해주세요.</option>
 		{#each data.targets as target}
@@ -48,12 +49,12 @@
 	</select>
 
 	{#if message}
-		<p class="border border-red-700 p-4 text-red-700" transition:slide|local>
+		<p class="bg-red-50 p-5 text-red-700" transition:slide|local>
 			{message}
 		</p>
 	{/if}
 
-	<div bind:this={list} class="mt-3 flex flex-1 flex-col space-y-6 overflow-y-auto pb-6">
+	<div bind:this={list} class="flex flex-1 flex-col overflow-y-auto pb-6">
 		{#if filteredSchedules.length}
 			<ul class="flex flex-col divide-y border">
 				{#each filteredSchedules as schedule, index (schedule.EDU_LOCAL_ID)}
@@ -64,12 +65,13 @@
 			</ul>
 		{/if}
 		<button
+			class="mt-6"
 			on:click={() => {
 				showPastSchedules = !showPastSchedules;
 				list.scrollTop = 0;
 			}}
 		>
-			지난 교육 일정 {showPastSchedules ? '숨기기' : '보이기'}
+			과거 교육 일정 {showPastSchedules ? '숨기기' : '보이기'}
 		</button>
 	</div>
 </div>
@@ -81,5 +83,11 @@
 		background-origin: content-box;
 		background-repeat: no-repeat;
 		background-position-x: 100%;
+		background-color: var(--gray-100);
+		border-color: theme('borderColor.DEFAULT', currentColor);
+	}
+	select:focus {
+		outline: auto 5px -webkit-focus-ring-color;
+		outline-offset: -2px;
 	}
 </style>

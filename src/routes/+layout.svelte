@@ -44,14 +44,7 @@
 	<meta property="og:description" content={description} />
 </svelte:head>
 
-<div class="relative flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
-	<a
-		href="https://github.com/hyunbinseo/civil-defense#readme"
-		aria-label="GitHub 저장소"
-		class="absolute right-0 top-0"
-	>
-		<Octocat />
-	</a>
+<div class="content flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
 	<header class="mt-6 flex flex-col-reverse">
 		<h1 class="mt-1 text-2xl font-bold">{heading}</h1>
 		<div class="flex items-center">
@@ -79,7 +72,7 @@
 							{#each sigungu as [sigunguId, sigunguText]}
 								{@const href = `/${sidoId}/${sigunguId}`}
 								<li>
-									<a {href} class:text-indigo-700={href === $page.url.pathname}>
+									<a {href} class:font-bold={href === $page.url.pathname}>
 										{sidoText}
 										{sigunguText}
 									</a>
@@ -116,15 +109,34 @@
 		<button class="mt-8 w-full bg-indigo-600 px-3.5 py-2.5 text-sm text-white hover:bg-indigo-700">
 			확인했습니다.
 		</button>
+		<a
+			href="https://github.com/hyunbinseo/civil-defense#readme"
+			aria-label="GitHub 저장소"
+			class="absolute right-0 top-0"
+		>
+			<Octocat />
+		</a>
 	</form>
 </dialog>
 
 <style>
+	.content {
+		background-image: linear-gradient(
+			to right,
+			var(--green) 0,
+			var(--green) 33.3%,
+			var(--blue) 33.3%,
+			var(--blue) 66.6%,
+			var(--yellow) 66.6%
+		);
+		background-size: 100% 0.75rem;
+		background-repeat: no-repeat;
+	}
 	details summary {
 		cursor: pointer;
 	}
 	details[open] summary {
-		background-color: rgb(243 244 246);
+		background-color: var(--gray-100);
 		position: sticky;
 		top: -1px;
 	}
@@ -135,9 +147,14 @@
 	details ul li:not(:first-child) {
 		margin-top: 1rem;
 	}
-	details ul li a {
+	details a {
 		display: block;
 		scroll-margin-top: 4.5rem;
+	}
+	@media (pointer: fine) {
+		details a:hover:not(.font-bold) {
+			color: var(--indigo-700);
+		}
 	}
 	dialog::backdrop {
 		backdrop-filter: blur(8px) brightness(0.3);
