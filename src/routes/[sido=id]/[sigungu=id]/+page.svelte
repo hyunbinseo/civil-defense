@@ -21,9 +21,9 @@
 		if (!validTarget) selectedTarget = '';
 	});
 
-	$: filteredSchedules = data.schedules
-		.filter(({ EDU_TGT_SE_NM }) => (!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget))
-		.filter(({ DATE }) => (showPastSchedules ? true : Date.now() < DATE.getTime()));
+	$: filteredSchedules = data.schedules.filter(({ EDU_TGT_SE_NM }) =>
+		!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget
+	);
 
 	$: message = !filteredSchedules.length
 		? '교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
@@ -57,9 +57,10 @@
 	<div bind:this={list} class="flex flex-1 flex-col overflow-y-auto pb-6">
 		{#if filteredSchedules.length}
 			<ul class="flex flex-col divide-y border">
-				{#each filteredSchedules as schedule, index (schedule.EDU_LOCAL_ID)}
-					<li>
-						<Card {schedule} expanded={index === 0} hideTarget={!!selectedTarget} />
+				{#each filteredSchedules as schedule (schedule.EDU_LOCAL_ID)}
+					{@const now = Date.now()}
+					<li class:hidden={!showPastSchedules && schedule.DATE.getTime() < now}>
+						<Card {schedule} hideTarget={!!selectedTarget} />
 					</li>
 				{/each}
 			</ul>

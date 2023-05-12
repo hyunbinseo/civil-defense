@@ -10,10 +10,11 @@ body {
 	--blue: rgb(0, 153, 204);
 	--yellow: rgb(255, 204, 0);
 	/* Tailwind Colors */
-	--gray-100: rgb(243 244 246);
-	--gray-500: rgb(107, 114, 128);
-	--gray-900: rgb(17 24 39);
-	--indigo-700: rgb(67 56 202);
+	--gray-50: #f9fafb;
+	--gray-100: #f3f4f6;
+	--gray-500: #6b7280;
+	--gray-900: #111827;
+	--indigo-700: #4338ca;
 }
 
 body {
