@@ -16,6 +16,7 @@ build/_app/*
 .env.local
 .env.development.local
 .env.production.local
+.env.sendgrid.json
 
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
