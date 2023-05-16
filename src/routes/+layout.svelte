@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { dev, version } from '$app/environment';
 	import { page } from '$app/stores';
-	import { PUBLIC_YEAR } from '$env/static/public';
+	import { PUBLIC_DOMAIN, PUBLIC_YEAR } from '$env/static/public';
 	import Octocat from '$lib/Octocat.svelte';
 	import { generateList } from '$lib/regions';
 	import { onMount } from 'svelte';
@@ -43,6 +43,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content={title} />
 	<meta property="og:description" content={description} />
+	<link rel="canonical" href="{PUBLIC_DOMAIN}{$page.url.pathname}" />
 </svelte:head>
 
 <div class="content flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
