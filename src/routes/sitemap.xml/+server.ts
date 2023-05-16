@@ -1,4 +1,5 @@
 import { version } from '$app/environment';
+import { PUBLIC_DOMAIN } from '$env/static/public';
 import { sidoData, sigunguData } from '$lib/regions';
 import { Liquid } from 'liquidjs';
 import type { RequestHandler } from './$types';
@@ -20,7 +21,7 @@ export const GET = (async () => {
 
 	const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n${await engine.render(
 		engine.parse(template),
-		{ domain: import.meta.env.VITE_DOMAIN, lastmod, pathnames }
+		{ domain: PUBLIC_DOMAIN, lastmod, pathnames }
 	)}`;
 
 	return new Response(sitemap, { headers: { 'Content-Type': 'application/xml' } });

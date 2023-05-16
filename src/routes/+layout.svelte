@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev, version } from '$app/environment';
 	import { page } from '$app/stores';
+	import { PUBLIC_YEAR } from '$env/static/public';
 	import Octocat from '$lib/Octocat.svelte';
 	import { generateList } from '$lib/regions';
 	import { onMount } from 'svelte';
@@ -20,7 +21,7 @@
 		}
 	});
 
-	const heading = `${import.meta.env.VITE_YEAR}년도 민방위 교육 일정`;
+	const heading = `${PUBLIC_YEAR}년도 민방위 교육 일정`;
 
 	$: title = [$page.data.regionText, heading].filter((v) => v).join(' - ');
 
