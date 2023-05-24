@@ -22,6 +22,8 @@ export type Data = {
 const createJsonResponse = (data: Data) => json(data);
 
 export const GET = (async ({ params, fetch }) => {
+	console.log();
+	
 	const t0 = performance.now();
 
 	const sidoId = Number(params.sido);
@@ -32,17 +34,6 @@ export const GET = (async ({ params, fetch }) => {
 	const regionText = `${sidoData.get(sidoId)} ${sigunguData[sidoId][sigunguId]}`;
 
 	if (dev) return createJsonResponse({ ...sample, regionText });
-
-	const baseText = `✓ fetching ${regionText} - `;
-	const baseTextLength = baseText.length + regionText.replace(/ /g, '').length;
-
-	process.stdout.write(baseText);
-
-	const updateTerminal = (content: string) => {
-		process.stdout.cursorTo(baseTextLength);
-		process.stdout.clearLine(1);
-		process.stdout.write(content);
-	};
 
 	const educationTargetSet = new Set<string>();
 	const scheduleSet = new Set<string>();
@@ -58,7 +49,7 @@ export const GET = (async ({ params, fetch }) => {
 		}
 	};
 
-	updateTerminal('1/?');
+	console.log(`${regionText} - 1/?`);
 
 	const initialResponse = await fetch(generateRequest(params, 1));
 
@@ -74,7 +65,7 @@ export const GET = (async ({ params, fetch }) => {
 	addToSet(eduShcList);
 
 	for (let i = 2; i <= pageSize; i += 1) {
-		updateTerminal(`${i}/${pageSize}`);
+		console.log(`${regionText} - ${i}/${pageSize}`);
 
 		const response = await fetch(generateRequest(params, i));
 
@@ -97,7 +88,7 @@ export const GET = (async ({ params, fetch }) => {
 
 	const t1 = performance.now();
 
-	updateTerminal(`${Math.round(t1 - t0)}ms\n`);
+	console.log(`${Math.round(t1 - t0).toLocaleString('ko-KR')}ms`);
 
 	return createJsonResponse({ targets, schedules, regionText });
 }) satisfies RequestHandler;
