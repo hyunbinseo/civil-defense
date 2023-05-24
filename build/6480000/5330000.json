@@ -91,6 +91,26 @@
 			"EDU_PLC_BOTTOM": "거주지 읍.면.동사무소",
 			"CVD_EDU_SE_NM": "서면교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-650-5915",
+			"ED_YMD": "20230531",
+			"EDU_ST_TM": "1700",
+			"EDU_END_TM": "2100",
+			"EDU_PLC_RDN_ADDR": "경상남도 통영시 광도면 향교옆길 31",
+			"EDU_PLC_BOTTOM": "통영시농업기술센터 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-650-5915",
+			"ED_YMD": "20230603",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 통영시 광도면 향교옆길 31",
+			"EDU_PLC_BOTTOM": "통영시농업기술센터 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 통영시"

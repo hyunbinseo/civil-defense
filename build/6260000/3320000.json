@@ -12,16 +12,6 @@
 			"ED_YMD": "20230403",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
-			"EDU_PLC_RDN_ADDR": "부산광역시 북구 낙동대로1570번길 33 (구포동)",
-			"EDU_PLC_BOTTOM": "사이버 교육",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대편입 3~4년차대원"
-		},
-		{
-			"TEL_NO": "051-309-4132",
-			"ED_YMD": "20230403",
-			"EDU_ST_TM": "0000",
-			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대편입 3~4년차대원"
@@ -33,6 +23,15 @@
 			"EDU_END_TM": "2359",
 			"EDU_PLC_RDN_ADDR": "부산광역시 북구 낙동대로1570번길 33 (구포동)",
 			"EDU_PLC_BOTTOM": "사이버 교육",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대편입 3~4년차대원"
+		},
+		{
+			"TEL_NO": "051-309-4132",
+			"ED_YMD": "20230403",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대편입 5년차 이상"
 		},
@@ -41,7 +40,8 @@
 			"ED_YMD": "20230403",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
-			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"EDU_PLC_RDN_ADDR": "부산광역시 북구 낙동대로1570번길 33 (구포동)",
+			"EDU_PLC_BOTTOM": "사이버 교육",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대편입 5년차 이상"
 		},

@@ -8,16 +8,6 @@
 	"schedules": [
 		{
 			"TEL_NO": "063-281-2081",
-			"ED_YMD": "20230125",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "2359",
-			"EDU_PLC_RDN_ADDR": "전라북도 전주시 완산구 노송광장로 10, 전주시청 (서노송동)",
-			"EDU_PLC_BOTTOM": "민방위 사이버 교육",
-			"CVD_EDU_SE_NM": "사이버교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
-		},
-		{
-			"TEL_NO": "063-281-2081",
 			"ED_YMD": "20230407",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
