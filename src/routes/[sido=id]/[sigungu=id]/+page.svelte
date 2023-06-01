@@ -25,6 +25,11 @@
 		!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget
 	);
 
+	$: now = (() => {
+		filteredSchedules;
+		return Date.now();
+	})();
+
 	$: message = !filteredSchedules.length
 		? '교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
 		: selectedTarget.match(/[3-5]/)
@@ -58,7 +63,8 @@
 		{#if filteredSchedules.length}
 			<ul class="flex flex-col divide-y border">
 				{#each filteredSchedules as schedule (schedule.EDU_LOCAL_ID)}
-					{@const now = Date.now()}
+					<!-- In the static HTML, the items are hidden based on the pre-rendered time. -->
+					<!-- Some items can be hidden after hydration when the client time is loaded. -->
 					<li class:hidden={!showPastSchedules && schedule.DATE.getTime() < now}>
 						<Card {schedule} hideTarget={!!selectedTarget} />
 					</li>
