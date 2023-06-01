@@ -62,11 +62,11 @@
 	</header>
 	<div class="mt-8 flex flex-1 gap-x-6 overflow-y-hidden">
 		<!-- Column: Select Region -->
-		<div
+		<aside
 			class="overflow-y-auto max-sm:flex-1 sm:w-60"
 			class:max-sm:hidden={$page.url.pathname !== '/'}
 		>
-			<div class="mb-6 divide-y border">
+			<nav class="mb-6 divide-y border">
 				{#each generateList() as { sido: [sidoId, sidoText], sigungu }}
 					<details>
 						<summary>{sidoText}</summary>
@@ -83,8 +83,8 @@
 						</ul>
 					</details>
 				{/each}
-			</div>
-		</div>
+			</nav>
+		</aside>
 		<!-- Column -->
 		<div class="flex-1" class:max-sm:hidden={$page.url.pathname === '/'}>
 			<slot />
