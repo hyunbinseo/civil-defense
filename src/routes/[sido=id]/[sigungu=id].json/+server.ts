@@ -23,7 +23,7 @@ const createJsonResponse = (data: Data) => json(data);
 
 export const GET = (async ({ params, fetch }) => {
 	console.log();
-	
+
 	const t0 = performance.now();
 
 	const sidoId = Number(params.sido);
