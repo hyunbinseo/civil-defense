@@ -124,6 +124,16 @@
 			"EDU_PLC_BOTTOM": "대소면행정복지센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20230623",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 음성읍 용광로 81-5, 음성군 농업기술센터",
+			"EDU_PLC_BOTTOM": "농업기술센터 음성명작관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "충청북도 음성군"
