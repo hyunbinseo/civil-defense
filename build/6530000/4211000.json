@@ -29,7 +29,7 @@
 			"ED_YMD": "20230411",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
 			"EDU_PLC_BOTTOM": "동해시 평생교육센터 대강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원"
@@ -39,7 +39,7 @@
 			"ED_YMD": "20230412",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
 			"EDU_PLC_BOTTOM": "동해시 평생교육센터 대강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원"
@@ -49,7 +49,7 @@
 			"ED_YMD": "20230413",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
 			"EDU_PLC_BOTTOM": "동해시 평생교육센터 대강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
@@ -59,11 +59,11 @@
 			"ED_YMD": "20230414",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 동해시 감추7길 52, 동해시평생학습관 (천곡동)",
 			"EDU_PLC_BOTTOM": "동해시 평생교육센터 대강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		}
 	],
-	"regionText": "강원도 동해시"
+	"regionText": "강원특별자치도 동해시"
 }

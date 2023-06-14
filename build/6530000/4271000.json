@@ -28,7 +28,7 @@
 			"ED_YMD": "20230406",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 영월군 영월읍 단종로 ",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 영월군 영월읍 단종로 ",
 			"EDU_PLC_BOTTOM": "영월문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
@@ -38,7 +38,7 @@
 			"ED_YMD": "20230406",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "강원도 영월군 영월읍 단종로 ",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 영월군 영월읍 단종로 ",
 			"EDU_PLC_BOTTOM": "영월문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
@@ -48,11 +48,11 @@
 			"ED_YMD": "20230407",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 영월군 주천면 주천로58번길 10-5",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 영월군 주천면 주천로58번길 10-5",
 			"EDU_PLC_BOTTOM": "주천문화회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
-	"regionText": "강원도 영월군"
+	"regionText": "강원특별자치도 영월군"
 }

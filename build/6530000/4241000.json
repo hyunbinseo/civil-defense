@@ -19,7 +19,7 @@
 			"ED_YMD": "20230403",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
-			"EDU_PLC_RDN_ADDR": "강원도 삼척시 중앙로 296, 삼척시청 (교동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 삼척시 중앙로 296, 삼척시청 (교동)",
 			"EDU_PLC_BOTTOM": "스마트민방위(www.cdec.kr)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
@@ -29,7 +29,7 @@
 			"ED_YMD": "20230406",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 삼척시 엑스포로 45 (성남동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 삼척시 엑스포로 45 (성남동)",
 			"EDU_PLC_BOTTOM": "삼척문화예술회관 소공연장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
@@ -39,7 +39,7 @@
 			"ED_YMD": "20230406",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "강원도 삼척시 엑스포로 45 (성남동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 삼척시 엑스포로 45 (성남동)",
 			"EDU_PLC_BOTTOM": "삼척문화예술회관 소공연장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
@@ -49,11 +49,11 @@
 			"ED_YMD": "20230407",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "강원도 삼척시 엑스포로 45 (성남동)",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 삼척시 엑스포로 45 (성남동)",
 			"EDU_PLC_BOTTOM": "삼척문화예술회관 소공연장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
-	"regionText": "강원도 삼척시"
+	"regionText": "강원특별자치도 삼척시"
 }
