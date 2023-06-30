@@ -16,6 +16,7 @@ build/_app/*
 .env.local
 .env.development.local
 .env.production.local
+.env.sendgrid.json
 
 # Ignore files for PNPM, NPM and YARN
 pnpm-lock.yaml
