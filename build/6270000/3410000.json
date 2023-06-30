@@ -90,6 +90,15 @@
 			"ED_YMD": "20230501",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20230501",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
 			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 139 (동인동1가)",
 			"EDU_PLC_BOTTOM": "인터넷교육(우측 안내문 참조)",
 			"CVD_EDU_SE_NM": "사이버교육",
