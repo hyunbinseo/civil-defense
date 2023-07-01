@@ -3,7 +3,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && prettier --write ./build",
-		"build:schedule": "pm2 start cli/build.now.js --cron-restart=\"00 12 * * WED\" --time",
+		"build:schedule": "pm2 start ecosystem.config.cjs",
 		"preview": "vite preview",
 		"deploy": "wrangler pages deploy ./build",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
