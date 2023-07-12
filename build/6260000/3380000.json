@@ -162,6 +162,24 @@
 			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0516104134",
+			"ED_YMD": "20230801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "0516104134",
+			"ED_YMD": "20230801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "부산광역시 수영구"

@@ -203,6 +203,56 @@
 			"EDU_PLC_BOTTOM": "전주교육문화회관(공연장)",
 			"CVD_EDU_SE_NM": "기타교육",
 			"EDU_TGT_SE_NM": "민방위대장"
+		},
+		{
+			"TEL_NO": "063-281-2081",
+			"ED_YMD": "20230915",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "전라북도 전주시 덕진구 벚꽃로 55 (진북동)",
+			"EDU_PLC_BOTTOM": "덕진구청 강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "063-281-2081",
+			"ED_YMD": "20230915",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라북도 전주시 덕진구 벚꽃로 55 (진북동)",
+			"EDU_PLC_BOTTOM": "덕진구청 강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "063-281-2081",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라북도 전주시 덕진구 안덕원로 71, 전북교육문화회관 (진북동)",
+			"EDU_PLC_BOTTOM": "전주교육문화회관(공연장)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "063-281-2081",
+			"ED_YMD": "20230921",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "전라북도 전주시 덕진구 벚꽃로 55 (진북동)",
+			"EDU_PLC_BOTTOM": "덕진구청 강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "063-281-2081",
+			"ED_YMD": "20230921",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라북도 전주시 덕진구 벚꽃로 55 (진북동)",
+			"EDU_PLC_BOTTOM": "덕진구청 강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라북도 전주시 완산구"
