@@ -92,6 +92,10 @@
 	</div>
 </div>
 
+<!-- 
+	tailwindcss@3.3.3 implements <dialog> padding reset in pre-flight.
+	Since a custom padding .p-6 was already set, nothing is affected.
+-->
 <dialog bind:this={dialog} class="max-w-sm p-6" on:cancel|preventDefault>
 	<form method="dialog">
 		<header class="mt-1">
