@@ -87,6 +87,56 @@
 		},
 		{
 			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230911",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230911",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230910",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230907",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230828",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
 			"ED_YMD": "20230403",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "0000",
@@ -96,12 +146,40 @@
 		},
 		{
 			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230828",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
 			"ED_YMD": "20230403",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "0000",
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230731",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230731",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
 			"TEL_NO": "053-810-5573",
@@ -215,6 +293,36 @@
 		},
 		{
 			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230904",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230831",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230907",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
 			"ED_YMD": "20230430",
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
@@ -291,6 +399,16 @@
 			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
 			"EDU_PLC_BOTTOM": "경산시립박물관",
 			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-810-5573",
+			"ED_YMD": "20230904",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 경산시 박물관로 46 (사동)",
+			"EDU_PLC_BOTTOM": "경산시립박물관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],

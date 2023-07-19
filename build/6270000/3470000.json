@@ -192,6 +192,16 @@
 			"EDU_PLC_BOTTOM": "대구공업대학교",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20230713",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "대구광역시 달서구"

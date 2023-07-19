@@ -142,6 +142,16 @@
 			"EDU_PLC_BOTTOM": "영종 하늘문화센터 강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032-760-7818",
+			"ED_YMD": "20230718",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 중구 우현로20번길 46, 중구 민방위교육장 (신생동)",
+			"EDU_PLC_BOTTOM": "중구 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "인천광역시 중구"
