@@ -192,6 +192,26 @@
 			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-360-7470",
+			"ED_YMD": "20230516",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 경열로 33 (농성동, 서구청)",
+			"EDU_PLC_BOTTOM": "민방위실전훈련센터(서구청 지하2층)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-360-7470",
+			"ED_YMD": "20230524",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 경열로 33 (농성동, 서구청)",
+			"EDU_PLC_BOTTOM": "민방위실전훈련센터(서구청 지하2층)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "광주광역시 서구"

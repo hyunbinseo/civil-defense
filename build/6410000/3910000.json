@@ -460,6 +460,146 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230908",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 안중읍 서동대로 1531",
+			"EDU_PLC_BOTTOM": "안중(서부)문예회관 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230908",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 안중읍 서동대로 1531",
+			"EDU_PLC_BOTTOM": "안중(서부)문예회관 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230913",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 서동대로 3825, 평택대학교 (용이동)",
+			"EDU_PLC_BOTTOM": "평택대학교 예술관(음악당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230913",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 서동대로 3825, 평택대학교 (용이동)",
+			"EDU_PLC_BOTTOM": "평택대학교 예술관(음악당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230914",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 서동대로 3825, 평택대학교 (용이동)",
+			"EDU_PLC_BOTTOM": "평택대학교 예술관(음악당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230914",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 서동대로 3825, 평택대학교 (용이동)",
+			"EDU_PLC_BOTTOM": "평택대학교 예술관(음악당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230915",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 서동대로 3825, 평택대학교 (용이동)",
+			"EDU_PLC_BOTTOM": "평택대학교 예술관(음악당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230915",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 서동대로 3825, 평택대학교 (용이동)",
+			"EDU_PLC_BOTTOM": "평택대학교 예술관(음악당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 경기대로 1366 (서정동)",
+			"EDU_PLC_BOTTOM": "북부(송탄)문예회관대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 경기대로 1366 (서정동)",
+			"EDU_PLC_BOTTOM": "북부(송탄)문예회관대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230920",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 경기대로 1366 (서정동)",
+			"EDU_PLC_BOTTOM": "북부(송탄)문예회관대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230920",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 경기대로 1366 (서정동)",
+			"EDU_PLC_BOTTOM": "북부(송탄)문예회관대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230921",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 경기대로 1366 (서정동)",
+			"EDU_PLC_BOTTOM": "북부(송탄)문예회관대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8024-4941",
+			"ED_YMD": "20230921",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 평택시 경기대로 1366 (서정동)",
+			"EDU_PLC_BOTTOM": "북부(송탄)문예회관대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경기도 평택시"
