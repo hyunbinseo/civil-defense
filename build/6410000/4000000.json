@@ -96,8 +96,8 @@
 			"ED_YMD": "20230904",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "경기도 오산시 오산천로 271, 오산문화스포츠센터 1동 1층 1호 (오산동)",
-			"EDU_PLC_BOTTOM": "오산문화스포츠센터",
+			"EDU_PLC_RDN_ADDR": "경기도 오산시 성호대로 141, 오산시청 (오산동)",
+			"EDU_PLC_BOTTOM": "물향기실(오산시청 2층)",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}

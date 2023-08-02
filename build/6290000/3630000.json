@@ -582,6 +582,84 @@
 			"EDU_PLC_BOTTOM": "광산구민방위교육장(소촌동845번지)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230814",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230814",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230828",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "광주광역시 광산구 광산로68번길 13, 광산문화예술회관 (송정동)",
+			"EDU_PLC_BOTTOM": "광산문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230828",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 광산구 광산로68번길 13, 광산문화예술회관 (송정동)",
+			"EDU_PLC_BOTTOM": "광산문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230829",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "광주광역시 광산구 광산로68번길 13, 광산문화예술회관 (송정동)",
+			"EDU_PLC_BOTTOM": "광산문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230829",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 광산구 광산로68번길 13, 광산문화예술회관 (송정동)",
+			"EDU_PLC_BOTTOM": "광산문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230830",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "광주광역시 광산구 광산로68번길 13, 광산문화예술회관 (송정동)",
+			"EDU_PLC_BOTTOM": "광산문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "062-960-3982",
+			"ED_YMD": "20230830",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 광산구 광산로68번길 13, 광산문화예술회관 (송정동)",
+			"EDU_PLC_BOTTOM": "광산문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "광주광역시 광산구"
