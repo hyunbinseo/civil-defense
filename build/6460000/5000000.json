@@ -32,6 +32,16 @@
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "061-540-6865",
+			"ED_YMD": "20230823",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "전라남도 진도군 진도읍 남동1길 46  (진도읍사무소)",
+			"EDU_PLC_BOTTOM": "진도읍사무소 회의실",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		}
 	],
 	"regionText": "전라남도 진도군"

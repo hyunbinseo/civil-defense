@@ -251,6 +251,86 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20230901",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 보듬3로 114 (아름동)",
+			"EDU_PLC_BOTTOM": "아름동 복합커뮤니티센터 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20230901",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 보듬3로 114 (아름동)",
+			"EDU_PLC_BOTTOM": "아름동 복합커뮤니티센터 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20230912",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 조치원읍 문예회관길 22",
+			"EDU_PLC_BOTTOM": "세종시문화예술회관(조치원읍)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20230912",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 조치원읍 문예회관길 22",
+			"EDU_PLC_BOTTOM": "세종시문화예술회관(조치원읍)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 다정남3로 10, 다정동 복합커뮤니티센터 (다정동)",
+			"EDU_PLC_BOTTOM": "다정동 복합커뮤니티센터 문화관람실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 다정남3로 10, 다정동 복합커뮤니티센터 (다정동)",
+			"EDU_PLC_BOTTOM": "다정동 복합커뮤니티센터 문화관람실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20231004",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 반곡로 39, 반곡동 복합커뮤니티센터 (반곡동)",
+			"EDU_PLC_BOTTOM": "반곡동 복합커뮤니티센터 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20231004",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 반곡로 39, 반곡동 복합커뮤니티센터 (반곡동)",
+			"EDU_PLC_BOTTOM": "반곡동 복합커뮤니티센터 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "세종특별자치시 세종시"
