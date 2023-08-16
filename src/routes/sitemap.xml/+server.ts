@@ -1,18 +1,17 @@
-import { version } from '$app/environment';
 import { PUBLIC_DOMAIN } from '$env/static/public';
 import { sigunguData } from '$lib/regions';
 import type { RequestHandler } from './$types';
 
 export const prerender = true;
 
-export const GET = (async () => {
+export const GET = (async ({ locals: { lastModified } }) => {
 	const pathnames = Object.entries(sigunguData).flatMap(([sidoId, sigunguData]) =>
 		Object.keys(sigunguData).map((sigunguId) => `/${sidoId}/${sigunguId}`)
 	);
 
 	pathnames.push('/');
 
-	const lastmod = new Date(Number(version)).toISOString().substring(0, 10);
+	const lastmod = lastModified.toISOString().substring(0, 10);
 
 	const urls = pathnames
 		.map((path) => `<url><loc>${PUBLIC_DOMAIN}${path}</loc><lastmod>${lastmod}</lastmod></url>`)

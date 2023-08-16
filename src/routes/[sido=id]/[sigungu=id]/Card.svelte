@@ -13,6 +13,7 @@
 	import type { EducationSchedule } from '.';
 	import { convertDay } from './convert';
 
+	export let lastModified: Date;
 	export let schedule: EducationSchedule;
 	export let hideTarget: boolean;
 
@@ -67,7 +68,7 @@
 						`대상: ${schedule.EDU_TGT_SE_NM}`,
 						`담당 공무원: ${schedule.TEL_NO}\n`,
 						`출처: ${$page.url.origin}`,
-						`기준: ${new Date().toLocaleString()}`
+						`기준: ${lastModified.toLocaleString()}`
 					].join('\n')
 				],
 				['location', location]

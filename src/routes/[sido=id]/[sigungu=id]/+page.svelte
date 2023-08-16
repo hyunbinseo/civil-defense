@@ -66,7 +66,7 @@
 					<!-- In the static HTML, the items are hidden based on the pre-rendered time. -->
 					<!-- Some items can be hidden after hydration when the client time is loaded. -->
 					<li class:hidden={!showPastSchedules && schedule.DATE.getTime() < now}>
-						<Card {schedule} hideTarget={!!selectedTarget} />
+						<Card {schedule} hideTarget={!!selectedTarget} lastModified={data.lastModified} />
 					</li>
 				{/each}
 			</ul>

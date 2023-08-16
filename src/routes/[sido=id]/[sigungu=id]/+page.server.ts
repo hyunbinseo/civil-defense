@@ -1,11 +1,15 @@
 import { error } from '@sveltejs/kit';
 import type { Data } from '../[sigungu=id].json/+server';
-import type { PageLoad } from './$types';
 import { convertDate, convertTime } from './convert';
 
 export const prerender = true;
 
-export const load: PageLoad = async ({ fetch, params: { sido, sigungu }, url: { pathname } }) => {
+export const load = async ({
+	fetch,
+	params: { sido, sigungu },
+	url: { pathname },
+	locals: { lastModified }
+}) => {
 	const response = await fetch(`${pathname}.json`);
 
 	if (!response.ok) throw error(response.status);
@@ -26,5 +30,5 @@ export const load: PageLoad = async ({ fetch, params: { sido, sigungu }, url: { 
 		};
 	});
 
-	return { ...data, schedules };
+	return { ...data, schedules, lastModified };
 };
