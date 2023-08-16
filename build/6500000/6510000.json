@@ -132,6 +132,36 @@
 			"EDU_PLC_BOTTOM": "제주학생문화원 대극장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0647283018",
+			"ED_YMD": "20230905",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 한림읍 한림상로 132",
+			"EDU_PLC_BOTTOM": "한림읍사무소",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0647283018",
+			"ED_YMD": "20230907",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 애월읍 일주서로 6349, 애월체육관",
+			"EDU_PLC_BOTTOM": "애월체육관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0647283018",
+			"ED_YMD": "20230911",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 중앙로 217, 제주벤처마루 (이도이동)",
+			"EDU_PLC_BOTTOM": "제주벤처마루 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "제주특별자치도 제주시"

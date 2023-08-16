@@ -51,7 +51,7 @@
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
-			"EDU_PLC_BOTTOM": "포천시 여성회관",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원"
 		},
@@ -61,7 +61,7 @@
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
-			"EDU_PLC_BOTTOM": "포천시 여성회관",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
@@ -71,7 +71,7 @@
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
-			"EDU_PLC_BOTTOM": "포천시 여성회관",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
@@ -81,7 +81,7 @@
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
-			"EDU_PLC_BOTTOM": "포천시 여성회관",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
@@ -91,7 +91,7 @@
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
-			"EDU_PLC_BOTTOM": "포천시 여성회관",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
@@ -101,8 +101,96 @@
 			"EDU_ST_TM": "1300",
 			"EDU_END_TM": "1700",
 			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
-			"EDU_PLC_BOTTOM": "포천시 여성회관",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
 			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230907",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230911",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230911",
+			"EDU_ST_TM": "1830",
+			"EDU_END_TM": "2230",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230916",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230918",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-538-2162",
+			"ED_YMD": "20230926",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "경기도 포천시 군내면 청성로 111",
+			"EDU_PLC_BOTTOM": "포천시 여성회관 3층 청성홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
