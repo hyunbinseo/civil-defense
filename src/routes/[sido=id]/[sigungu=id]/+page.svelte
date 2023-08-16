@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { version } from '$app/environment';
 	import { afterNavigate } from '$app/navigation';
 	import { slide } from 'svelte/transition';
 	import type { PageData } from './$types';
@@ -10,6 +11,8 @@
 	let selectedTarget = '';
 
 	let showPastSchedules = false;
+
+	const lastModified = new Date(Number(version));
 
 	afterNavigate(async () => {
 		list.scrollTop = 0;
@@ -66,7 +69,7 @@
 					<!-- In the static HTML, the items are hidden based on the pre-rendered time. -->
 					<!-- Some items can be hidden after hydration when the client time is loaded. -->
 					<li class:hidden={!showPastSchedules && schedule.DATE.getTime() < now}>
-						<Card {schedule} hideTarget={!!selectedTarget} lastModified={data.lastModified} />
+						<Card {schedule} hideTarget={!!selectedTarget} {lastModified} />
 					</li>
 				{/each}
 			</ul>

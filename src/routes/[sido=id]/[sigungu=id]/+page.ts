@@ -4,12 +4,7 @@ import { convertDate, convertTime } from './convert';
 
 export const prerender = true;
 
-export const load = async ({
-	fetch,
-	params: { sido, sigungu },
-	url: { pathname },
-	locals: { lastModified }
-}) => {
+export const load = async ({ fetch, params: { sido, sigungu }, url: { pathname } }) => {
 	const response = await fetch(`${pathname}.json`);
 
 	if (!response.ok) throw error(response.status);
@@ -30,5 +25,5 @@ export const load = async ({
 		};
 	});
 
-	return { ...data, schedules, lastModified };
+	return { ...data, schedules };
 };

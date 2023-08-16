@@ -3,9 +3,7 @@
 declare global {
 	namespace App {
 		// interface Error {}
-		interface Locals {
-			lastModified: Date;
-		}
+		// interface Locals {}
 		interface PageData {
 			regionText: string;
 		}
