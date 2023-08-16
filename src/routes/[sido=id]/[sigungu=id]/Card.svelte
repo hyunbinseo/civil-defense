@@ -24,7 +24,6 @@
 	});
 
 	const address = schedule.EDU_PLC_RDN_ADDR?.replace(/ \(.+동\)$/, '');
-	const telHref = `tel:+82${schedule.TEL_NO.substring(1).replace(/-/g, '')}`;
 </script>
 
 <button
@@ -66,7 +65,6 @@
 					[
 						`장소: ${location}\n`,
 						`대상: ${schedule.EDU_TGT_SE_NM}`,
-						`담당 공무원: ${schedule.TEL_NO}\n`,
 						`출처: ${$page.url.origin}`,
 						`기준: ${lastModified.toLocaleString()}`
 					].join('\n')
@@ -87,10 +85,6 @@
 					{schedule.EDU_PLC_BOTTOM}
 				</div>
 				<ul>
-					<li>
-						전화 문의:
-						<a on:click|stopPropagation href={telHref}>{schedule.TEL_NO}</a>
-					</li>
 					<li>
 						일정 등록:
 						<a
