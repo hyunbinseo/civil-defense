@@ -9,8 +9,8 @@ let success = true;
 try {
 	execSync('git fetch --all');
 	execSync('git reset --hard origin/main');
-	execSync('npm install');
-	execSync('npm run build', { stdio: 'inherit' });
+	execSync('pnpm install');
+	execSync('pnpm build', { stdio: 'inherit' });
 	execSync('git add .');
 	execSync(`git commit -m "build: ${new Date().toISOString()}"`);
 } catch {
