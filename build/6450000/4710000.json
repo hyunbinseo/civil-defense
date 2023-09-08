@@ -100,6 +100,16 @@
 			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "063-540-3427",
+			"ED_YMD": "20230914",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라북도 김제시 성산길 20 (교동)",
+			"EDU_PLC_BOTTOM": "김제문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라북도 김제시"

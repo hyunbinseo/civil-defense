@@ -141,6 +141,36 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20231004",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20231005",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20231006",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "울산광역시 동구"

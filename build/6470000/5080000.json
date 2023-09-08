@@ -348,7 +348,37 @@
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
 			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
-			"CVD_EDU_SE_NM": "기본교육",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6635",
+			"ED_YMD": "20230915",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
+			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6635",
+			"ED_YMD": "20230918",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
+			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6635",
+			"ED_YMD": "20230919",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
+			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
@@ -358,7 +388,27 @@
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
 			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
-			"CVD_EDU_SE_NM": "기본교육",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6635",
+			"ED_YMD": "20230921",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
+			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6635",
+			"ED_YMD": "20230922",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 박정희로 211 (사곡동)",
+			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
