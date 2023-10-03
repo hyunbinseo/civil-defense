@@ -278,6 +278,86 @@
 			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231102",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231102",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231103",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231103",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231107",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231107",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231108",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2286-5154",
+			"ED_YMD": "20231108",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성동구 고산자로 270 (행당동, 성동구청)",
+			"EDU_PLC_BOTTOM": "성동구청 3층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "서울특별시 성동구"
