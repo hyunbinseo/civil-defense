@@ -30,6 +30,24 @@
 		},
 		{
 			"TEL_NO": "054-680-6671",
+			"ED_YMD": "20231016",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "054-680-6671",
+			"ED_YMD": "20231016",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대편입 3~4년차대원"
+		},
+		{
+			"TEL_NO": "054-680-6671",
 			"ED_YMD": "20230531",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -46,6 +64,16 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대편입 3~4년차대원"
+		},
+		{
+			"TEL_NO": "054-680-6671",
+			"ED_YMD": "20231031",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37 (영양군청)",
+			"EDU_PLC_BOTTOM": "영양군청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원"
 		}
 	],
 	"regionText": "경상북도 영양군"

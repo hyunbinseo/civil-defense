@@ -373,11 +373,31 @@
 		},
 		{
 			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20231121",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
 			"ED_YMD": "20231124",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경기도 양주시 장흥면 권율로 7, 장흥면 행정복지센터",
 			"EDU_PLC_BOTTOM": "장흥면사무소",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20231126",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 광적면 부흥로618번길 303",
+			"EDU_PLC_BOTTOM": "양주문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
