@@ -26,4 +26,5 @@ try {
 			sendgrid.key
 		)
 	);
+	process.exit(0);
 }
