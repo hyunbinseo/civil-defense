@@ -200,6 +200,36 @@
 			"EDU_PLC_BOTTOM": "금왕읍행정복지센터",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20231028",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 금왕읍 무극로 221",
+			"EDU_PLC_BOTTOM": "금왕읍행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20231102",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 대소면 오태로 57-16",
+			"EDU_PLC_BOTTOM": "대소면행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20231110",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 금왕읍 무극로 221",
+			"EDU_PLC_BOTTOM": "금왕읍행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "충청북도 음성군"

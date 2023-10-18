@@ -900,6 +900,174 @@
 			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231101",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231101",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231101",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231102",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231102",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231103",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231103",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231104",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231106",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231107",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231107",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231108",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231108",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231109",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231109",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231110",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-330-3204",
+			"ED_YMD": "20231110",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 김해시 가야로 245 (구산동)",
+			"EDU_PLC_BOTTOM": "민방위재난안전체험장(김해운동장 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 김해시"
