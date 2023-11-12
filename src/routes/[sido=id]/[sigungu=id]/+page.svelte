@@ -10,8 +10,6 @@
 	let list: HTMLDivElement;
 	let selectedTarget = '';
 
-	let showPastSchedules = false;
-
 	const lastModified = new Date(Number(version));
 
 	afterNavigate(async () => {
@@ -27,11 +25,6 @@
 	$: filteredSchedules = data.schedules.filter(({ EDU_TGT_SE_NM }) =>
 		!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget
 	);
-
-	$: now = (() => {
-		filteredSchedules;
-		return Date.now();
-	})();
 
 	$: message = !filteredSchedules.length
 		? '교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
@@ -64,25 +57,16 @@
 
 	<div bind:this={list} class="flex flex-1 flex-col overflow-y-auto pb-6">
 		{#if filteredSchedules.length}
-			<ul class="flex flex-col divide-y border">
+			<ul class="flex flex-col-reverse border-x">
 				{#each filteredSchedules as schedule (schedule.EDU_LOCAL_ID)}
 					<!-- In the static HTML, the items are hidden based on the pre-rendered time. -->
 					<!-- Some items can be hidden after hydration when the client time is loaded. -->
-					<li class:hidden={!showPastSchedules && schedule.DATE.getTime() < now}>
+					<li class="border-y">
 						<Card {schedule} hideTarget={!!selectedTarget} {lastModified} />
 					</li>
 				{/each}
 			</ul>
 		{/if}
-		<button
-			class="mt-6"
-			on:click={() => {
-				showPastSchedules = !showPastSchedules;
-				list.scrollTop = 0;
-			}}
-		>
-			과거 교육 일정 {showPastSchedules ? '숨기기' : '보이기'}
-		</button>
 	</div>
 </div>
 
