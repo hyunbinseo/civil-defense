@@ -23,7 +23,7 @@
 
 	const heading = `${PUBLIC_YEAR}년도 민방위 교육 일정`;
 
-	$: title = [$page.data.regionText, heading].filter((v) => v).join(' - ');
+	$: title = !$page.data.regionText ? heading : `${$page.data.regionText} - ${heading}`;
 
 	const description =
 		'행정안전부에서 제공하는 전국 민방위 교육 일정입니다. 소집 교육은 어디서든 이수할 수 있으므로, 지자체별 일정을 참고해 꼭 참여하시기 바랍니다.';
@@ -42,6 +42,7 @@
 	<meta name="description" content={description} />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content={title} />
+	<meta property="og:site_name" content="민방위.kr" />
 	<meta property="og:description" content={description} />
 	<link rel="canonical" href="{PUBLIC_DOMAIN}{$page.url.pathname}" />
 </svelte:head>
