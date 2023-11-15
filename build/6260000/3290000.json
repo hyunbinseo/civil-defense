@@ -478,6 +478,56 @@
 			"EDU_PLC_BOTTOM": "부산진구청 대강당",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20231115",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 신천대로241번길 41 (부암동)",
+			"EDU_PLC_BOTTOM": "부암1동주민센터(동사무소)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20231116",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동평로44번길 49-6 (당감동)",
+			"EDU_PLC_BOTTOM": "당감1동주민센터(동사무소)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20231117",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 가야대로572번길 22 (가야동)",
+			"EDU_PLC_BOTTOM": "가야1동주민센터(동사무소)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20231120",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 새싹로 284 (초읍동)",
+			"EDU_PLC_BOTTOM": "초읍동주민센터(동사무소)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20231121",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 개금본동로 88 (개금동)",
+			"EDU_PLC_BOTTOM": "개금3동주민센터(동사무소)",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 부산진구"

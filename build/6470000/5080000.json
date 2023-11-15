@@ -518,6 +518,253 @@
 			"EDU_PLC_BOTTOM": "구미시 민방위교육장(사곡동소재)",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "선산읍 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 고아읍 선산대로 ",
+			"EDU_PLC_BOTTOM": "고아읍 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 산동면 강동로 ",
+			"EDU_PLC_BOTTOM": "산동읍 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 무을면 삼원로 ",
+			"EDU_PLC_BOTTOM": "무을면 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "옥성면 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 도개면 도안로 103",
+			"EDU_PLC_BOTTOM": "도개면 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 해평면 강동로 ",
+			"EDU_PLC_BOTTOM": "해평면 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 장천면 강동로 184",
+			"EDU_PLC_BOTTOM": "장천면 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 송원동로 8 (송정동)",
+			"EDU_PLC_BOTTOM": "송정동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 구미중앙로 24 (원평동)",
+			"EDU_PLC_BOTTOM": "원평동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 선산대로 105 (지산동)",
+			"EDU_PLC_BOTTOM": "지산동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 문장로12길 1 (도량동,도량동사무소)",
+			"EDU_PLC_BOTTOM": "도량동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 야은로  (봉곡동)",
+			"EDU_PLC_BOTTOM": "선주원남동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 경은로 52 (형곡동)",
+			"EDU_PLC_BOTTOM": "형곡1동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 형곡로 180 (형곡동)",
+			"EDU_PLC_BOTTOM": "형곡2동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 구미대로  (신평동)",
+			"EDU_PLC_BOTTOM": "신평1동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 신비로7길 9 (신평동,신평2동주민센터)",
+			"EDU_PLC_BOTTOM": "신평2동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 비산로 4, 비산동행정복지센터 (공단동)",
+			"EDU_PLC_BOTTOM": "비산동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 비산로 4 (공단동)",
+			"EDU_PLC_BOTTOM": "공단동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 경부고속도로  (광평동)",
+			"EDU_PLC_BOTTOM": "광평동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 구미대로  (사곡동)",
+			"EDU_PLC_BOTTOM": "상모사곡동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 금오대로  (임은동)",
+			"EDU_PLC_BOTTOM": "임오동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 인동15길 42 (인의동)",
+			"EDU_PLC_BOTTOM": "인동동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "진미동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-480-6747",
+			"ED_YMD": "20231127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 구미시 산호대로  (옥계동)",
+			"EDU_PLC_BOTTOM": "양포동 행정복지센터",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상북도 구미시"
