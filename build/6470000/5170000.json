@@ -3,6 +3,16 @@
 	"schedules": [
 		{
 			"TEL_NO": "054-680-6671",
+			"ED_YMD": "20231130",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37 (영양군청)",
+			"EDU_PLC_BOTTOM": "영양군청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원"
+		},
+		{
+			"TEL_NO": "054-680-6671",
 			"ED_YMD": "20230801",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
