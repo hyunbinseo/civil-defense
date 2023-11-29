@@ -1,30 +1,31 @@
-// @ts-check
-
+import { sendEmail } from 'new-request/dist/email/send-grid/v3';
 import { execSync } from 'node:child_process';
-import { generateSgSendRequest } from 'sendgrid-send';
-import sendgrid from '../.env.sendgrid.json' assert { type: 'json' };
+import sendGrid from './email.json' assert { type: 'json' };
 
-let success = true;
+const startedAt = new Date().toISOString();
+let isSuccessful = false;
 
 try {
-	execSync('git fetch --all');
-	execSync('git reset --hard origin/main');
-	execSync('pnpm install');
-	execSync('pnpm build', { stdio: 'inherit' });
-	execSync('git add .');
-	execSync(`git commit -m "build: ${new Date().toISOString()}"`);
-} catch {
-	success = false;
+	for (const command of [
+		'git fetch --all',
+		'git reset --hard origin/main',
+		'pnpm install',
+		'pnpm build',
+		'git add .',
+		`git commit -m "build: ${startedAt}"`,
+		'git push'
+	]) {
+		execSync(command);
+	}
+	isSuccessful = true;
 } finally {
-	await fetch(
-		generateSgSendRequest(
-			{
-				...sendgrid.body,
-				subject: `[civil-defense] ${new Date().toISOString()}`,
-				content: [{ type: 'text/plain', value: `Build ${success ? 'succeeded' : 'failed'}.` }]
-			},
-			sendgrid.key
-		)
+	await sendEmail(
+		{
+			personalizations: [{ to: sendGrid.to.map((email) => ({ email })) }],
+			subject: `[civil-defense] ${startedAt}`,
+			content: [{ type: 'text/plain', value: `Build ${isSuccessful ? 'succeeded' : 'failed'}.` }]
+		},
+		{ apiKey: sendGrid.apiKey, from: { email: sendGrid.from } }
 	);
 	process.exit(0);
 }

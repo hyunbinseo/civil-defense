@@ -1,5 +1,3 @@
-// @ts-check
-
 import 'dotenv/config';
 
 const { PUBLIC_DOMAIN } = process.env;

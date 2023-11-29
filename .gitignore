@@ -11,12 +11,12 @@ build/[0-9]*/*
 build/_app/*
 !build/_app/version.json
 
+cli/email.json
+
 /.svelte-kit
 /package
-.env.local
-.env.development.local
-.env.production.local
-.env.sendgrid.json
 
+.env.local
+.env.*.local
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
