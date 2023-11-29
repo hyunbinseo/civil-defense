@@ -338,6 +338,26 @@
 			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "061-797-1931",
+			"ED_YMD": "20231208",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
+			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "061-797-1931",
+			"ED_YMD": "20231208",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "전라남도 광양시 옥룡면 신재로 615",
+			"EDU_PLC_BOTTOM": "광양시 민방위 실전훈련센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라남도 광양시"

@@ -78,6 +78,16 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-960-6214",
+			"ED_YMD": "20231211",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 함양군 함양읍 함양남서로 996-76, 농업기술센터",
+			"EDU_PLC_BOTTOM": "농업기술센터 농업인교육관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 함양군"

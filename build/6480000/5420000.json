@@ -119,6 +119,16 @@
 			"EDU_PLC_BOTTOM": "고성군 농업기술센터 대강당",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-670-2503",
+			"ED_YMD": "20231219",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 고성군 고성읍 남해안대로 2829-60",
+			"EDU_PLC_BOTTOM": "고성군 농업기술센터 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 고성군"
