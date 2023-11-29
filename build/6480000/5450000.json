@@ -97,6 +97,16 @@
 			"EDU_PLC_BOTTOM": "신안면 복지회관",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-970-8904",
+			"ED_YMD": "20231219",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 산청군 신안면 원지로4번길 36, 신안면복지회관",
+			"EDU_PLC_BOTTOM": "신안면 복지회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 산청군"
