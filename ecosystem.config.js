@@ -14,7 +14,7 @@ if (systemTimeZone !== 'UTC')
 module.exports = {
 	apps: [
 		{
-			name: 'Build Minbangwi',
+			name: 'build-minbangwi.kr',
 			script: './cli/build.js',
 			time: true,
 			autorestart: false,

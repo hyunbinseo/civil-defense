@@ -3,7 +3,6 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && prettier --write ./build",
-		"build:schedule": "pm2 start ecosystem.config.cjs",
 		"preview": "vite preview",
 		"deploy": "wrangler pages deploy ./build && node cli/sitemap --delay=10",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
