@@ -488,6 +488,26 @@
 			"EDU_PLC_BOTTOM": "성남시민방위안전체험센터",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-729-5341",
+			"ED_YMD": "20231207",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 성남시 수정구 논골로11번길 8-3 (단대동)",
+			"EDU_PLC_BOTTOM": "성남시민방위안전체험센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-729-5341",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 성남시 수정구 논골로11번길 8-3 (단대동)",
+			"EDU_PLC_BOTTOM": "성남시민방위안전체험센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경기도 성남시 수정구"

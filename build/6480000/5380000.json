@@ -759,6 +759,416 @@
 			"EDU_PLC_BOTTOM": "민방위체험식교육장(종합운동장 내 테니스장 옆)",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 서창로 194, 서창동주민센터 (삼호동)",
+			"EDU_PLC_BOTTOM": "서창동 행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 서창로 194, 서창동주민센터 (삼호동)",
+			"EDU_PLC_BOTTOM": "서창동 행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 서창로 194, 서창동주민센터 (삼호동)",
+			"EDU_PLC_BOTTOM": "서창동 행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 소주회야1길 5-26, 소주동행정복지센터 (소주동)",
+			"EDU_PLC_BOTTOM": "소주동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 소주회야1길 5-26, 소주동행정복지센터 (소주동)",
+			"EDU_PLC_BOTTOM": "소주동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 소주회야1길 5-26, 소주동행정복지센터 (소주동)",
+			"EDU_PLC_BOTTOM": "소주동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 양주로 130 (중부동)",
+			"EDU_PLC_BOTTOM": "양주동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 양주로 130 (중부동)",
+			"EDU_PLC_BOTTOM": "양주동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231209",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 양주로 130 (중부동)",
+			"EDU_PLC_BOTTOM": "양주동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 동면 내송로 37, 동면행정복지센터",
+			"EDU_PLC_BOTTOM": "동면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 동면 내송로 37, 동면행정복지센터",
+			"EDU_PLC_BOTTOM": "동면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 동면 내송로 37, 동면행정복지센터",
+			"EDU_PLC_BOTTOM": "동면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 신기서길 27 (신기동)",
+			"EDU_PLC_BOTTOM": "삼성동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 신기서길 27 (신기동)",
+			"EDU_PLC_BOTTOM": "삼성동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 신기서길 27 (신기동)",
+			"EDU_PLC_BOTTOM": "삼성동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 평산로 71, 평산동행정복지센터 (평산동)",
+			"EDU_PLC_BOTTOM": "평산동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 평산로 71, 평산동행정복지센터 (평산동)",
+			"EDU_PLC_BOTTOM": "평산동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 평산로 71, 평산동행정복지센터 (평산동)",
+			"EDU_PLC_BOTTOM": "평산동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231210",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231212",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 북안남5길 21 (북부동)",
+			"EDU_PLC_BOTTOM": "중앙동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231212",
+			"EDU_ST_TM": "1500",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 북안남5길 21 (북부동)",
+			"EDU_PLC_BOTTOM": "중앙동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231212",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 북안남5길 21 (북부동)",
+			"EDU_PLC_BOTTOM": "중앙동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231213",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231213",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2100",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231213",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 상북면 상북중앙로 398",
+			"EDU_PLC_BOTTOM": "상북면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1200",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 상북면 상북중앙로 398",
+			"EDU_PLC_BOTTOM": "상북면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 상북면 상북중앙로 398",
+			"EDU_PLC_BOTTOM": "상북면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2100",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 물금읍 황산로 384",
+			"EDU_PLC_BOTTOM": "물금읍행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1200",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 원동면 원동마을길 36-0",
+			"EDU_PLC_BOTTOM": "원동면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 원동면 원동마을길 36-0",
+			"EDU_PLC_BOTTOM": "원동면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 하북면 신평강변5길 12",
+			"EDU_PLC_BOTTOM": "하북면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 하북면 신평강변5길 12",
+			"EDU_PLC_BOTTOM": "하북면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 하북면 신평강변5길 12",
+			"EDU_PLC_BOTTOM": "하북면행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231215",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 번영로 35, 덕계동행정복지센터 (덕계동)",
+			"EDU_PLC_BOTTOM": "덕계동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231215",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 번영로 35, 덕계동행정복지센터 (덕계동)",
+			"EDU_PLC_BOTTOM": "덕계동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-392-2853",
+			"ED_YMD": "20231215",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "경상남도 양산시 번영로 35, 덕계동행정복지센터 (덕계동)",
+			"EDU_PLC_BOTTOM": "덕계동행정복지센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "경상남도 양산시"
