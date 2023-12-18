@@ -462,11 +462,71 @@
 		},
 		{
 			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231207",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
 			"ED_YMD": "20231208",
 			"EDU_ST_TM": "1900",
 			"EDU_END_TM": "2300",
 			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
 			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231212",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231214",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231218",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231219",
+			"EDU_ST_TM": "2000",
+			"EDU_END_TM": "2400",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231220",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "서면교육(안내문 참조) 만안구",
 			"CVD_EDU_SE_NM": "자체교육",
 			"EDU_TGT_SE_NM": "자체교육인정자"
 		},
@@ -483,6 +543,26 @@
 		{
 			"TEL_NO": "031-8045-3266",
 			"ED_YMD": "20231221",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231222",
+			"EDU_ST_TM": "2000",
+			"EDU_END_TM": "2400",
+			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",
+			"EDU_PLC_BOTTOM": "자체 집합교육(안내문참조)만안구",
+			"CVD_EDU_SE_NM": "자체교육",
+			"EDU_TGT_SE_NM": "자체교육인정자"
+		},
+		{
+			"TEL_NO": "031-8045-3266",
+			"ED_YMD": "20231227",
 			"EDU_ST_TM": "1900",
 			"EDU_END_TM": "2300",
 			"EDU_PLC_RDN_ADDR": "경기도 안양시 만안구 안양로 128, 만안구청 (안양동)",

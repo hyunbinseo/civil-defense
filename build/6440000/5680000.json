@@ -250,6 +250,36 @@
 			"EDU_PLC_BOTTOM": "당진트레이닝센터(종합운동장)",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "041-350-3282",
+			"ED_YMD": "20231211",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "충청남도 당진시 시청1로 1, 당진시청 (수청동)",
+			"EDU_PLC_BOTTOM": "서면교육",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "041-350-3282",
+			"ED_YMD": "20231211",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "충청남도 당진시 시청1로 1, 당진시청 (수청동)",
+			"EDU_PLC_BOTTOM": "서면교육",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "041-350-3282",
+			"ED_YMD": "20231211",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "충청남도 당진시 시청1로 1, 당진시청 (수청동)",
+			"EDU_PLC_BOTTOM": "서면교육",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "충청남도 당진시"

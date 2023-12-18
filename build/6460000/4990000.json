@@ -118,6 +118,16 @@
 			"EDU_PLC_BOTTOM": "보길면사무소",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "061-550-5754",
+			"ED_YMD": "20231215",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "전라남도 완도군 완도읍 개포로 111, 완도군 생활문화센터",
+			"EDU_PLC_BOTTOM": "완도군 생활문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라남도 완도군"
