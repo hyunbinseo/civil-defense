@@ -29,7 +29,7 @@ export const GET = (async ({ params, fetch }) => {
 	const sidoId = Number(params.sido);
 	const sigunguId = Number(params.sigungu);
 
-	if (!isSidoId(sidoId) || !(sigunguId in sigunguData[sidoId])) throw error(404);
+	if (!isSidoId(sidoId) || !(sigunguId in sigunguData[sidoId])) error(404);
 
 	const regionText = `${sidoData.get(sidoId)} ${sigunguData[sidoId][sigunguId]}`;
 
@@ -53,7 +53,7 @@ export const GET = (async ({ params, fetch }) => {
 
 	const initialResponse = await fetch(generateRequest(params, 1));
 
-	if (!initialResponse.ok) throw error(initialResponse.status);
+	if (!initialResponse.ok) error(initialResponse.status);
 
 	const {
 		eduShcList,
@@ -69,7 +69,7 @@ export const GET = (async ({ params, fetch }) => {
 
 		const response = await fetch(generateRequest(params, i));
 
-		if (!response.ok) throw error(response.status);
+		if (!response.ok) error(response.status);
 
 		const { eduShcList } = (await response.json()) as ResponseBody;
 

@@ -7,7 +7,7 @@ export const prerender = true;
 export const load = async ({ fetch, params: { sido, sigungu }, url: { pathname } }) => {
 	const response = await fetch(`${pathname}.json`);
 
-	if (!response.ok) throw error(response.status);
+	if (!response.ok) error(response.status);
 
 	const data = (await response.json()) as Data;
 
