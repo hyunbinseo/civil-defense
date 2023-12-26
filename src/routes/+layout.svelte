@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { dev, version } from '$app/environment';
 	import { page } from '$app/stores';
-	import { PUBLIC_DOMAIN, PUBLIC_YEAR } from '$env/static/public';
+	import { PUBLIC_DOMAIN } from '$env/static/public';
 	import Octocat from '$lib/Octocat.svelte';
 	import { generateList } from '$lib/regions';
 	import { onMount } from 'svelte';
@@ -21,7 +21,8 @@
 		}
 	});
 
-	const heading = `${PUBLIC_YEAR}년도 민방위 교육 일정`;
+	const date = new Date();
+	const heading = `${date.getFullYear()}년도 민방위 교육 일정`;
 
 	$: title = !$page.data.regionText ? heading : `${$page.data.regionText} - ${heading}`;
 
@@ -29,6 +30,7 @@
 		'행정안전부에서 제공하는 전국 민방위 교육 일정입니다. 소집 교육은 어디서든 이수할 수 있으므로, 지자체별 일정을 참고해 꼭 참여하시기 바랍니다.';
 
 	const messages = [
+		...(date.getMonth() < 2 ? [`${date.getFullYear()}년도 민방위 교육 일정은 3월 경부터 정식 제공됩니다. 기다려 주시기 바랍니다.`] : []),
 		`행정안전부의 '국민 재난 안전 포털'에 등록된 전국 민방위 교육 일정을 정기적으로 불러와 제공하는 공익 목적의 개인 웹사이트입니다.`,
 		'민방위 소집 교육은 타 시⋅군⋅구에서도 이수할 수 있습니다. 신분증을 지참해 방문하시기 바랍니다.',
 		'민방위 교육 관련 세부 사항은 해당 시⋅군⋅구 담당자에게 문의하시기 바랍니다.'

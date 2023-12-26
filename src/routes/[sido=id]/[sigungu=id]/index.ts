@@ -1,4 +1,4 @@
-import { PUBLIC_YEAR } from '$env/static/public';
+const year = new Date().getFullYear();
 
 export const generateRequest = (
 	{ sigungu, sido }: { sigungu: string; sido: string },
@@ -14,10 +14,10 @@ export const generateRequest = (
 				pageIndex,
 				q_area_cd_2: sigungu,
 				q_area_cd_1: sido,
-				q_strdate: `${PUBLIC_YEAR}0101`,
-				q_enddate: `${PUBLIC_YEAR}1231`,
-				searchDate1: `${PUBLIC_YEAR}0101`,
-				searchDate2: `${PUBLIC_YEAR}1231`,
+				q_strdate: `${year}0101`,
+				q_enddate: `${year}1231`,
+				searchDate1: `${year}0101`,
+				searchDate2: `${year}1231`,
 				searchGb: '',
 				firstIndex: '1',
 				lastIndex: '1',
