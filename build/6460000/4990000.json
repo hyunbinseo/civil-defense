@@ -128,6 +128,16 @@
 			"EDU_PLC_BOTTOM": "완도군 생활문화센터",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "061-550-5754",
+			"ED_YMD": "20231220",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_RDN_ADDR": "전라남도 완도군 완도읍 청해진남로 51, 완도군청",
+			"EDU_PLC_BOTTOM": "서면교육(해당읍면 지정)",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라남도 완도군"
