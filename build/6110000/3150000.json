@@ -1,1 +1,16 @@
-{ "targets": [], "schedules": [], "regionText": "서울특별시 강서구" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20240404",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 우장산로 66 (내발산동)",
+			"EDU_PLC_BOTTOM": "강서구민회관(우장홀)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "서울특별시 강서구"
+}
