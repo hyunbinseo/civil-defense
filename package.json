@@ -4,7 +4,7 @@
 		"dev": "vite dev",
 		"build": "vite build && prettier \"./build/**/*.json\" --ignore-path --write",
 		"preview": "vite preview",
-		"deploy": "wrangler pages deploy ./build && node cli/sitemap --delay=10",
+		"deploy": "wrangler pages deploy ./build",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --check . && eslint .",
