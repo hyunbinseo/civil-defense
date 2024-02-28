@@ -1,1 +1,248 @@
-{ "targets": [], "schedules": [], "regionText": "경기도 양주시" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240416",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240416",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240416",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240418",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 광적면 부흥로618번길 303",
+			"EDU_PLC_BOTTOM": "양주문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240419",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240420",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 광적면 부흥로618번길 303",
+			"EDU_PLC_BOTTOM": "양주문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 장흥면 권율로 7, 장흥면 행정복지센터",
+			"EDU_PLC_BOTTOM": "장흥면사무소",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240425",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240426",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240428",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240429",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240501",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240501",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240502",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240502",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240503",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240503",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240508",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240508",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 평화로 1215, 경기섬유종합지원센터 (산북동)",
+			"EDU_PLC_BOTTOM": "경기섬유종합지원센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240510",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 장흥면 권율로 7, 장흥면 행정복지센터",
+			"EDU_PLC_BOTTOM": "장흥면사무소",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240511",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240512",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240517",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 광적면 부흥로618번길 303",
+			"EDU_PLC_BOTTOM": "양주문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-8082-6772",
+			"ED_YMD": "20240518",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 양주시 부흥로 1533, 양주시보건소,양주시의회,양주시청 (남방동)",
+			"EDU_PLC_BOTTOM": "양주시청 지하대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경기도 양주시"
+}
