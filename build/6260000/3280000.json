@@ -1,1 +1,116 @@
-{ "targets": [], "schedules": [], "regionText": "부산광역시 영도구" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240419",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240420",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240426",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240427",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-419-4134",
+			"ED_YMD": "20240428",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 영도구 태종로 423 (청학동)",
+			"EDU_PLC_BOTTOM": "영도구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "부산광역시 영도구"
+}

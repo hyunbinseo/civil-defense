@@ -1,1 +1,218 @@
-{ "targets": [], "schedules": [], "regionText": "경기도 광주시" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240419",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240503",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240504",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240510",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240511",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240517",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240518",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240524",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240525",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240531",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240601",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240607",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240608",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240614",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240615",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240621",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240622",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240628",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-760-4612",
+			"ED_YMD": "20240629",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 광주시 행정타운로 50 (송정동, 광주시청)",
+			"EDU_PLC_BOTTOM": "광주시청(10층 대회의실)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경기도 광주시"
+}
