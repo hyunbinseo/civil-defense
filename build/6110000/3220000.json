@@ -1,1 +1,306 @@
-{ "targets": [], "schedules": [], "regionText": "서울특별시 강남구" }
+{
+	"targets": ["신편대원", "민방위대 편입 2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240507",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240507",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240508",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240508",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240509",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240509",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240528",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240528",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240529",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240529",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240530",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240530",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240910",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240910",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240911",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240911",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240912",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20240912",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241015",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241015",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241105",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241105",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241106",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241106",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241107",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241107",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241112",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241112",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-3423-6954",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강남구 삼성로 154 (대치동)",
+			"EDU_PLC_BOTTOM": "강남구민회관 대강당(2층 대강당)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		}
+	],
+	"regionText": "서울특별시 강남구"
+}
