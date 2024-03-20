@@ -1,1 +1,136 @@
-{ "targets": [], "schedules": [], "regionText": "경상남도 창원시 의창구" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240422",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240423",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240426",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240426",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 용지로239번길 19-22, 창원문화원 (용호동)",
+			"EDU_PLC_BOTTOM": "창원문화원 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240429",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "북면사무소",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240429",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "북면사무소",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-212-4134",
+			"ED_YMD": "20240430",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 의창구 동읍 동읍로 88",
+			"EDU_PLC_BOTTOM": "동읍사무소 3층 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경상남도 창원시 의창구"
+}
