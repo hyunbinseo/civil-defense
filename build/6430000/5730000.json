@@ -1,1 +1,228 @@
-{ "targets": [], "schedules": [], "regionText": "충청북도 청주시 흥덕구" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240419",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240426",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240503",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240508",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240510",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240517",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240522",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240524",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240529",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240531",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240605",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240607",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240612",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240614",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240619",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240621",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240626",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-7014",
+			"ED_YMD": "20240628",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 흥덕구 강내면 청주역로 71, 흥덕구청",
+			"EDU_PLC_BOTTOM": "흥덕구청 공연장(강내면)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "충청북도 청주시 흥덕구"
+}

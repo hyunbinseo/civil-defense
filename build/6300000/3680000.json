@@ -1,1 +1,16 @@
-{ "targets": [], "schedules": [], "regionText": "대전광역시 대덕구" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "042-608-5363",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 대덕구 신탄진동로 64, 신탄진도서관 (신탄진동)",
+			"EDU_PLC_BOTTOM": "신탄진도서관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "대전광역시 대덕구"
+}
