@@ -7,7 +7,7 @@
 	"schedules": [
 		{
 			"TEL_NO": "055-880-2265",
-			"ED_YMD": "20240408",
+			"ED_YMD": "20240415",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
@@ -16,7 +16,7 @@
 		},
 		{
 			"TEL_NO": "055-880-2265",
-			"ED_YMD": "20240408",
+			"ED_YMD": "20240415",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
@@ -25,7 +25,7 @@
 		},
 		{
 			"TEL_NO": "055-880-2265",
-			"ED_YMD": "20240425",
+			"ED_YMD": "20240523",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경상남도 하동군 하동읍 섬진강대로 2222, 하동문화예술회관",

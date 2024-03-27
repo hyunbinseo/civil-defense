@@ -8,28 +8,8 @@
 	],
 	"schedules": [
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240509",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대장"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240509",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대장"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240509",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240610",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
@@ -37,8 +17,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240509",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240610",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
@@ -46,8 +26,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240510",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240617",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -56,8 +36,8 @@
 			"EDU_TGT_SE_NM": "민방위대장"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240510",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240617",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -66,8 +46,28 @@
 			"EDU_TGT_SE_NM": "민방위대장"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240513",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240618",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대장"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240618",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대장"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240619",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -76,48 +76,8 @@
 			"EDU_TGT_SE_NM": "신편대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240513",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240513",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240514",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240514",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240514",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240619",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -126,18 +86,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240516",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240516",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240619",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -146,38 +96,8 @@
 			"EDU_TGT_SE_NM": "신편대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240517",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240517",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240520",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240520",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240620",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -186,8 +106,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240520",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240620",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -196,68 +116,8 @@
 			"EDU_TGT_SE_NM": "신편대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240521",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240521",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240521",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240522",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240522",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240522",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240522",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240620",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -266,18 +126,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240523",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240523",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240621",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -286,8 +136,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240523",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240621",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -296,18 +146,8 @@
 			"EDU_TGT_SE_NM": "신편대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240523",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240524",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240622",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -316,28 +156,8 @@
 			"EDU_TGT_SE_NM": "신편대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240524",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240524",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240524",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240622",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -346,18 +166,8 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240527",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240527",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240623",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
@@ -366,8 +176,198 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		},
 		{
-			"TEL_NO": "053-665-3503",
-			"ED_YMD": "20240527",
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240623",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240623",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240624",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240624",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240624",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240625",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240625",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240625",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240625",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240626",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240626",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240626",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240626",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240627",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240627",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240627",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240627",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240628",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240628",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "북구청 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "053-665-2275",
+			"ED_YMD": "20240628",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
