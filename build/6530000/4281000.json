@@ -1,1 +1,16 @@
-{ "targets": [], "schedules": [], "regionText": "강원특별자치도 평창군" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "033-330-2862",
+			"ED_YMD": "20240520",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 평창군 평창읍 서동로 ",
+			"EDU_PLC_BOTTOM": "평창읍사무소",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "강원특별자치도 평창군"
+}

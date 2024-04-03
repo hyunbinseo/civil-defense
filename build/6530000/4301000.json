@@ -1,1 +1,58 @@
-{ "targets": [], "schedules": [], "regionText": "강원특별자치도 철원군" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "4775",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "4775",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "4775",
+			"ED_YMD": "20240417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 철원군 갈말읍 명성로139번길 52",
+			"EDU_PLC_BOTTOM": "청소년회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "4775",
+			"ED_YMD": "20240418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 철원군 서면 약수로 3",
+			"EDU_PLC_BOTTOM": "화강문화센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "4775",
+			"ED_YMD": "20240419",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 철원군 철원읍 금학로330번길 12",
+			"EDU_PLC_BOTTOM": "철원종합문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "강원특별자치도 철원군"
+}

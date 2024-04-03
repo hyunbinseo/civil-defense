@@ -3,41 +3,41 @@
 	"schedules": [
 		{
 			"TEL_NO": "061-780-2740",
-			"ED_YMD": "20240417",
+			"ED_YMD": "20240424",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "전라남도 구례군 마산면 화엄사로 377-37",
-			"EDU_PLC_BOTTOM": "백두대간생태교육장 세미나실",
+			"EDU_PLC_RDN_ADDR": "전라남도 구례군 구례읍 양정2길 11",
+			"EDU_PLC_BOTTOM": "구례문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-780-2740",
-			"ED_YMD": "20240417",
+			"ED_YMD": "20240424",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "전라남도 구례군 마산면 화엄사로 377-37",
-			"EDU_PLC_BOTTOM": "백두대간생태교육장 세미나실",
+			"EDU_PLC_RDN_ADDR": "전라남도 구례군 구례읍 양정2길 11",
+			"EDU_PLC_BOTTOM": "구례문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대장"
 		},
 		{
 			"TEL_NO": "061-780-2740",
-			"ED_YMD": "20240418",
+			"ED_YMD": "20240425",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "전라남도 구례군 마산면 화엄사로 377-37",
-			"EDU_PLC_BOTTOM": "백두대간생태교육장 세미나실",
+			"EDU_PLC_RDN_ADDR": "전라남도 구례군 구례읍 양정2길 11",
+			"EDU_PLC_BOTTOM": "구례문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "061-780-2740",
-			"ED_YMD": "20240418",
+			"ED_YMD": "20240425",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "전라남도 구례군 마산면 화엄사로 377-37",
-			"EDU_PLC_BOTTOM": "백두대간생태교육장 세미나실",
+			"EDU_PLC_RDN_ADDR": "전라남도 구례군 구례읍 양정2길 11",
+			"EDU_PLC_BOTTOM": "구례문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대장"
 		}
