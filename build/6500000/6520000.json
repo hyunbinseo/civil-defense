@@ -1,5 +1,9 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "064-760-3172",
@@ -60,6 +64,24 @@
 			"EDU_PLC_BOTTOM": "서귀포 청소년수련관(신시가지 강창학구장옆)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-760-3172",
+			"ED_YMD": "20240501",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "064-760-3172",
+			"ED_YMD": "20240501",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "디지털민방위(https://www.civildefense.co.kr/html/main)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "제주특별자치도 서귀포시"
