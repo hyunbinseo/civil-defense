@@ -25,7 +25,47 @@
 		},
 		{
 			"TEL_NO": "054-330-6151",
-			"ED_YMD": "20240520",
+			"ED_YMD": "20240521",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영천시 운동장로 92 (교촌동)",
+			"EDU_PLC_BOTTOM": "청소년수련관(2층 청소년누리관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-330-6151",
+			"ED_YMD": "20240529",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영천시 운동장로 92 (교촌동)",
+			"EDU_PLC_BOTTOM": "청소년수련관(2층 청소년누리관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-330-6151",
+			"ED_YMD": "20240530",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영천시 운동장로 92 (교촌동)",
+			"EDU_PLC_BOTTOM": "청소년수련관(2층 청소년누리관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-330-6151",
+			"ED_YMD": "20240603",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영천시 운동장로 92 (교촌동)",
+			"EDU_PLC_BOTTOM": "청소년수련관(2층 청소년누리관)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-330-6151",
+			"ED_YMD": "20240604",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경상북도 영천시 운동장로 92 (교촌동)",
