@@ -143,6 +143,86 @@
 			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240617",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240617",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240618",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240618",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240620",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240620",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240621",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2241-4382",
+			"ED_YMD": "20240621",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 화랑로 376 (석관동)",
+			"EDU_PLC_BOTTOM": "서울특별시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
 		}
 	],
 	"regionText": "서울특별시 성북구"
