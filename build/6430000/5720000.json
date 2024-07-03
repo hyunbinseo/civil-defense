@@ -1,5 +1,9 @@
 {
-	"targets": ["민방위대 편입 1~2년차 대원", "민방위대 편입 3~4년차 대원"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "043-201-5016",
@@ -9,6 +13,105 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240416",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240430",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240507",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240514",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240521",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240528",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240604",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-201-5016",
+			"ED_YMD": "20240611",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 청주시 상당구 남일면 단재로 466",
+			"EDU_PLC_BOTTOM": "상당구청 공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "043-201-5016",
