@@ -150,6 +150,126 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 연동로8번길 66 (연산동, 연산1동주민센터)",
+			"EDU_PLC_BOTTOM": "연산1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 중앙대로1038번길 39, 연산2동  행정복지센터 (연산동)",
+			"EDU_PLC_BOTTOM": "연산2동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 연수로218번길 4, 연산3동 행정복지센터 (연산동)",
+			"EDU_PLC_BOTTOM": "연산3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 쌍미천로151번길 42, 연산4동 행정복지센터 (연산동)",
+			"EDU_PLC_BOTTOM": "연산4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 거제천로124번길 15, 연산5동 행정복지센터 (연산동)",
+			"EDU_PLC_BOTTOM": "연산5동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 쌍미천로52번길 2, 연산6동 행정복지센터 (연산동)",
+			"EDU_PLC_BOTTOM": "연산6동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 과정로 262, 연산8동 행정복지센터 201호 (연산동)",
+			"EDU_PLC_BOTTOM": "연산8동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 안연로8번길 71 (연산동, 연산9동주민센터)",
+			"EDU_PLC_BOTTOM": "연산9동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 법원북로 88, 거제1동 주민센터 (거제동)",
+			"EDU_PLC_BOTTOM": "거제1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 아시아드대로22번길 19, 거제2동 행정복지센터 (거제동)",
+			"EDU_PLC_BOTTOM": "거제2동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 거제대로 180, 거제3동 행정복지센터 (거제동)",
+			"EDU_PLC_BOTTOM": "거제3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-665-4135",
+			"ED_YMD": "20240822",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 연제구 화지로52번길 33, 거제4동 행정복지센터 (거제동)",
+			"EDU_PLC_BOTTOM": "거제4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 연제구"
