@@ -183,6 +183,24 @@
 			"EDU_PLC_BOTTOM": "지도읍사무소 회의실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대장"
+		},
+		{
+			"TEL_NO": "061-240-8905",
+			"ED_YMD": "20240902",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "061-240-8905",
+			"ED_YMD": "20240902",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "전라남도 신안군"

@@ -210,6 +210,56 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "033-250-4258",
+			"ED_YMD": "20240913",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 춘천시 시청길 11, 춘천시청 (옥천동)",
+			"EDU_PLC_BOTTOM": "춘천시청 1층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-250-4258",
+			"ED_YMD": "20240919",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 춘천시 시청길 11, 춘천시청 (옥천동)",
+			"EDU_PLC_BOTTOM": "춘천시청 1층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-250-4258",
+			"ED_YMD": "20240920",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 춘천시 시청길 11, 춘천시청 (옥천동)",
+			"EDU_PLC_BOTTOM": "춘천시청 1층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-250-4258",
+			"ED_YMD": "20240921",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 춘천시 시청길 11, 춘천시청 (옥천동)",
+			"EDU_PLC_BOTTOM": "춘천시청 1층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-250-4258",
+			"ED_YMD": "20240929",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 춘천시 시청길 11, 춘천시청 (옥천동)",
+			"EDU_PLC_BOTTOM": "춘천시청 1층 대회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "강원특별자치도 춘천시"

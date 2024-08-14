@@ -160,6 +160,86 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20240911",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20240919",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20240919",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20240920",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20240929",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20240930",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241001",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241002",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 수영구"

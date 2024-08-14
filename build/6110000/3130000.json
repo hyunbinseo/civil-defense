@@ -490,6 +490,16 @@
 			"EDU_PLC_BOTTOM": "마포구청 2층 대강당",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3153-8332",
+			"ED_YMD": "20240929",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 212 (성산동, 마포구청)",
+			"EDU_PLC_BOTTOM": "마포구청 2층 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "서울특별시 마포구"
