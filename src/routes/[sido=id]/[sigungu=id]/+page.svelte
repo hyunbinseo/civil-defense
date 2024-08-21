@@ -29,8 +29,8 @@
 	$: message = !filteredSchedules.length
 		? '교육 일정이 없습니다. 국민 재난 안전 포털을 확인해 보시기 바랍니다.'
 		: selectedTarget.match(/[3-5]/)
-		  ? '3년 차 이상은 사이버 교육으로 진행되며, 타 시⋅군⋅구 교육에 참여할 수 없습니다. 소속 지자체의 안내에 따라 참여하시기 바랍니다.'
-		  : '';
+			? '3년 차 이상은 사이버 교육으로 진행되며, 타 시⋅군⋅구 교육에 참여할 수 없습니다. 소속 지자체의 안내에 따라 참여하시기 바랍니다.'
+			: '';
 </script>
 
 <!-- Cannot use gap-y-*, since it breaks the slide transition. -->
