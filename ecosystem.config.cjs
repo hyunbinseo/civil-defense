@@ -6,25 +6,25 @@
 Error: System time-zone is not UTC. (Current: Asia/Seoul)
 */
 
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const { existsSync } = require('node:fs');
-
-const systemTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-
-if (systemTimeZone !== 'UTC')
-	throw new Error(`System time-zone is not UTC. (Current: ${systemTimeZone})`);
-
-if (!existsSync('./cli/email.json'))
-	throw new Error('SendGrid email configuration file is not found.');
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const { defineApp } = require('pm2-ecosystem');
 
 module.exports = {
 	apps: [
-		{
-			name: 'build-minbangwi.kr',
-			script: './cli/build.js',
+		defineApp({
+			name: 'civil-defense',
+			script: [
+				'git fetch --all',
+				'git reset --hard origin/main',
+				'pnpm install',
+				'node --run build',
+				'git add .',
+				'git commit -m "build: `TZ=UTC date +\'%Y-%m-%dT%H:%M:%SZ\'`"',
+				'git push'
+			].join(' && '),
 			time: true,
 			autorestart: false,
-			cron_restart: '00 03 * * WED'
-		}
+			cron: '00 03 * * WED'
+		})
 	]
 };

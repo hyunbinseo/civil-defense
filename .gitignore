@@ -11,8 +11,6 @@ build/[0-9]*/*
 build/_app/*
 !build/_app/version.json
 
-cli/email.json
-
 /.svelte-kit
 /package
 
