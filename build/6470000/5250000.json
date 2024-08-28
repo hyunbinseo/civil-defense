@@ -6,7 +6,7 @@
 	],
 	"schedules": [
 		{
-			"TEL_NO": "054-789-5891",
+			"TEL_NO": "054-789-5892",
 			"ED_YMD": "20240415",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
@@ -15,7 +15,7 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
 		{
-			"TEL_NO": "054-789-5891",
+			"TEL_NO": "054-789-5892",
 			"ED_YMD": "20240415",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
@@ -42,6 +42,24 @@
 			"EDU_PLC_BOTTOM": "울진연호문화센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-789-5892",
+			"ED_YMD": "20240902",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "054-789-5892",
+			"ED_YMD": "20240902",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "경상북도 울진군"
