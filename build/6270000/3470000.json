@@ -220,6 +220,164 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240925",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240926",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240926",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240926",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240927",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240927",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20240928",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241021",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241021",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241023",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241023",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241024",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241024",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241025",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-667-2271",
+			"ED_YMD": "20241025",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 달서구 송현로 205, 대구공업대학교 (본동)",
+			"EDU_PLC_BOTTOM": "대구공업대학교 2호관 대강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "대구광역시 달서구"

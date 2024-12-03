@@ -240,6 +240,464 @@
 			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241014",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241014",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241103",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241105",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241106",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241106",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241107",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241112",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241112",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241114",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 100 (남천동, 수영구청)",
+			"EDU_PLC_BOTTOM": "수영구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241123",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241123",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 연수로404번길 27, 광안3동 행정복지센터 (광안동)",
+			"EDU_PLC_BOTTOM": "광안3동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241124",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241124",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 연수로404번길 27, 광안3동 행정복지센터 (광안동)",
+			"EDU_PLC_BOTTOM": "광안3동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241124",
+			"EDU_ST_TM": "1100",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광일로14번길 17 (광안동)",
+			"EDU_PLC_BOTTOM": "광안1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241125",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광일로14번길 17 (광안동)",
+			"EDU_PLC_BOTTOM": "광안1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241125",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영로 541 (광안동)",
+			"EDU_PLC_BOTTOM": "광안4동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광일로14번길 17 (광안동)",
+			"EDU_PLC_BOTTOM": "광안1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영로 541 (광안동)",
+			"EDU_PLC_BOTTOM": "광안4동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로295번길 20 (민락동)",
+			"EDU_PLC_BOTTOM": "민락동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 연수로315번길 23 (망미동)",
+			"EDU_PLC_BOTTOM": "망미1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수미로35번길 40, 망미2동 행정복지센터 (망미동)",
+			"EDU_PLC_BOTTOM": "망미2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광일로14번길 17 (광안동)",
+			"EDU_PLC_BOTTOM": "광안1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안로16번길 22, 광안2동주민센터 (광안동)",
+			"EDU_PLC_BOTTOM": "광안2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "1830",
+			"EDU_END_TM": "2230",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영성로 36 (수영동)",
+			"EDU_PLC_BOTTOM": "수영동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "1530",
+			"EDU_END_TM": "1930",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 남천동로 13 (남천동)",
+			"EDU_PLC_BOTTOM": "남천1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광일로14번길 17 (광안동)",
+			"EDU_PLC_BOTTOM": "광안1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영성로 36 (수영동)",
+			"EDU_PLC_BOTTOM": "수영동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수미로35번길 40, 망미2동 행정복지센터 (망미동)",
+			"EDU_PLC_BOTTOM": "망미2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광일로14번길 17 (광안동)",
+			"EDU_PLC_BOTTOM": "광안1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안로16번길 22, 광안2동주민센터 (광안동)",
+			"EDU_PLC_BOTTOM": "광안2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영성로 36 (수영동)",
+			"EDU_PLC_BOTTOM": "수영동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 연수로315번길 23 (망미동)",
+			"EDU_PLC_BOTTOM": "망미1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수미로35번길 40, 망미2동 행정복지센터 (망미동)",
+			"EDU_PLC_BOTTOM": "망미2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241130",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241130",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안로16번길 22, 광안2동주민센터 (광안동)",
+			"EDU_PLC_BOTTOM": "광안2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241130",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영로 541 (광안동)",
+			"EDU_PLC_BOTTOM": "광안4동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241130",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 수영성로 36 (수영동)",
+			"EDU_PLC_BOTTOM": "수영동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241130",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로295번길 20 (민락동)",
+			"EDU_PLC_BOTTOM": "민락동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241130",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 연수로315번길 23 (망미동)",
+			"EDU_PLC_BOTTOM": "망미1동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241201",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241207",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241208",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241214",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-610-4134",
+			"ED_YMD": "20241215",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 수영구 광안해변로 99 (남천동)",
+			"EDU_PLC_BOTTOM": "남천2동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 수영구"

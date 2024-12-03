@@ -140,6 +140,144 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241002",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241002",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241014",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241014",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241017",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241017",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241024",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241024",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241114",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241114",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241121",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241121",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7414",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850, 문화예술회관 (대도동)",
+			"EDU_PLC_BOTTOM": "문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상북도 포항시 북구"

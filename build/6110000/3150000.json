@@ -663,12 +663,220 @@
 		},
 		{
 			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20240928",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
 			"ED_YMD": "20240930",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
 			"EDU_PLC_BOTTOM": "마곡안전체험관",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241015",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241015",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241111",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241111",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241115",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241115",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241118",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241118",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241120",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241120",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241122",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241122",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241125",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241125",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2600-6993",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 강서구 마곡중앙로 13, 마곡안전체험관 (내발산동)",
+			"EDU_PLC_BOTTOM": "마곡안전체험관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],

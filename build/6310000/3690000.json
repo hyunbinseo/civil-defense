@@ -284,8 +284,8 @@
 		{
 			"TEL_NO": "052-290-4072",
 			"ED_YMD": "20240928",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
 			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -294,8 +294,8 @@
 		{
 			"TEL_NO": "052-290-4072",
 			"ED_YMD": "20240928",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
 			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
@@ -313,22 +313,50 @@
 		},
 		{
 			"TEL_NO": "052-290-4072",
-			"ED_YMD": "20241001",
-			"EDU_ST_TM": "1800",
-			"EDU_END_TM": "2200",
+			"ED_YMD": "20241101",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241101",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241106",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
 			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
-			"CVD_EDU_SE_NM": "기본교육",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
 			"TEL_NO": "052-290-4072",
-			"ED_YMD": "20241001",
+			"ED_YMD": "20241107",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
+			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241107",
 			"EDU_ST_TM": "1800",
 			"EDU_END_TM": "2200",
 			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
 			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
-			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
@@ -338,7 +366,47 @@
 			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
 			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
-			"CVD_EDU_SE_NM": "기본교육",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
+			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241114",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
+			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
+			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-290-4072",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 중구 중앙길 199 (학산동)",
+			"EDU_PLC_BOTTOM": "중구 민방위교육장(중앙동행정복지센터 3층)",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],

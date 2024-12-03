@@ -341,6 +341,144 @@
 			"EDU_PLC_BOTTOM": "구로구민회관",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241031",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241101",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241101",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241112",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241113",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241114",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241119",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241119",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241121",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-860-2326",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 구로구 가마산로25길 21, 구로동 (구로동)",
+			"EDU_PLC_BOTTOM": "구로구민회관",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
 		}
 	],
 	"regionText": "서울특별시 구로구"

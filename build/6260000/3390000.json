@@ -234,6 +234,24 @@
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
 		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241014",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241014",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.or.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
 			"TEL_NO": "051-310-3013",
 			"ED_YMD": "20241101",
 			"EDU_ST_TM": "1400",
@@ -262,6 +280,176 @@
 			"EDU_PLC_BOTTOM": "사상구청 신바람홀(지하1층) (사상구 학감대로 242, 감전동)",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241122",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 모라로 93, 모라1동 행정복지센터 (모라동)",
+			"EDU_PLC_BOTTOM": "모라1동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241123",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 모라로 93, 모라1동 행정복지센터 (모라동)",
+			"EDU_PLC_BOTTOM": "모라1동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241123",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 엄궁북로 15 (엄궁동)",
+			"EDU_PLC_BOTTOM": "엄궁동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241123",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 낙동대로1310번길 19, 삼락동 주민센터 (삼락동)",
+			"EDU_PLC_BOTTOM": "삼락동 행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241123",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 새벽시장로56번길 20 (감전동)",
+			"EDU_PLC_BOTTOM": "감전동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241124",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 모라로110번길 99 (모라동)",
+			"EDU_PLC_BOTTOM": "모라3동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241124",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 광장로97번길 6 (괘법동)",
+			"EDU_PLC_BOTTOM": "괘법동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241125",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 주례로10번길 15 (주례동)",
+			"EDU_PLC_BOTTOM": "주례2동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 주례로10번길 15 (주례동)",
+			"EDU_PLC_BOTTOM": "주례2동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 사상로333번길 17 (덕포동)",
+			"EDU_PLC_BOTTOM": "덕포2동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 사상로333번길 17 (덕포동)",
+			"EDU_PLC_BOTTOM": "덕포2동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 광장로97번길 6 (괘법동)",
+			"EDU_PLC_BOTTOM": "괘법동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241126",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 사상로292번길 12 (덕포동)",
+			"EDU_PLC_BOTTOM": "덕포1동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241127",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 사상로 22 (주례동)",
+			"EDU_PLC_BOTTOM": "주례1동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로147번길 11 (학장동)",
+			"EDU_PLC_BOTTOM": "학장동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 주례로10번길 15 (주례동)",
+			"EDU_PLC_BOTTOM": "주례3동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 광장로97번길 6 (괘법동)",
+			"EDU_PLC_BOTTOM": "괘법동 주민센터",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 사상구"

@@ -160,6 +160,74 @@
 			"EDU_PLC_BOTTOM": "조치원읍 세종문화예술회관 1층 대공연장",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241015",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241015",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241030",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 반곡로 39, 반곡동 복합커뮤니티센터 (반곡동)",
+			"EDU_PLC_BOTTOM": "반곡동 복합커뮤니티센터 B동 4층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241105",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 조치원읍 문예회관길 22, 세종문화예술회관",
+			"EDU_PLC_BOTTOM": "조치원읍 세종문화예술회관 1층 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241105",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 조치원읍 문예회관길 22, 세종문화예술회관",
+			"EDU_PLC_BOTTOM": "조치원읍 세종문화예술회관 1층 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 새롬중앙로 44, 새롬동복합커뮤니티센터 (새롬동)",
+			"EDU_PLC_BOTTOM": "새롬동 복합커뮤니티센터 문화관람실",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20241128",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 새롬중앙로 44, 새롬동복합커뮤니티센터 (새롬동)",
+			"EDU_PLC_BOTTOM": "새롬동 복합커뮤니티센터 문화관람실",
+			"CVD_EDU_SE_NM": "기본교육 보충3차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "세종특별자치시 세종시"
