@@ -607,8 +607,8 @@
 			"ED_YMD": "20241202",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로 195, 침산2동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산2동 행정복지센터",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "각 동 지정 장소",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
@@ -617,8 +617,8 @@
 			"ED_YMD": "20241202",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "각 동 지정 장소",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로 195, 침산2동 행정복지센터 (침산동)",
+			"EDU_PLC_BOTTOM": "침산2동 행정복지센터",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
@@ -717,8 +717,8 @@
 			"ED_YMD": "20241202",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1100",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로 195, 침산2동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산2동 행정복지센터",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "각 동 지정 장소",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
@@ -727,8 +727,8 @@
 			"ED_YMD": "20241202",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1100",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "각 동 지정 장소",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로 195, 침산2동 행정복지센터 (침산동)",
+			"EDU_PLC_BOTTOM": "침산2동 행정복지센터",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
@@ -817,8 +817,8 @@
 			"ED_YMD": "20241202",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1000",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로 195, 침산2동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산2동 행정복지센터",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
+			"EDU_PLC_BOTTOM": "각 동 지정 장소",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
@@ -827,8 +827,8 @@
 			"ED_YMD": "20241202",
 			"EDU_ST_TM": "0900",
 			"EDU_END_TM": "1000",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 옥산로 65 (침산동)",
-			"EDU_PLC_BOTTOM": "각 동 지정 장소",
+			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로 195, 침산2동 행정복지센터 (침산동)",
+			"EDU_PLC_BOTTOM": "침산2동 행정복지센터",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
@@ -899,86 +899,6 @@
 			"EDU_END_TM": "1000",
 			"EDU_PLC_RDN_ADDR": "대구광역시 북구 구리로 188, 국우동 행정복지센터 (국우동)",
 			"EDU_PLC_BOTTOM": "국우동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241206",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대장"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241206",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241206",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1600",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241206",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1500",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241219",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대장"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241219",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241219",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1600",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
-			"CVD_EDU_SE_NM": "참여형교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
-		},
-		{
-			"TEL_NO": "053-665-2275",
-			"ED_YMD": "20241219",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1500",
-			"EDU_PLC_RDN_ADDR": "대구광역시 북구 침산남로13길 16, 침산1동 행정복지센터 (침산동)",
-			"EDU_PLC_BOTTOM": "침산1동 행정복지센터",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
