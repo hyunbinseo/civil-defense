@@ -450,6 +450,26 @@
 			"EDU_PLC_BOTTOM": "괘법동 주민센터",
 			"CVD_EDU_SE_NM": "기본교육 보충3차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241218",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 사상로333번길 17 (덕포동)",
+			"EDU_PLC_BOTTOM": "덕포2동 주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241218",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 사상로333번길 17 (덕포동)",
+			"EDU_PLC_BOTTOM": "덕포2동 주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "부산광역시 사상구"

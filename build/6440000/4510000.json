@@ -128,6 +128,16 @@
 			"EDU_PLC_BOTTOM": "대천5동 주민센터",
 			"CVD_EDU_SE_NM": "참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "041-930-3283",
+			"ED_YMD": "20241129",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "충청남도 보령시 주산면 충서로 389-6",
+			"EDU_PLC_BOTTOM": "서면교육",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "충청남도 보령시"

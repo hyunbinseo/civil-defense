@@ -198,6 +198,496 @@
 			"EDU_PLC_BOTTOM": "남구청 드림피아홀(민방위 교육장)",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "0700",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "0700",
+			"EDU_END_TM": "0900",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "0700",
+			"EDU_END_TM": "0800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2100",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241212",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 중앙대로22길 100, 봉덕3동 주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1830",
+			"EDU_END_TM": "2230",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로28길 18, 이천동 주민센터 (이천동)",
+			"EDU_PLC_BOTTOM": "이천동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1830",
+			"EDU_END_TM": "2030",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로28길 18, 이천동 주민센터 (이천동)",
+			"EDU_PLC_BOTTOM": "이천동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1830",
+			"EDU_END_TM": "1930",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로28길 18, 이천동 주민센터 (이천동)",
+			"EDU_PLC_BOTTOM": "이천동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "0800",
+			"EDU_END_TM": "1200",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "0800",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "0800",
+			"EDU_END_TM": "0900",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "1900",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 봉덕로 51-2 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로 38, 대명1동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로 38, 대명1동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1600",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로 38, 대명1동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 대명남로 73, 행복웰컴센터(대명6동주민센터) (대명동)",
+			"EDU_PLC_BOTTOM": "대명6동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 대명남로 73, 행복웰컴센터(대명6동주민센터) (대명동)",
+			"EDU_PLC_BOTTOM": "대명6동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 명덕로20길 115, 대명3동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 명덕로20길 115, 대명3동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241213",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 명덕로20길 115, 대명3동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명3동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241214",
+			"EDU_ST_TM": "0830",
+			"EDU_END_TM": "1230",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로28길 18, 이천동 주민센터 (이천동)",
+			"EDU_PLC_BOTTOM": "이천동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241214",
+			"EDU_ST_TM": "0830",
+			"EDU_END_TM": "1030",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로28길 18, 이천동 주민센터 (이천동)",
+			"EDU_PLC_BOTTOM": "이천동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241214",
+			"EDU_ST_TM": "0830",
+			"EDU_END_TM": "0930",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로28길 18, 이천동 주민센터 (이천동)",
+			"EDU_PLC_BOTTOM": "이천동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241214",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 대명남로 73, 행복웰컴센터(대명6동주민센터) (대명동)",
+			"EDU_PLC_BOTTOM": "대명6동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241214",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 대명남로 73, 행복웰컴센터(대명6동주민센터) (대명동)",
+			"EDU_PLC_BOTTOM": "대명6동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241216",
+			"EDU_ST_TM": "0800",
+			"EDU_END_TM": "1200",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 큰골길 53, 대명9동주민센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명9동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241216",
+			"EDU_ST_TM": "0800",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 큰골길 53, 대명9동주민센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명9동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241216",
+			"EDU_ST_TM": "0800",
+			"EDU_END_TM": "0900",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 큰골길 53, 대명9동주민센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명9동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241216",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로10길 50, 봉덕2동주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕2동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241216",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로10길 50, 봉덕2동주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕2동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241216",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 이천로10길 50, 봉덕2동주민센터 (봉덕동)",
+			"EDU_PLC_BOTTOM": "봉덕2동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241217",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로20길 19, 대명4동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241217",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로20길 19, 대명4동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241217",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로20길 19, 대명4동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241217",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로20길 19, 대명4동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241217",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2100",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로20길 19, 대명4동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241217",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로20길 19, 대명4동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명4동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241219",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로 38, 대명1동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241219",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로 38, 대명1동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-664-2272",
+			"ED_YMD": "20241219",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "대구광역시 남구 두류공원로 38, 대명1동 행정복지센터 (대명동)",
+			"EDU_PLC_BOTTOM": "대명1동 행정복지센터",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "대구광역시 남구"
