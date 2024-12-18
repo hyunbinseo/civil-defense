@@ -470,6 +470,46 @@
 			"EDU_PLC_BOTTOM": "덕포2동 주민센터",
 			"CVD_EDU_SE_NM": "기타교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241219",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 광장로97번길 6 (괘법동)",
+			"EDU_PLC_BOTTOM": "괘법동 주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241221",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 광장로97번길 6 (괘법동)",
+			"EDU_PLC_BOTTOM": "괘법동 주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241224",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2000",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 모라로110번길 99 (모라동)",
+			"EDU_PLC_BOTTOM": "모라3동 주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20241224",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "1900",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 모라로110번길 99 (모라동)",
+			"EDU_PLC_BOTTOM": "모라3동 주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "부산광역시 사상구"

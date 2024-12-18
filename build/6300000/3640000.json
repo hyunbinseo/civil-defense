@@ -228,6 +228,36 @@
 			"EDU_PLC_BOTTOM": "대전청소년위캔센터 1층 대강당",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-251-4965",
+			"ED_YMD": "20241220",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 동구 대전로542번길 143, 효동행정복지센터 (효동)",
+			"EDU_PLC_BOTTOM": "효동주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-251-4965",
+			"ED_YMD": "20241220",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1600",
+			"EDU_PLC_RDN_ADDR": "대전광역시 동구 대전로542번길 143, 효동행정복지센터 (효동)",
+			"EDU_PLC_BOTTOM": "효동주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "042-251-4965",
+			"ED_YMD": "20241220",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1500",
+			"EDU_PLC_RDN_ADDR": "대전광역시 동구 대전로542번길 143, 효동행정복지센터 (효동)",
+			"EDU_PLC_BOTTOM": "효동주민센터",
+			"CVD_EDU_SE_NM": "기타교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		}
 	],
 	"regionText": "대전광역시 동구"
