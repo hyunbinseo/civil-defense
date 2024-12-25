@@ -118,6 +118,15 @@
 			"EDU_PLC_BOTTOM": "장성문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육 보충2차",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "061-390-7019",
+			"ED_YMD": "20241227",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "해당 직장민방위대장이 지정한 장소",
+			"CVD_EDU_SE_NM": "서면교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라남도 장성군"
