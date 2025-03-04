@@ -1,1 +1,114 @@
-{ "targets": [], "schedules": [], "regionText": "경상북도 포항시 북구" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250312",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250312",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250313",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250313",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250314",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250314",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250320",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250320",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250326",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250326",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250327",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-240-7415",
+			"ED_YMD": "20250327",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경상북도 포항시 북구"
+}

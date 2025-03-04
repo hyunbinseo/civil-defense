@@ -1,1 +1,106 @@
-{ "targets": [], "schedules": [], "regionText": "경상북도 포항시 남구" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250213",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250213",
+			"EDU_ST_TM": "1430",
+			"EDU_END_TM": "1830",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250218",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250218",
+			"EDU_ST_TM": "1430",
+			"EDU_END_TM": "1830",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250220",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250220",
+			"EDU_ST_TM": "1430",
+			"EDU_END_TM": "1830",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250225",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250225",
+			"EDU_ST_TM": "1430",
+			"EDU_END_TM": "1830",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250227",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "054-270-6414",
+			"ED_YMD": "20250227",
+			"EDU_ST_TM": "1430",
+			"EDU_END_TM": "1830",
+			"EDU_PLC_RDN_ADDR": "경상북도 포항시 남구 희망대로 850 (대도동)",
+			"EDU_PLC_BOTTOM": "포항 문화예술회관 소공연장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경상북도 포항시 남구"
+}

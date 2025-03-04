@@ -1,1 +1,436 @@
-{ "targets": [], "schedules": [], "regionText": "서울특별시 관악구" }
+{
+	"targets": ["신편대원", "민방위대 편입 2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250407",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250408",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250408",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250409",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250416",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250428",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250428",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250429",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250507",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250508",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250509",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250512",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250513",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250514",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250514",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250516",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250519",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250519",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250520",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250523",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250526",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250527",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250529",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250529",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250602",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250603",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250604",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250610",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250611",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250616",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250618",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250618",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250624",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "02-879-5823",
+			"ED_YMD": "20250625",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 관악구 문성로16다길 135 (신림동)",
+			"EDU_PLC_BOTTOM": "관악구민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		}
+	],
+	"regionText": "서울특별시 관악구"
+}

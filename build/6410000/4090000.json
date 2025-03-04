@@ -1,1 +1,186 @@
-{ "targets": [], "schedules": [], "regionText": "경기도 김포시" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250310",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250311",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250312",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250313",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250314",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250317",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250318",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250319",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250320",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250321",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250324",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250325",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250326",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250327",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250328",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250331",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250401",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-980-2361",
+			"ED_YMD": "20250402",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 김포시 사우중로 1 (사우동)",
+			"EDU_PLC_BOTTOM": "민방위 재난실전훈련센터(김포시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경기도 김포시"
+}

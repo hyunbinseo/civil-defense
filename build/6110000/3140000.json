@@ -1,1 +1,46 @@
-{ "targets": [], "schedules": [], "regionText": "서울특별시 양천구" }
+{
+	"targets": ["신편대원"],
+	"schedules": [
+		{
+			"TEL_NO": "02-2620-4396",
+			"ED_YMD": "20250408",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 양천구 목동동로 81, 2층 (신정동, 해누리타운)",
+			"EDU_PLC_BOTTOM": "해누리타운(2층) 해누리홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2620-4396",
+			"ED_YMD": "20250409",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 양천구 목동동로 81, 2층 (신정동, 해누리타운)",
+			"EDU_PLC_BOTTOM": "해누리타운(2층) 해누리홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2620-4396",
+			"ED_YMD": "20250410",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 양천구 목동동로 81, 2층 (신정동, 해누리타운)",
+			"EDU_PLC_BOTTOM": "해누리타운(2층) 해누리홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "02-2620-4396",
+			"ED_YMD": "20250411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 양천구 목동동로 81, 2층 (신정동, 해누리타운)",
+			"EDU_PLC_BOTTOM": "해누리타운(2층) 해누리홀",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		}
+	],
+	"regionText": "서울특별시 양천구"
+}

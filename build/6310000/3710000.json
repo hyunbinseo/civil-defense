@@ -1,1 +1,128 @@
-{ "targets": [], "schedules": [], "regionText": "울산광역시 동구" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250414",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250417",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250428",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250429",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 동구 봉수로 155 (화정동)",
+			"EDU_PLC_BOTTOM": "동구청 5층 중강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250501",
+			"EDU_ST_TM": "0501",
+			"EDU_END_TM": "0630",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "052-209-3682",
+			"ED_YMD": "20250501",
+			"EDU_ST_TM": "0501",
+			"EDU_END_TM": "0630",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		}
+	],
+	"regionText": "울산광역시 동구"
+}
