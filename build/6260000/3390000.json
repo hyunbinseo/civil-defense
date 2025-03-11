@@ -1,5 +1,5 @@
 {
-	"targets": ["민방위대 편입 3~4년차 대원"],
+	"targets": ["민방위대 편입 1~2년차 대원", "민방위대 편입 3~4년차 대원"],
 	"schedules": [
 		{
 			"TEL_NO": "051-310-4132",
@@ -10,6 +10,116 @@
 			"EDU_PLC_BOTTOM": "울산 안전체험관",
 			"CVD_EDU_SE_NM": "자율참여형교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250409",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250410",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250417",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250419",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250516",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250517",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-310-4132",
+			"ED_YMD": "20250519",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 사상구 학감대로 242 (감전동)",
+			"EDU_PLC_BOTTOM": "사상구청 한마당홀(지하 대강당)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 사상구"

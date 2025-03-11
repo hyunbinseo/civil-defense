@@ -1,1 +1,76 @@
-{ "targets": [], "schedules": [], "regionText": "대구광역시 중구" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250403",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250404",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250407",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250407",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250408",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250409",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-661-2273",
+			"ED_YMD": "20250409",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 중구 국채보상로139길 1 (동인동2가)",
+			"EDU_PLC_BOTTOM": "중구청대강당(5층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "대구광역시 중구"
+}
