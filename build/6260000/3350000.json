@@ -1,1 +1,96 @@
-{ "targets": [], "schedules": [], "regionText": "부산광역시 금정구" }
+{
+	"targets": ["신편대원"],
+	"schedules": [
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250410",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250411",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250416",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "051-519-4132",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 금정구 중앙대로 1777 (부곡동)",
+			"EDU_PLC_BOTTOM": "민방위 실전훈련센터(금정구청 지하3층)",
+			"CVD_EDU_SE_NM": "신편교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		}
+	],
+	"regionText": "부산광역시 금정구"
+}
