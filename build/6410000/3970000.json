@@ -1,1 +1,66 @@
-{ "targets": [], "schedules": [], "regionText": "경기도 과천시" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 관문로 69 (중앙동)",
+			"EDU_PLC_BOTTOM": "과천시청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 관문로 69 (중앙동)",
+			"EDU_PLC_BOTTOM": "과천시청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 관문로 69 (중앙동)",
+			"EDU_PLC_BOTTOM": "과천시청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 관문로 69 (중앙동)",
+			"EDU_PLC_BOTTOM": "과천시청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 관문로 69 (중앙동)",
+			"EDU_PLC_BOTTOM": "과천시청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3677-2163",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 과천시 관문로 69 (중앙동)",
+			"EDU_PLC_BOTTOM": "과천시청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경기도 과천시"
+}
