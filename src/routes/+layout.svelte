@@ -51,6 +51,7 @@
 	<meta property="og:site_name" content="민방위.kr" />
 	<meta property="og:description" content={description} />
 	<link rel="canonical" href="{PUBLIC_DOMAIN}{$page.url.pathname}" />
+	<script defer src="https://assets.onedollarstats.com/stonks.js"></script>
 </svelte:head>
 
 <div class="content flex flex-1 flex-col bg-white p-6 pb-0 sm:max-w-screen-sm">
