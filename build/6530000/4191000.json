@@ -1,1 +1,174 @@
-{ "targets": [], "schedules": [], "regionText": "강원특별자치도 원주시" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250715",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250715",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250716",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250716",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250717",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250717",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250718",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250718",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250719",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "백운아트홀(원주시청내)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250723",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "원주시청 지하2층 충무시설",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250724",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "강원특별자치도 원주시 시청로 1 (무실동)",
+			"EDU_PLC_BOTTOM": "원주시청 지하2층 충무시설",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20251015",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "033-737-3694",
+			"ED_YMD": "20251015",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		}
+	],
+	"regionText": "강원특별자치도 원주시"
+}

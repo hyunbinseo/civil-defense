@@ -1,1 +1,26 @@
-{ "targets": [], "schedules": [], "regionText": "충청북도 영동군" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "043-740-3903",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "충청북도 영동군 영동읍 영동천2길 29, 영동문화의집 1층",
+			"EDU_PLC_BOTTOM": "영동문화원 문화관람실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-740-3903",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "충청북도 영동군 영동읍 영동천2길 29, 영동문화의집 1층",
+			"EDU_PLC_BOTTOM": "영동문화원 문화관람실",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "충청북도 영동군"
+}

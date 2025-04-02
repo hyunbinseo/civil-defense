@@ -1,1 +1,148 @@
-{ "targets": [], "schedules": [], "regionText": "제주특별자치도 제주시" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 애월읍 일주서로 6349, 애월체육관",
+			"EDU_PLC_BOTTOM": "애월체육관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250425",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 동문로 169 (건입동)",
+			"EDU_PLC_BOTTOM": "사라봉다목적체육관(제주시 동문로 169)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250428",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 한림읍 한림중앙로 71-9, 한림체육관",
+			"EDU_PLC_BOTTOM": "한림체육관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250429",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 조천읍 조천18길 11-1, 조천체육관",
+			"EDU_PLC_BOTTOM": "조천체육관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "064-728-3783",
+			"ED_YMD": "20250430",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "제주특별자치도 제주시 구좌읍 김녕로 209, 구좌체육관",
+			"EDU_PLC_BOTTOM": "구좌체육관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "제주특별자치도 제주시"
+}
