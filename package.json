@@ -2,13 +2,14 @@
 	"name": "civil-defense",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build && prettier \"./build/**/*.json\" --ignore-path --write",
+		"build": "vite build",
 		"preview": "vite preview",
 		"deploy": "wrangler pages deploy ./build",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --check . && eslint .",
-		"format": "prettier --write ."
+		"format": "prettier --write .",
+		"format:build": "prettier \"./build/**/*.json\" --ignore-path --write"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^3.0.8",
