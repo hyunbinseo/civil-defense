@@ -100,6 +100,86 @@
 			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 계룡로553번길 38, 대전서구문화원 공연장 6층 (탄방동)",
+			"EDU_PLC_BOTTOM": "대전서구문화원",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250426",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "042-288-2542",
+			"ED_YMD": "20250426",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대전광역시 서구 둔산서로 100 (둔산동)",
+			"EDU_PLC_BOTTOM": "서구청 대강당(2층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "대전광역시 서구"

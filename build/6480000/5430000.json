@@ -1,1 +1,16 @@
-{ "targets": [], "schedules": [], "regionText": "경상남도 남해군" }
+{
+	"targets": ["민방위대 편입 1~2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "055-860-3424",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 남해군 남해읍 남해대로 2745",
+			"EDU_PLC_BOTTOM": "유배문학관 강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "경상남도 남해군"
+}

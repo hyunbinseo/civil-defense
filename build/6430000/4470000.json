@@ -1,1 +1,108 @@
-{ "targets": [], "schedules": [], "regionText": "충청북도 음성군" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 대소면 오태로 57-16",
+			"EDU_PLC_BOTTOM": "대소면행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 맹동면 대동로 33",
+			"EDU_PLC_BOTTOM": "맹동면행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250526",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 음성읍 용광로 81-5, 음성군 농업기술센터",
+			"EDU_PLC_BOTTOM": "농업기술센터 음성명작관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250530",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 금왕읍 무극로 221",
+			"EDU_PLC_BOTTOM": "금왕읍행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250609",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 대소면 오태로 57-16",
+			"EDU_PLC_BOTTOM": "대소면행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250613",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 금왕읍 무극로 221",
+			"EDU_PLC_BOTTOM": "금왕읍행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250617",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 감곡면 음성로 2652",
+			"EDU_PLC_BOTTOM": "감곡면행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "043-871-3264",
+			"ED_YMD": "20250620",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "충청북도 음성군 맹동면 대동로 33",
+			"EDU_PLC_BOTTOM": "맹동면행정복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "충청북도 음성군"
+}
