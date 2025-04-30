@@ -112,6 +112,176 @@
 			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250426",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 시민공원로 30 (부암동)",
+			"EDU_PLC_BOTTOM": "부산진구청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250428",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250429",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250502",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250508",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250509",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250510",
+			"EDU_ST_TM": "1000",
+			"EDU_END_TM": "1400",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 시민공원로 30 (부암동)",
+			"EDU_PLC_BOTTOM": "부산진구청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250609",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250610",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250611",
+			"EDU_ST_TM": "1900",
+			"EDU_END_TM": "2300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 시민공원로 30 (부암동)",
+			"EDU_PLC_BOTTOM": "부산진구청 대강당",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250613",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250613",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250619",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250620",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250620",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250623",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-605-4131",
+			"ED_YMD": "20250624",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 부산진구 동성로 144, 적십자회관빌딩 (전포동)",
+			"EDU_PLC_BOTTOM": "부산적십자회관 대강당(1층)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 부산진구"

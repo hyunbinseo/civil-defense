@@ -30,7 +30,7 @@
 			"ED_YMD": "20250414",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "0000",
-			"EDU_PLC_BOTTOM": "K민방위 사이버교육(https://k-defense.co.kr/main)",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
 		},
@@ -39,7 +39,7 @@
 			"ED_YMD": "20250414",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "0000",
-			"EDU_PLC_BOTTOM": "K민방위 사이버교육(https://k-defense.co.kr/main)",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
 		},
@@ -85,46 +85,6 @@
 		},
 		{
 			"TEL_NO": "02-820-1326",
-			"ED_YMD": "20250528",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
-			"EDU_PLC_BOTTOM": "동작문화복지센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
-		},
-		{
-			"TEL_NO": "02-820-1326",
-			"ED_YMD": "20250529",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
-			"EDU_PLC_BOTTOM": "동작문화복지센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
-		},
-		{
-			"TEL_NO": "02-820-1326",
-			"ED_YMD": "20250604",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
-			"EDU_PLC_BOTTOM": "동작문화복지센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
-		},
-		{
-			"TEL_NO": "02-820-1326",
-			"ED_YMD": "20250605",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
-			"EDU_PLC_BOTTOM": "동작문화복지센터",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
-		},
-		{
-			"TEL_NO": "02-820-1326",
 			"ED_YMD": "20250610",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
@@ -145,9 +105,29 @@
 		},
 		{
 			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250611",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
 			"ED_YMD": "20250612",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250612",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
 			"EDU_PLC_BOTTOM": "동작문화복지센터",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -165,9 +145,29 @@
 		},
 		{
 			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250617",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
 			"ED_YMD": "20250619",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250619",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
 			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
 			"EDU_PLC_BOTTOM": "동작문화복지센터",
 			"CVD_EDU_SE_NM": "기본교육",
@@ -186,6 +186,56 @@
 		{
 			"TEL_NO": "02-820-1326",
 			"ED_YMD": "20250625",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250625",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250703",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250710",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250715",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
+			"EDU_PLC_BOTTOM": "동작문화복지센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-820-1326",
+			"ED_YMD": "20250717",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 동작구 장승배기로10길 42, 동작문화복지센타 (상도동)",
