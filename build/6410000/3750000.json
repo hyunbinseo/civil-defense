@@ -1,1 +1,206 @@
-{ "targets": [], "schedules": [], "regionText": "경기도 수원시 장안구" }
+{
+	"targets": ["신편대원", "민방위대 편입 2년차 대원"],
+	"schedules": [
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250421",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250422",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250423",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250424",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250623",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250623",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250624",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250624",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250625",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250625",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250626",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250626",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250627",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		},
+		{
+			"TEL_NO": "031-228-5268",
+			"ED_YMD": "20250627",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 수원시 팔달구 동수원로 341 (인계동, 민방위교육장)",
+			"EDU_PLC_BOTTOM": "수원시민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 2년차 대원"
+		}
+	],
+	"regionText": "경기도 수원시 장안구"
+}
