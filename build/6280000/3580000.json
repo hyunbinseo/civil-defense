@@ -1,1 +1,67 @@
-{ "targets": [], "schedules": [], "regionText": "인천광역시 옹진군" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상",
+		"민방위대장"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "032-899-2491",
+			"ED_YMD": "20250604",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1100",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "032-899-2491",
+			"ED_YMD": "20250604",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1000",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "032-899-2491",
+			"ED_YMD": "20250604",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대장"
+		},
+		{
+			"TEL_NO": "032-899-2491",
+			"ED_YMD": "20250604",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032-899-2491",
+			"ED_YMD": "20250613",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 옹진군 영흥면 내동로 ",
+			"EDU_PLC_BOTTOM": "영흥면 복지회관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032-899-2491",
+			"ED_YMD": "20250626",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 옹진군 백령면 백령남로 10",
+			"EDU_PLC_BOTTOM": "백령면 3.5호 대피시설(진촌리 해병대 아파트)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "인천광역시 옹진군"
+}
