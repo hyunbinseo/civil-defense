@@ -1,5 +1,9 @@
 {
-	"targets": ["민방위대 편입 3~4년차 대원", "민방위대 편입 5년차 이상"],
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
 	"schedules": [
 		{
 			"TEL_NO": "053-666-2272",
@@ -28,6 +32,156 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250623",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250623",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250624",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250624",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250626",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250626",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250627",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250627",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250630",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250630",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250701",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250701",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250702",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250702",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "053-666-2272",
+			"ED_YMD": "20250703",
+			"EDU_ST_TM": "0930",
+			"EDU_END_TM": "1330",
+			"EDU_PLC_RDN_ADDR": "대구광역시 수성구 달구벌대로528길 15, 수성대학교 (만촌동)",
+			"EDU_PLC_BOTTOM": "수성대학교 젬마관",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "대구광역시 수성구"
