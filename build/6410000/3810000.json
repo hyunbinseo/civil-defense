@@ -262,6 +262,46 @@
 			"EDU_PLC_BOTTOM": "성남시 민방위 안전체험센터",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-729-7343",
+			"ED_YMD": "20250709",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 성남시 수정구 논골로11번길 8-3 (단대동)",
+			"EDU_PLC_BOTTOM": "성남시 민방위 안전체험센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-729-7343",
+			"ED_YMD": "20250710",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 성남시 수정구 논골로11번길 8-3 (단대동)",
+			"EDU_PLC_BOTTOM": "성남시 민방위 안전체험센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-729-7343",
+			"ED_YMD": "20250711",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 성남시 수정구 논골로11번길 8-3 (단대동)",
+			"EDU_PLC_BOTTOM": "성남시 민방위 안전체험센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-729-7343",
+			"ED_YMD": "20250711",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 성남시 수정구 논골로11번길 8-3 (단대동)",
+			"EDU_PLC_BOTTOM": "성남시 민방위 안전체험센터",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경기도 성남시 분당구"
