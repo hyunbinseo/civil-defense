@@ -168,8 +168,8 @@
 			"ED_YMD": "20250623",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 212, 마포구청 성산동동 8층 (성산동)",
-			"EDU_PLC_BOTTOM": "마포구청 8층 대회의실",
+			"EDU_PLC_RDN_ADDR": "서울특별시 마포구 월드컵로 212 (성산동, 마포구청)",
+			"EDU_PLC_BOTTOM": "마포구청 2층 대강당",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},
