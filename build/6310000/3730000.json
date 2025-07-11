@@ -122,6 +122,84 @@
 			"EDU_PLC_BOTTOM": "울주문화예술회관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250902",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 울주군 삼남읍 울산역로 345, 울주 서부청소년수련관",
+			"EDU_PLC_BOTTOM": "울주서부청소년수련관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250909",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 울주군 온양읍 남창1길 13, 온양문화복지센터 3층",
+			"EDU_PLC_BOTTOM": "온양문화복지센터 3층 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250911",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 울주군 언양읍 언양로 40-7, 서울주문화센터",
+			"EDU_PLC_BOTTOM": "서울주문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250916",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 울주군 온양읍 남창1길 13, 온양문화복지센터 3층",
+			"EDU_PLC_BOTTOM": "온양문화복지센터 3층 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250917",
+			"EDU_ST_TM": "1330",
+			"EDU_END_TM": "1730",
+			"EDU_PLC_RDN_ADDR": "울산광역시 울주군 범서읍 천상중앙길 36, 울주문화예술회관",
+			"EDU_PLC_BOTTOM": "울주문화예술회관",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "052-204-1443",
+			"ED_YMD": "20250930",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "울산광역시 울주군 온양읍 남창1길 13, 온양문화복지센터 3층",
+			"EDU_PLC_BOTTOM": "온양문화복지센터 3층 대공연장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "울산광역시 울주군"
