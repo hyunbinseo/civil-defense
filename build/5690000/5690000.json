@@ -202,6 +202,84 @@
 			"EDU_PLC_BOTTOM": "고운동 북측 복합커뮤니티센터 3층 문화관람실",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250807",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 반곡로 39, 반곡동 복합커뮤니티센터 (반곡동)",
+			"EDU_PLC_BOTTOM": "반곡동 복합커뮤니티센터 B동 4층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250807",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 반곡로 39, 반곡동 복합커뮤니티센터 (반곡동)",
+			"EDU_PLC_BOTTOM": "반곡동 복합커뮤니티센터 B동 4층 다목적강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250909",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 다솜1로 31, 어진동복합커뮤니티센터 (어진동)",
+			"EDU_PLC_BOTTOM": "세종시청자미디어센터(어진동 행복누림터) 1층 다목적홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250909",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 다솜1로 31, 어진동복합커뮤니티센터 (어진동)",
+			"EDU_PLC_BOTTOM": "세종시청자미디어센터(어진동 행복누림터) 1층 다목적홀",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250911",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 보람로 77, 도담동주민센터 (도담동)",
+			"EDU_PLC_BOTTOM": "도담동 행복누림터 3층 강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "044-300-3245",
+			"ED_YMD": "20250911",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "세종특별자치시 보람로 77, 도담동주민센터 (도담동)",
+			"EDU_PLC_BOTTOM": "도담동 행복누림터 3층 강당",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "세종특별자치시 세종시"
