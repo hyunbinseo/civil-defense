@@ -44,6 +44,7 @@
 		class:border-b-0={!message}
 	>
 		<option value="">연차를 선택해주세요.</option>
+		<!-- eslint-disable-next-line svelte/require-each-key, svelte/require-each-key -->
 		{#each data.targets as target}
 			<option value={target}>{target === '신편대원' ? '민방위대 편입 1년차 대원' : target}</option>
 		{/each}

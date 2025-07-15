@@ -75,10 +75,12 @@
 			class:max-sm:hidden={$page.url.pathname !== '/'}
 		>
 			<nav class="mb-6 divide-y border">
+				<!-- eslint-disable-next-line svelte/require-each-key, svelte/require-each-key -->
 				{#each generateList() as { sido: [sidoId, sidoText], sigungu }}
 					<details>
 						<summary>{sidoText}</summary>
 						<ul>
+							<!-- eslint-disable-next-line svelte/require-each-key, svelte/require-each-key -->
 							{#each sigungu as [sigunguId, sigunguText]}
 								{@const href = `/${sidoId}/${sigunguId}`}
 								<li>
@@ -113,6 +115,7 @@
 			</p>
 		</header>
 		<div class="mt-7 space-y-4">
+			<!-- eslint-disable-next-line svelte/require-each-key, svelte/require-each-key -->
 			{#each messages as message}
 				<label class="flex items-center gap-x-4">
 					<input required type="checkbox" class="text-indigo-600" />
