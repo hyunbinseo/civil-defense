@@ -295,7 +295,173 @@
 		},
 		{
 			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250811",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250811",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
 			"ED_YMD": "20250912",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250916",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250917",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250918",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250919",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250924",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20250926",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251021",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251022",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251022",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251022",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251023",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251029",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251030",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
+			"EDU_PLC_BOTTOM": "서대문문화체육회관 2층소극장(문화회관)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-3140-8313",
+			"ED_YMD": "20251031",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "서울특별시 서대문구 백련사길 39 (홍은동)",
