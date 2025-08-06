@@ -144,6 +144,34 @@
 			"EDU_PLC_BOTTOM": "북구 문화예술회관(북구 문화빙상센터 내)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대편입 2년차대원"
+		},
+		{
+			"TEL_NO": "051-309-4132",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대편입 3~4년차대원"
+		},
+		{
+			"TEL_NO": "051-309-4132",
+			"ED_YMD": "20250801",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "0000",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-309-4131",
+			"ED_YMD": "20250820",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "부산광역시 북구 금곡대로 274, 화명1동행정복지센터 (화명동)",
+			"EDU_PLC_BOTTOM": "화명1동행정복지센터(부산광역시 북구 금곡대로 274, 2층 대회의실)",
+			"CVD_EDU_SE_NM": "참여형교육",
+			"EDU_TGT_SE_NM": "민방위대편입 2년차대원"
 		}
 	],
 	"regionText": "부산광역시 북구"

@@ -112,6 +112,64 @@
 			"EDU_PLC_BOTTOM": "진해구청 대회의실(민원동 2층)",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-548-4134",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-548-4134",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-548-4134",
+			"ED_YMD": "20250910",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 진해구 진해대로 1101 (풍호동, 진해보건소)",
+			"EDU_PLC_BOTTOM": "진해민방위교육장(진해구청 입구, 진해보건소 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-548-4134",
+			"ED_YMD": "20250910",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 진해구 진해대로 1101 (풍호동, 진해보건소)",
+			"EDU_PLC_BOTTOM": "진해민방위교육장(진해구청 입구, 진해보건소 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-548-4134",
+			"ED_YMD": "20250911",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 진해구 진해대로 1101 (풍호동, 진해보건소)",
+			"EDU_PLC_BOTTOM": "진해민방위교육장(진해구청 입구, 진해보건소 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-548-4134",
+			"ED_YMD": "20250911",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 진해구 진해대로 1101 (풍호동, 진해보건소)",
+			"EDU_PLC_BOTTOM": "진해민방위교육장(진해구청 입구, 진해보건소 내)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 창원시 진해구"
