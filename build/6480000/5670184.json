@@ -92,6 +92,64 @@
 			"EDU_PLC_BOTTOM": "마산야구센터 올림픽기념관",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-230-4134",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "055-230-4134",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "055-230-4134",
+			"ED_YMD": "20250924",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 135, 3.15아트센터 (양덕동)",
+			"EDU_PLC_BOTTOM": "3.15아트센터 국제회의장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-230-4134",
+			"ED_YMD": "20250924",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 135, 3.15아트센터 (양덕동)",
+			"EDU_PLC_BOTTOM": "3.15아트센터 국제회의장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-230-4134",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 135, 3.15아트센터 (양덕동)",
+			"EDU_PLC_BOTTOM": "3.15아트센터 국제회의장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "055-230-4134",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상남도 창원시 마산회원구 삼호로 135, 3.15아트센터 (양덕동)",
+			"EDU_PLC_BOTTOM": "3.15아트센터 국제회의장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경상남도 창원시 마산회원구"

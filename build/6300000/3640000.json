@@ -134,10 +134,10 @@
 		{
 			"TEL_NO": "042-251-4964",
 			"ED_YMD": "20250820",
-			"EDU_ST_TM": "0900",
-			"EDU_END_TM": "1300",
-			"EDU_PLC_RDN_ADDR": "대전광역시 동구 동부로 37 (판암동)",
-			"EDU_PLC_BOTTOM": "판암2동주민센터",
+			"EDU_ST_TM": "1300",
+			"EDU_END_TM": "1700",
+			"EDU_PLC_RDN_ADDR": "대전광역시 동구 동부로 23 (판암동)",
+			"EDU_PLC_BOTTOM": "동구행복한어르신복지관",
 			"CVD_EDU_SE_NM": "기타교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		},

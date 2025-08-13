@@ -1,1 +1,524 @@
-{ "targets": [], "schedules": [], "regionText": "서울특별시 중랑구" }
+{
+	"targets": [
+		"민방위대 편입 1~2년차 대원",
+		"민방위대 편입 3~4년차 대원",
+		"민방위대 편입 5년차 이상"
+	],
+	"schedules": [
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250317",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250318",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250318",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250320",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250320",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250321",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250321",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250414",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250414",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250415",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250417",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250417",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250418",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250609",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250609",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250610",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250610",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250612",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250612",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250613",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250613",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250707",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250707",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250708",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250708",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250710",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250710",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250711",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0291",
+			"ED_YMD": "20250711",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250922",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250923",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250923",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20250926",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251027",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251027",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251027",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251028",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251101",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251124",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251125",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251125",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251127",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251127",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "02-2094-0293",
+			"ED_YMD": "20251128",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "서울특별시 성북구 한천로  (석관동)",
+			"EDU_PLC_BOTTOM": "서울시민방위 교육장(성북구 석관동, 석계역 부근)",
+			"CVD_EDU_SE_NM": "기본교육 보충2차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		}
+	],
+	"regionText": "서울특별시 중랑구"
+}
