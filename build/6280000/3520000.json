@@ -250,6 +250,116 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 능허대로446번길 5 (동춘동)",
+			"EDU_PLC_BOTTOM": "연수구 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 능허대로446번길 5 (동춘동)",
+			"EDU_PLC_BOTTOM": "연수구 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250926",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 능허대로446번길 5 (동춘동)",
+			"EDU_PLC_BOTTOM": "연수구 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250929",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 능허대로446번길 5 (동춘동)",
+			"EDU_PLC_BOTTOM": "연수구 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250929",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 능허대로446번길 5 (동춘동)",
+			"EDU_PLC_BOTTOM": "연수구 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250930",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 연구단지로 14, 연수구 제2청사 (송도동)",
+			"EDU_PLC_BOTTOM": "연수구청 제2청사",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20250930",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 연구단지로 14, 연수구 제2청사 (송도동)",
+			"EDU_PLC_BOTTOM": "연수구청 제2청사",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20251001",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 연구단지로 14, 연수구 제2청사 (송도동)",
+			"EDU_PLC_BOTTOM": "연수구청 제2청사",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20251001",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 연구단지로 14, 연수구 제2청사 (송도동)",
+			"EDU_PLC_BOTTOM": "연수구청 제2청사",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20251002",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 연구단지로 14, 연수구 제2청사 (송도동)",
+			"EDU_PLC_BOTTOM": "연수구청 제2청사",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "032 749 7192",
+			"ED_YMD": "20251002",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "인천광역시 연수구 연구단지로 14, 연수구 제2청사 (송도동)",
+			"EDU_PLC_BOTTOM": "연수구청 제2청사",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "인천광역시 연수구"

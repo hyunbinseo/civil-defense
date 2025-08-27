@@ -522,6 +522,344 @@
 			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
 			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4150",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 3~4년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4150",
+			"ED_YMD": "20250901",
+			"EDU_ST_TM": "0000",
+			"EDU_END_TM": "2359",
+			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
+			"CVD_EDU_SE_NM": "사이버교육",
+			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250923",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250924",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250924",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250926",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250929",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250930",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20250930",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251001",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251002",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251002",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251013",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251013",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251014",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251014",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251015",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251016",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251016",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251017",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251017",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251018",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251018",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251020",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251020",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251021",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251021",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251022",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251022",
+			"EDU_ST_TM": "1800",
+			"EDU_END_TM": "2200",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251023",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251023",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "031-940-4153",
+			"ED_YMD": "20251024",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경기도 파주시 파주읍 교육길 13 (파주시민방위교육장)",
+			"EDU_PLC_BOTTOM": "파주시 민방위교육장",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "경기도 파주시"
