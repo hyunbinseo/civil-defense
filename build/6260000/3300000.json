@@ -172,6 +172,36 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "051-550-4132",
+			"ED_YMD": "20250916",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 동래구 충렬대로237번길 93, 동래구청 2층 (복천동)",
+			"EDU_PLC_BOTTOM": "동래구청 동래홀(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-550-4132",
+			"ED_YMD": "20250917",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 동래구 충렬대로237번길 93, 동래구청 2층 (복천동)",
+			"EDU_PLC_BOTTOM": "동래구청 동래홀(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "051-550-4132",
+			"ED_YMD": "20250918",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "부산광역시 동래구 충렬대로237번길 93, 동래구청 2층 (복천동)",
+			"EDU_PLC_BOTTOM": "동래구청 동래홀(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "부산광역시 동래구"
