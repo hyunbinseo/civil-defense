@@ -300,6 +300,56 @@
 			"EDU_PLC_BOTTOM": "민방위 사이버 교육센터(https://kcmes.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "0623607455",
+			"ED_YMD": "20250923",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0623607455",
+			"ED_YMD": "20250924",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0623607455",
+			"ED_YMD": "20250925",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0623607455",
+			"ED_YMD": "20250926",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
+		},
+		{
+			"TEL_NO": "0623607455",
+			"ED_YMD": "20250930",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "광주광역시 서구 마재로 3 (금호동)",
+			"EDU_PLC_BOTTOM": "광주광역시 서구문화센터",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "광주광역시 서구"
