@@ -140,6 +140,16 @@
 			"EDU_PLC_BOTTOM": "스마트민방위(https://www.cdec.kr/)",
 			"CVD_EDU_SE_NM": "사이버교육",
 			"EDU_TGT_SE_NM": "민방위대 편입 5년차 이상"
+		},
+		{
+			"TEL_NO": "240-8028",
+			"ED_YMD": "20251013",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "전라남도 신안군 압해읍 천사로 1004",
+			"EDU_PLC_BOTTOM": "신안군청 공연장(2층)",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대 편입 1~2년차 대원"
 		}
 	],
 	"regionText": "전라남도 신안군"

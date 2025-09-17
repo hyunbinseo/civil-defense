@@ -18,16 +18,6 @@
 		},
 		{
 			"TEL_NO": "054-680-6671",
-			"ED_YMD": "20251015",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37, 영양군청 2층",
-			"EDU_PLC_BOTTOM": "영양군청 소회의실",
-			"CVD_EDU_SE_NM": "기본교육 보충1차",
-			"EDU_TGT_SE_NM": "신편대원"
-		},
-		{
-			"TEL_NO": "054-680-6671",
 			"ED_YMD": "20250811",
 			"EDU_ST_TM": "0000",
 			"EDU_END_TM": "2359",
@@ -46,17 +36,7 @@
 		},
 		{
 			"TEL_NO": "054-680-6671",
-			"ED_YMD": "20250619",
-			"EDU_ST_TM": "1400",
-			"EDU_END_TM": "1800",
-			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37 (영양군청)",
-			"EDU_PLC_BOTTOM": "영양군청 대회의실",
-			"CVD_EDU_SE_NM": "기본교육",
-			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원"
-		},
-		{
-			"TEL_NO": "054-680-6671",
-			"ED_YMD": "20251015",
+			"ED_YMD": "20251016",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37, 영양군청 2층",
@@ -66,12 +46,32 @@
 		},
 		{
 			"TEL_NO": "054-680-6671",
-			"ED_YMD": "20251015",
+			"ED_YMD": "20251016",
+			"EDU_ST_TM": "0900",
+			"EDU_END_TM": "1300",
+			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37, 영양군청 2층",
+			"EDU_PLC_BOTTOM": "영양군청 소회의실",
+			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "신편대원"
+		},
+		{
+			"TEL_NO": "054-680-6671",
+			"ED_YMD": "20251016",
 			"EDU_ST_TM": "1400",
 			"EDU_END_TM": "1800",
 			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37, 영양군청 2층",
 			"EDU_PLC_BOTTOM": "영양군청 소회의실",
 			"CVD_EDU_SE_NM": "기본교육 보충1차",
+			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원"
+		},
+		{
+			"TEL_NO": "054-680-6671",
+			"ED_YMD": "20250619",
+			"EDU_ST_TM": "1400",
+			"EDU_END_TM": "1800",
+			"EDU_PLC_RDN_ADDR": "경상북도 영양군 영양읍 군청길 37 (영양군청)",
+			"EDU_PLC_BOTTOM": "영양군청 대회의실",
+			"CVD_EDU_SE_NM": "기본교육",
 			"EDU_TGT_SE_NM": "민방위대편입 1~2년차대원"
 		},
 		{
