@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { dev, version } from '$app/environment';
+	import { browser, dev, version } from '$app/environment';
 	import { page } from '$app/stores';
 	import { PUBLIC_DOMAIN } from '$env/static/public';
 	import Octocat from '$lib/Octocat.svelte';
@@ -7,12 +7,11 @@
 	import { onMount } from 'svelte';
 	import './app.css';
 	import { resolve } from '$app/paths';
+	import { showModalScript } from '$lib/show-modal';
 
 	let dialog: HTMLDialogElement;
 
 	onMount(() => {
-		if (!dev) dialog.showModal();
-
 		// When the result page is accessed directly, the corresponding anchor should be shown.
 		const anchor = document.querySelector(`[href='${$page.url.pathname}']`);
 		const details = anchor?.closest('details');
@@ -136,6 +135,9 @@
 		</a>
 	</form>
 </dialog>
+
+<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+{@html !browser && !dev ? showModalScript : ''}
 
 <style>
 	.content {
