@@ -16,14 +16,14 @@
 		list.scrollTop = 0;
 
 		const validTarget = data.schedules.some(
-			({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget
+			({ EDU_TGT_SE_NM }) => EDU_TGT_SE_NM === selectedTarget,
 		);
 
 		if (!validTarget) selectedTarget = '';
 	});
 
 	$: filteredSchedules = data.schedules.filter(({ EDU_TGT_SE_NM }) =>
-		!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget
+		!selectedTarget ? true : EDU_TGT_SE_NM === selectedTarget,
 	);
 
 	$: message = !filteredSchedules.length

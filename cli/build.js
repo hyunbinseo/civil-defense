@@ -9,7 +9,7 @@ const commands = /** @type {const} */ ([
 	'git add .',
 	`git commit -m "build: ${new Date().toISOString()}"`,
 	'git push',
-	'node --run deploy'
+	'node --run deploy',
 ]);
 
 for (const command of commands) {

@@ -21,7 +21,7 @@ module.exports = {
 			script: './cli/build.js',
 			time: true,
 			autorestart: false,
-			cron: '00 03 * * WED'
-		})
-	]
+			cron: '00 03 * * WED',
+		}),
+	],
 };

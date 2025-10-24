@@ -21,7 +21,7 @@ export const load = async ({ fetch, params: { sido, sigungu }, url: { pathname }
 			EDU_ST_TM,
 			EDU_END_TM,
 			EDU_LOCAL_ID: `${sido}-${sigungu}-${index}`,
-			DATE: new Date(`${ED_YMD}T${EDU_ST_TM}:00.000+0900`)
+			DATE: new Date(`${ED_YMD}T${EDU_ST_TM}:00.000+0900`),
 		};
 	});
 

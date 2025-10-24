@@ -6,6 +6,7 @@
 	import { generateList } from '$lib/regions';
 	import { onMount } from 'svelte';
 	import './app.css';
+	import { resolve } from '$app/paths';
 
 	let dialog: HTMLDialogElement;
 
@@ -32,12 +33,12 @@
 	const messages = [
 		...(date.getMonth() < 2
 			? [
-					`${date.getFullYear()}년도 민방위 교육 일정은 3월 경부터 정식 제공됩니다. 기다려 주시기 바랍니다.`
+					`${date.getFullYear()}년도 민방위 교육 일정은 3월 경부터 정식 제공됩니다. 기다려 주시기 바랍니다.`,
 				]
 			: []),
 		`행정안전부의 '국민 재난 안전 포털'에 등록된 전국 민방위 교육 일정을 정기적으로 불러와 제공하는 공익 목적의 개인 웹사이트입니다.`,
 		'민방위 소집 교육은 타 시⋅군⋅구에서도 이수할 수 있습니다. 신분증을 지참해 방문하시기 바랍니다.',
-		'민방위 교육 관련 세부 사항은 해당 시⋅군⋅구 담당자에게 문의하시기 바랍니다.'
+		'민방위 교육 관련 세부 사항은 해당 시⋅군⋅구 담당자에게 문의하시기 바랍니다.',
 	];
 
 	const builtAt = new Date(Number(version));
@@ -62,7 +63,7 @@
 				{$page.data.regionText || '지역을 선택해주세요.'}
 			</h2>
 			<a
-				href="/"
+				href={resolve('/')}
 				class:max-sm:block={$page.url.pathname !== '/'}
 				class="ml-2 hidden border bg-white px-2 py-1 text-xs hover:bg-gray-50">지역 변경</a
 			>
@@ -102,7 +103,7 @@
 	</div>
 </div>
 
-<!-- 
+<!--
 	tailwindcss@3.3.3 implements <dialog> padding reset in pre-flight.
 	Since a custom padding .p-6 was already set, nothing is affected.
 -->

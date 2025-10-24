@@ -1,4 +1,5 @@
 <script context="module" lang="ts">
+	// eslint-disable-next-line svelte/prefer-svelte-reactivity
 	const collapseFns = new Set<() => void>();
 
 	export const collapseAll = () => {
@@ -56,8 +57,8 @@
 					'dates',
 					[
 						`${schedule.ED_YMD.replace(/-/g, '')}T${schedule.EDU_ST_TM.replace(/:/g, '')}00`,
-						`${schedule.ED_YMD.replace(/-/g, '')}T${schedule.EDU_END_TM.replace(/:/g, '')}00`
-					].join('/')
+						`${schedule.ED_YMD.replace(/-/g, '')}T${schedule.EDU_END_TM.replace(/:/g, '')}00`,
+					].join('/'),
 				],
 				['ctz', 'Asia/Seoul'],
 				[
@@ -66,17 +67,17 @@
 						`장소: ${location}\n`,
 						`대상: ${schedule.EDU_TGT_SE_NM}`,
 						`출처: ${$page.url.origin}`,
-						`기준: ${lastModified.toLocaleString()}`
-					].join('\n')
+						`기준: ${lastModified.toLocaleString()}`,
+					].join('\n'),
 				],
-				['location', location]
+				['location', location],
 			])}
 			<div class="collapsed" transition:slide|local>
 				<div class="address">
 					{#if address}
 						<a
 							on:click|stopPropagation
-							href={encodeURI(`https://map.naver.com/v5/search/${address}`)}
+							href="https://map.naver.com/v5/search/{encodeURIComponent(address)}"
 							target="_blank"
 						>
 							{address}

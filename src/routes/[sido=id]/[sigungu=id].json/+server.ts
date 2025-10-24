@@ -6,7 +6,7 @@ import {
 	trimEducationSchedule,
 	type EducationSchedule,
 	type FullEducationSchedule,
-	type ResponseBody
+	type ResponseBody,
 } from '../[sigungu=id]';
 import type { RequestHandler } from './$types';
 import sample from './sample.json' assert { type: 'json' };
@@ -57,7 +57,7 @@ export const GET = (async ({ params, fetch }) => {
 
 	const {
 		eduShcList,
-		rtnResult: { totCnt, pageSize } // pageSize can be 0
+		rtnResult: { totCnt, pageSize }, // pageSize can be 0
 	} = (await initialResponse.json()) as ResponseBody;
 
 	if (!eduShcList || !totCnt) return createJsonResponse({ targets: [], schedules: [], regionText });

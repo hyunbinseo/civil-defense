@@ -1,8 +1,13 @@
 {
 	"useTabs": true,
 	"singleQuote": true,
-	"trailingComma": "none",
+	"quoteProps": "consistent",
+	"trailingComma": "all",
 	"printWidth": 100,
+	"endOfLine": "auto",
 	"plugins": ["prettier-plugin-svelte", "prettier-plugin-tailwindcss"],
-	"overrides": [{ "files": "*.svelte", "options": { "parser": "svelte" } }]
+	"overrides": [
+		{ "files": "*.md", "options": { "useTabs": false, "tabWidth": 2 } },
+		{ "files": "*.svelte", "options": { "parser": "svelte" } }
+	]
 }

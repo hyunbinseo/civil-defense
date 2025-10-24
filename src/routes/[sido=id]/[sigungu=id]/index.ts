@@ -2,12 +2,12 @@ const year = new Date().getFullYear();
 
 export const generateRequest = (
 	{ sigungu, sido }: { sigungu: string; sido: string },
-	pageIndex = 1
+	pageIndex = 1,
 ) =>
 	new Request('https://www.safekorea.go.kr/idsiSFK/sfk/cs/cvi/edtr/selectEduSchList2.do', {
 		headers: {
-			accept: 'application/json',
-			'content-type': 'application/json; charset=UTF-8'
+			'accept': 'application/json',
+			'content-type': 'application/json; charset=UTF-8',
 		},
 		body: JSON.stringify({
 			selectList: {
@@ -40,10 +40,10 @@ export const generateRequest = (
 				cvdEduSeCode: '',
 				edYmd: '',
 				edSno: '',
-				rdn_code: ''
-			}
+				rdn_code: '',
+			},
 		}),
-		method: 'POST'
+		method: 'POST',
 	});
 
 export type FullEducationSchedule = {
@@ -101,7 +101,7 @@ export const trimEducationSchedule = ({
 	EDU_PLC_RDN_ADDR,
 	EDU_PLC_BOTTOM,
 	CVD_EDU_SE_NM,
-	EDU_TGT_SE_NM
+	EDU_TGT_SE_NM,
 }: FullEducationSchedule) => ({
 	TEL_NO,
 	ED_YMD,
@@ -110,5 +110,5 @@ export const trimEducationSchedule = ({
 	EDU_PLC_RDN_ADDR,
 	EDU_PLC_BOTTOM,
 	CVD_EDU_SE_NM,
-	EDU_TGT_SE_NM
+	EDU_TGT_SE_NM,
 });

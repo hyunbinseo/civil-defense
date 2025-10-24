@@ -7,7 +7,7 @@ export const prerender = true;
 
 export const GET = (async () => {
 	const pathnames = Object.entries(sigunguData).flatMap(([sidoId, sigunguData]) =>
-		Object.keys(sigunguData).map((sigunguId) => `/${sidoId}/${sigunguId}`)
+		Object.keys(sigunguData).map((sigunguId) => `/${sidoId}/${sigunguId}`),
 	);
 
 	pathnames.push('/');

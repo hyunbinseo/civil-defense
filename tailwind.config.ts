@@ -5,5 +5,5 @@ export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: { extend: {} },
 	plugins: [forms],
-	future: { hoverOnlyWhenSupported: true }
+	future: { hoverOnlyWhenSupported: true },
 } satisfies Config;

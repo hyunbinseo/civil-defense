@@ -37,7 +37,7 @@ for (const [sidoId] of sidoData) {
 
 	sigunguData[sidoId] = sggArray.reduce(
 		(acc, { ORG_CD, ORG_NM }) => ({ ...acc, [ORG_CD]: ORG_NM }),
-		{}
+		{},
 	);
 }
 
